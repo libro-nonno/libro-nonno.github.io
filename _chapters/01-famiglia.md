@@ -2,7 +2,10 @@
 layout: chapter
 title: "La famiglia e l’infanzia"
 order: 1
+toc: true
 ---
+
+{:toc}
 
 Cinque fratelli, una casa piena di voci, litigi, risate e avventure.
 Graziano, nato a settembre del 1941, Flavio, ad agosto del 1943;
