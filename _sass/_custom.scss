@@ -1,0 +1,27 @@
+.chapter {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.chapter-title {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.chapter-toc {
+  background: #f6f6f6;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  font-size: 0.9em;
+}
+
+.chapter-toc ul {
+  padding-left: 1rem;
+}
+
+.chapter-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3rem;
+  font-weight: 500;
+}
