@@ -37,7 +37,8 @@ Ad oggi, mi è successo ben quattro volte.
 
 ![img](/assets/img/24.png)
 
-## Prima hole in one. 29-05-2012
+## Prima hole in one.
+29-05-2012
 
 Giocavo da due anni ed ero migliorato discretamente. Quel
 pomeriggio, a Camuzzago, con Patrizia, Gino e Mirko,
@@ -56,7 +57,8 @@ pelle. Ricevuti i complimenti, mi avviai alla buca 3, con un
 pizzico di rammarico per non essermi gustato appieno l’entrata
 della pallina. Rimaneva il gran colpo, indimenticabile.
 
-## Seconda hole in one. 19-01-2016
+## Seconda hole in one. 
+19-01-2016
 
 L’anno golfistico iniziò subito in bellezza: il 19 gennaio, dopo
 meno di quattro anni, ripetei l’hole in one, sempre a
@@ -69,7 +71,8 @@ La seguii atterrare sul green, dirigersi verso la bandiera, posta
 in salita, rotolare… “Vai! Vai!”, esclamai. La vidi scomparire. Era
 in buca! “Siiiiiiii!”.
 
-## Terza hole in one. 17-10-2017
+## Terza hole in one. 
+17-10-2017
 
 Di solito gioco di pomeriggio, ma quel giorno avevo un impegno
 e andai al golf al mattino. Mentre aspettavo che si liberasse il
@@ -78,8 +81,8 @@ chiese di giocare insieme. Il golf è bello anche da soli, ma in
 compagnia è più divertente e allora girammo insieme. Antonio
 si dimostrò persona discreta, parlava poco e non dava consigli.
 Ero tranquillo, rilassato, e il gioco ne beneficiò. Feci subito bei
-colpi. Alla buca 5, la più lunga (circa 190 metri), scelsi il legno
-3. Dopo un paio di colpi di prova tirai. Antonio si complimentò.
+colpi. Alla buca 5, la più lunga (circa 190 metri), scelsi il legno 3. 
+Dopo un paio di colpi di prova tirai. Antonio si complimentò.
 Non riuscivo a vedere la pallina, pensai si fosse fermata in un
 avvallamento. Antonio invece sosteneva che fosse in buca.
 “Impossibile”, risposi. Dopo che anch’egli ebbe tirato, ci
@@ -90,7 +93,8 @@ Pazzesco. Antonio sorrise e mi diede una pacca bonaria sulla
 spalla. A fine giro ci facemmo scattare una foto per immortalare
 l’avvenimento.
 
-## Quarta hole in one. 07-05-2018
+## Quarta hole in one. 
+07-05-2018
 
 Il cielo era nuvoloso e, per una giornata di maggio, non era un
 gran che. Ma se fai hole in one, la giornata diventa stupenda.

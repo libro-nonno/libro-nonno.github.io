@@ -318,4 +318,3 @@ gratitudine. Ai miei commilitoni, quando mi dicevano che ero
 stato fortunato, rispondevo sorridendo che ero stato
 raccomandato dalla mamma!
 
-![img](/assets/img/02.png)
