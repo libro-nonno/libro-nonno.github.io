@@ -12,6 +12,11 @@ author:
 # Header Option
 # header: large
 
+collections:
+  chapters:
+    output: true
+    permalink: /chapters/:name/
+
 sass:
     style: compressed
 
