@@ -4,7 +4,7 @@ title: "La scuola elementare"
 order: 2
 ---
 
-* TOC
+* In questo capitolo
 {:toc}
 
 Le elementari furono forse il periodo più bello del mio percorso
