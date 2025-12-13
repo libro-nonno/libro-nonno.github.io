@@ -2,9 +2,9 @@
 layout: chapter
 title: "La famiglia e l’infanzia"
 order: 1
-toc: true
 ---
 
+* TOC
 {:toc}
 
 Cinque fratelli, una casa piena di voci, litigi, risate e avventure.
