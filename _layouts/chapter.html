@@ -8,22 +8,12 @@ layout: default
     <h1 class="chapter-title">{{ page.title }}</h1>
   </header>
 
-  {% if page.toc != false %}
-  <nav class="chapter-toc">
-    <strong>In questo capitolo</strong>
-    <ul>
-      {% for heading in page.content | split: '<h2' %}
-        {% if forloop.index > 1 %}
-          {% assign title = heading | split: '</h2>' | first %}
-          {% assign clean = title | replace: '>', '' %}
-          <li>
-            <a href="#{{ clean | slugify }}">{{ clean }}</a>
-          </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-  </nav>
-  {% endif %}
+{% if page.toc != false %}
+<nav class="chapter-toc">
+  <strong>In this chapter</strong>
+  {% toc %}
+</nav>
+{% endif %}
 
   <section class="chapter-content">
     {{ content }}
