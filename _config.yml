@@ -1,11 +1,13 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS
+title: Ricordi del Nonno
+description: Una vita ordinaria in tempi straordinari
 
-url: https://long-haul.netlify.app
+url: https://libro-nonno.github.io
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
 baseurl: # Ex: /project-page
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
+author:
+  name: "Pierluigi Melzani"
 
 # Header Option
 # header: large
@@ -16,26 +18,4 @@ sass:
 markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate]
-paginate: 5
-
-navigation:
-    - title: Home
-      url: /index.html
-    - title: About
-      url: /about
-    - title: Contact
-      url: /contact
-
-social:
-    github: brianmaierjr
-    twitter: brianmaierjr
-    facebook: brianmaierjr
-    email: brimaidesigns@gmail.com
-    linkedin: brianmaierjr
-    youtube: RickAstleyYT
-    tumblr: i-am-a-fish
-
-google_analytics: "UA-58263416-1"
-
-disqus:
-    shortname: brianmaierjr
+paginate: 
