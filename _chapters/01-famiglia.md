@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: "01 – La famiglia e l’infanzia"
+title: "La famiglia e l’infanzia"
 order: 1
 ---
 
