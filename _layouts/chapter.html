@@ -8,13 +8,6 @@ layout: default
     <h1 class="chapter-title">{{ page.title }}</h1>
   </header>
 
-{% if page.toc != false %}
-<nav class="chapter-toc">
-  <strong>In this chapter</strong>
-  {% toc %}
-</nav>
-{% endif %}
-
   <section class="chapter-content">
     {{ content }}
   </section>
