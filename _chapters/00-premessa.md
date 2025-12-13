@@ -2,6 +2,7 @@
 layout: chapter
 title: "Premessa"
 order: 0
+toc: false
 ---
 
 Alla fine, il desiderio di mettere nero su bianco una parte dei miei
