@@ -129,7 +129,7 @@ convinto di venire a pescare con noi. La sua risposta fu molto
 eloquente: “Andate a farvi benedire!”. Si era reso conto di non
 aver sognato ma di essere stato vittima di uno scherzo.
 
-## La scuola media
+## La scuola media
 
 Dal 1962, grazie alla riforma scolastica, anche nel nostro paese
 potemmo finalmente frequentare la scuola media unificata.
@@ -147,7 +147,7 @@ il laboratorio di falegnameria.
 Finalmente le medie ebbero inizio e di quelle riporterò qualche
 episodio.
 
-## Educazione fisica
+## Educazione fisica
 
 Ancora oggi, dopo più di mezzo secolo, non mi spiego come ci
 fosse stata assegnata l’insegnante di educazione fisica.
