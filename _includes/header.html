@@ -1,53 +1,15 @@
-<div class="header {% if site.header == 'large' %}header--large{% endif %}">
-  <div class="container">
-
-    <h1 class="logo">
-      <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
-    </h1>
-
-    <nav class="nav-collapse">
-      <ul class="noList">
-        {%- for link in site.navigation -%}
-          {%- assign current = nil -%}
-          {%- if page.url contains link.url
-            or forloop.first and page.url == '/'
-            or page.url == 'index.html' -%}
-            {%- assign current = 'current' -%}
-          {%- endif -%}
-
-          <li class="element
-            {%- if forloop.first -%}first{%- endif -%}
-            {{ current }}
-            {%- if forloop.last -%}last{%- endif -%}">
-            <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
-          </li>
-        {%- endfor -%}
-        <li>Una vita ordinaria in tempi straordinari</li>
-      </ul>
-    </nav>
-
-    <!-- LANGUAGE SWITCHER -->
-    <nav class="lang-switch">
-      {% if page.lang == "it" %}
-        <span class="active">🇮🇹</span>
-      {% else %}
-        <a href="/it/">🇮🇹</a>
-      {% endif %}
-
-      {% if page.lang == "en" %}
-        <span class="active">🇬🇧</span>
-      {% else %}
-        {% assign siblings = site.pages
-          | where:"lang","en"
-          | where_exp:"p","p.order == page.order" %}
-
-        {% if siblings.size > 0 %}
-          <a href="{{ siblings[0].url }}">🇬🇧</a>
-        {% else %}
-          <a href="/en/">🇬🇧</a>
-        {% endif %}
-      {% endif %}
-    </nav>
-
-  </div>
-</div>
+ <div class="header {% if site.header == 'large' %}header--large{% endif %}">
+     <div class="container">
+         <h1 class="logo"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+         <nav class="nav-collapse">
+             <ul class="noList">
+                 {%- for link in site.navigation -%}{%- assign current = nil -%}{%- if page.url contains link.url or forloop.first and page.url == '/' or page.url == 'index.html' -%}{%- assign current = 'current' -%}{%- endif -%}
+                 <li class="element {%- if forloop.first -%}first{%- endif -%} {{ current }} {%- if forloop.last -%}last{%- endif -%}">
+                     <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+                 </li>
+                 {%- endfor -%}
+                 <li>Una vita ordinaria in tempi straordinari</li>
+             </ul>
+         </nav>
+     </div>
+ </div><!-- end .header -->

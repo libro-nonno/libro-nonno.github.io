@@ -1,13 +1,12 @@
 ---
 layout: chapter
-lang: it
 title: "Tra sacro e profano"
 order: 3
 ---
 
-* In questo capitolo
+<!-- * In questo capitolo
 {:toc}
-
+ -->
 ## La professoressa Ginevra
 
 Un personaggio, un tipo molto originale. Era una signora che

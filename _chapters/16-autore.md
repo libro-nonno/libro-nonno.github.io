@@ -1,13 +1,12 @@
 ---
 layout: chapter
-lang: it
 title: "Autore"
 order: 16
 ---
 
-* In questo capitolo
+<!-- * In questo capitolo
 {:toc}
-
+ -->
 Con questo capitolo termino il mio libro, ma non è di questo che
 voglio parlare. È un fatto troppo recente per rientrare tra i
 ricordi. Magari tra cinque, dieci…venti anni lo vivrò come tale,

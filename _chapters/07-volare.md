@@ -1,13 +1,12 @@
 ---
 layout: chapter
-lang: it
 title: "Volare"
 order: 7
 ---
 
-* In questo capitolo
+<!-- * In questo capitolo
 {:toc}
-
+ -->
 Paura di volare? Direi di no. Ho alle spalle molti voli e parecchie
 miglia e, quando salgo su un aereo, l’unica mia preoccupazione
 è di trovare facilmente posto per il bagaglio in cabina. Ma

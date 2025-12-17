@@ -1,13 +1,12 @@
 ---
 layout: chapter
-lang: it
 title: "Alla scuola media superiore"
 order: 5
 ---
 
-* In questo capitolo
+<!-- * In questo capitolo
 {:toc}
-
+ -->
 Premetto che ho avuto qualche dubbio sull’inserimento di
 questo capitolo, perché gli episodi che racconto si allontanano
 un po’ dallo spirito che mi ha spinto a scrivere questo libro:

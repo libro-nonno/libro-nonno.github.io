@@ -1,13 +1,12 @@
 ---
 layout: chapter
-lang: it
 title: "In ufficio"
 order: 11
 ---
 
-* In questo capitolo
+<!-- * In questo capitolo
 {:toc}
-
+ -->
 ## Napoletani, esuberanti.
 
 Nell’ufficio in cui lavoravo, grazie alle persone che vi erano,
