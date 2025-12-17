@@ -1,5 +1,6 @@
 ---
 layout: chapter
+lang: it
 title: "Cantautore"
 order: 15
 ---

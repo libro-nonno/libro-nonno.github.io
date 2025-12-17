@@ -1,5 +1,6 @@
 ---
 layout: chapter
+lang: it
 title: "Le chiromanti"
 order: 10
 ---

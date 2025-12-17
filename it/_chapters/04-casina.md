@@ -1,5 +1,6 @@
 ---
 layout: chapter
+lang: it
 title: "La casina oltre il fiume"
 order: 4
 ---

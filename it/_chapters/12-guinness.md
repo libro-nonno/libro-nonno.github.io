@@ -1,5 +1,6 @@
 ---
 layout: chapter
+lang: it
 title: "Nel Guinness of world records"
 order: 12
 ---

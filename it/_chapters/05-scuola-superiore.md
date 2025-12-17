@@ -1,5 +1,6 @@
 ---
 layout: chapter
+lang: it
 title: "Alla scuola media superiore"
 order: 5
 ---

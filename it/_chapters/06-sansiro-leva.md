@@ -1,5 +1,6 @@
 ---
 layout: chapter
+lang: it
 title: "Tra San Siro e la leva"
 order: 6
 ---

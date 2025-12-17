@@ -2,6 +2,17 @@
 layout: default
 ---
 
+{% assign chapters = site.pages
+  | where:"lang", page.lang
+  | where_exp:"p","p.path contains '_chapters'"
+  | sort:"order" %}
+
+{% for c in chapters %}
+  {% if c.url == page.url %}
+    {% assign idx = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
 <article class="chapter">
 
   <header class="chapter-header">
@@ -13,13 +24,18 @@ layout: default
   </section>
 
   <footer class="chapter-nav">
-    {% if page.previous %}
-      <a class="prev" href="{{ page.previous.url }}">← {{ page.previous.title }}</a>
+    {% if idx > 0 %}
+      <a class="prev" href="{{ chapters[idx | minus:1].url }}">
+        ← {{ chapters[idx | minus:1].title }}
+      </a>
     {% endif %}
 
-    {% if page.next %}
-      <a class="next" href="{{ page.next.url }}">{{ page.next.title }} →</a>
+    {% if idx < chapters.size | minus:1 %}
+      <a class="next" href="{{ chapters[idx | plus:1].url }}">
+        {{ chapters[idx | plus:1].title }} →
+      </a>
     {% endif %}
   </footer>
 
 </article>
+

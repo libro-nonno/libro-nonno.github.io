@@ -34,4 +34,24 @@
 
 @import "custom";
 
+.header .container {
+  display: flex;
+  align-items: center;
+}
+
+.lang-switch {
+  margin-left: auto;
+  display: flex;
+  gap: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.lang-switch a {
+  text-decoration: none;
+}
+
+.lang-switch .active {
+  opacity: 0.4;
+}
+
 // If IE support is needed you can add them here or create another stylesheet for specific IE fixes

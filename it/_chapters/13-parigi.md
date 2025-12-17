@@ -1,5 +1,6 @@
 ---
 layout: chapter
+lang: it
 title: "A Parigi"
 order: 13
 ---

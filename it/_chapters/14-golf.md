@@ -1,5 +1,6 @@
 ---
 layout: chapter
+lang: it
 title: "Il golf"
 order: 14
 ---

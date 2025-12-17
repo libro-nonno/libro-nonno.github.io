@@ -1,5 +1,6 @@
 ---
 layout: chapter
+lang: it
 title: "Ricordi tra Vimercate e Bagolino"
 order: 9
 ---

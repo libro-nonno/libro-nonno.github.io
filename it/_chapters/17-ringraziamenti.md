@@ -1,5 +1,6 @@
 ---
 layout: chapter
+lang: it
 title: "Ringraziamenti"
 order: 17
 ---

@@ -1,5 +1,6 @@
 ---
 layout: chapter
+lang: it
 title: "La famiglia e l’infanzia"
 order: 1
 ---

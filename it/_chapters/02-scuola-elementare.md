@@ -1,5 +1,6 @@
 ---
 layout: chapter
+lang: it
 title: "La scuola elementare"
 order: 2
 ---

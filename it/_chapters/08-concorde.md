@@ -1,5 +1,6 @@
 ---
 layout: chapter
+lang: it
 title: "Il Concorde"
 order: 8
 ---

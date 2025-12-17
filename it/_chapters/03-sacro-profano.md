@@ -1,5 +1,6 @@
 ---
 layout: chapter
+lang: it
 title: "Tra sacro e profano"
 order: 3
 ---
