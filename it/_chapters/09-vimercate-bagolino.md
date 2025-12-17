@@ -5,9 +5,9 @@ title: "Ricordi tra Vimercate e Bagolino"
 order: 9
 ---
 
-<!-- * In questo capitolo
+* In questo capitolo
 {:toc}
- -->
+
 ## La settimana bianca
 
 Negli anni ’70, dalle nostre parti, la neve non mancava mai. Io e

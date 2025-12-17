@@ -5,9 +5,9 @@ title: "Tra San Siro e la leva"
 order: 6
 ---
 
-<!-- * In questo capitolo
+* In questo capitolo
 {:toc}
- -->
+
 ## La prima volta allo stadio di San Siro. (Campionato 1964/1965)
 
 Da ragazzo ero - e lo sono tuttora - appassionato di calcio. La

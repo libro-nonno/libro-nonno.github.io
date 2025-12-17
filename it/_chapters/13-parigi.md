@@ -5,9 +5,9 @@ title: "A Parigi"
 order: 13
 ---
 
-<!-- * In questo capitolo
+* In questo capitolo
 {:toc}
- -->
+
 Parigi è indubbiamente una delle città più belle e attraenti al
 mondo grazie alla sua storia, arte, cultura e alla sua magica
 atmosfera romantica. Merita di essere visitata, sia che ci si vada

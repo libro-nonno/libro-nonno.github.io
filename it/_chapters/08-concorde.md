@@ -5,9 +5,9 @@ title: "Il Concorde"
 order: 8
 ---
 
-<!-- * In questo capitolo
+* In questo capitolo
 {:toc}
- -->
+
 Il Concorde, aereo di linea supersonico, è stato un’icona per la
 sua velocità e un simbolo di innovazione e prestigio. Frutto di
 una collaborazione tra Francia e Gran Bretagna in un’epoca di

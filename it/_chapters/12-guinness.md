@@ -5,9 +5,9 @@ title: "Nel Guinness of world records"
 order: 12
 ---
 
-<!-- * In questo capitolo
+* In questo capitolo
 {:toc}
- -->
+
 Una di quelle cose che nemmeno lontanamente pensi possa
 accadere e invece eccomi qui a raccontarla. Nel 2002 lavoravo
 per Cisco Systems, azienda fondata nel 1984 a San Francisco,
