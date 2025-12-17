@@ -43,7 +43,7 @@ io!”. Maurizio fu fermato in tempo e la cosa finì lì, tra le nostre
 risate di ilarità. Eh si, la percezione di un fatto può cambiare a
 seconda che…
 
-## Il comitato dell’ora esatta
+## Il comitato dell’ora esatta
 
 Da qualche tempo erano in commercio i primi orologi al
 quarzo. Ezio fu il primo nel nostro ufficio ad acquistarne uno
