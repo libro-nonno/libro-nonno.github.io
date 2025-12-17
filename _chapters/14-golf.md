@@ -71,7 +71,7 @@ La seguii atterrare sul green, dirigersi verso la bandiera, posta
 in salita, rotolare… “Vai! Vai!”, esclamai. La vidi scomparire. Era
 in buca! “Siiiiiiii!”.
 
-## Terza hole in one. 
+## Terza hole in one. 
 17-10-2017
 
 Di solito gioco di pomeriggio, ma quel giorno avevo un impegno
@@ -93,7 +93,7 @@ Pazzesco. Antonio sorrise e mi diede una pacca bonaria sulla
 spalla. A fine giro ci facemmo scattare una foto per immortalare
 l’avvenimento.
 
-## Quarta hole in one. 
+## Quarta hole in one. 
 07-05-2018
 
 Il cielo era nuvoloso e, per una giornata di maggio, non era un
