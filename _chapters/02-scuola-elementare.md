@@ -4,9 +4,9 @@ title: "La scuola elementare"
 order: 2
 ---
 
-* In questo capitolo
+<!-- * In questo capitolo
 {:toc}
-
+ -->
 Le elementari furono forse il periodo più bello del mio percorso
 scolastico. Andavo volentieri a scuola anche perché c’era
 spesso da divertirsi. Il maestro dei primi due anni era il sindaco

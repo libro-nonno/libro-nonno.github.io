@@ -4,9 +4,9 @@ title: "La famiglia e l’infanzia"
 order: 1
 ---
 
-* In questo capitolo
+<!-- * In questo capitolo
 {:toc}
-
+ -->
 Cinque fratelli, una casa piena di voci, litigi, risate e avventure.
 Graziano, nato a settembre del 1941, Flavio, ad agosto del
 1943; Annamaria, il primo giorno dell’anno 1947; io, Pierluigi,

@@ -4,9 +4,9 @@ title: "Ringraziamenti"
 order: 17
 ---
 
-* In questo capitolo
+<!-- * In questo capitolo
 {:toc}
-
+ -->
 Il mio ringraziamento più sentito va a tutti i protagonisti citati
 in questo libro, che – direttamente o indirettamente,
 volontariamente o no – hanno avuto un ruolo negli episodi

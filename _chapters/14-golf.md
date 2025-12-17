@@ -4,9 +4,9 @@ title: "Il golf"
 order: 14
 ---
 
-* In questo capitolo
+<!-- * In questo capitolo
 {:toc}
-
+ -->
 Era impensabile che io potessi dedicarmi al golf e che ne fossi
 persino affascinato. Per anni non sapevo nemmeno che
 esistesse e, quando cominciai a sentirne parlare, lo consideravo

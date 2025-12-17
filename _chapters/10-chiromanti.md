@@ -4,9 +4,9 @@ title: "Le chiromanti"
 order: 10
 ---
 
-* In questo capitolo
+<!-- * In questo capitolo
 {:toc}
-
+ -->
 Non sono un appassionato di cartomanzia, di chiromanzia e
 oroscopi. Certo, come molti, capita che legga o ascolti
 l’oroscopo ma niente di più. Il mio criterio è semplice: se le

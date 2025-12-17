@@ -4,9 +4,9 @@ title: "La casina oltre il fiume"
 order: 4
 ---
 
-* In questo capitolo
+<!-- * In questo capitolo
 {:toc}
-
+ -->
 All’età di circa tredici anni, insieme ad un gruppo di amici,
 decidemmo di costruire una piccola capanna, o come la
 chiamavamo noi, la “casina”, lungo la sponda del fiume Caffaro.
