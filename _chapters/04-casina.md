@@ -60,7 +60,7 @@ pronunciò durante una delle sue prediche, dipingendo la casina
 come un luogo di peccato e i suoi frequentatori come peccatori,
 senza mai aver parlato direttamente con noi.
 
-## La teleferica
+## La teleferica
 
 L’attraversamento del fiume rappresentava un grosso ostacolo.
 Il luogo dove doveva sorgere la casina era raggiungibile a piedi
@@ -93,7 +93,7 @@ materiali ed oggetti vari.
 
 ![img](/assets/img/06.png)
 
-## L’ispezione dei carabinieri
+## L’ispezione dei carabinieri
 
 L’esistenza della casina era ormai nota a tutti e tutti avevano
 un’idea su di essa, chi a favore, chi contro, al punto che anche il
