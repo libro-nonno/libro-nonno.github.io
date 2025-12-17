@@ -12,7 +12,7 @@ miglia e, quando salgo su un aereo, l’unica mia preoccupazione
 è di trovare facilmente posto per il bagaglio in cabina. Ma
 volare può significare molte cose diverse. Eccone due esempi.
 
-## Il volo con ultraleggero
+## Il volo con ultraleggero
 
 Mia moglie Piera scoprì casualmente, forse alla macchina del
 caffè, durante una pausa di lavoro, che un collega che lavorava
@@ -56,7 +56,7 @@ portato anche i bambini, i suoi nipotini, su quell’aeroplanino.
 
 ![img](/assets/img/14.png)
 
-## Il volo acrobatico
+## Il volo acrobatico
 
 Nel 2006 un noto fornitore di strumentazione di misura
 organizzò un evento a Nizza per la presentazione di nuovi
