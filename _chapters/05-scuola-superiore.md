@@ -116,7 +116,9 @@ lavagna per essere interrogato e fece sostanzialmente scena
 muta. Il prof. scrisse il voto sul registro e, rivolto a Marino,
 disse: ti ho dato due, 1 all’ andata (verso la lavagna) e 1 al
 ritorno (verso il banco). Qualcuno di noi rise, Marino no!
-Esame orale di maturità
+
+## Esame orale di maturità
+
 La data del mio esame orale venne fissata per il 21 luglio 1969.
 Avevo la sensazione di aver affrontato bene le prove scritte,
 quindi ero abbastanza tranquillo, per quanto si possa esserlo la
