@@ -44,7 +44,7 @@ conto ogni possibile rischio. Quel senso di angoscia mi
 accompagnò per tutto il viaggio. Con quell’incidente finì la
 storia del Concorde.
 
-## Al museo di Duxford
+## Al museo di Duxford
 
 L’ultimo ricordo risale al 2015, quando visitai l’Imperial War
 Museum di Duxford, vicino a Cambridge, in Gran Bretagna. Un
