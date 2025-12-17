@@ -9,17 +9,16 @@ permalink: /it/chapters/
 
   <h1>{{ page.title }}</h1>
 
-  <ul class="chapter-list">
-    {% assign chapters = site.pages
-      | where:"lang","it"
-      | where_exp:"p","p.path contains '_chapters'"
-      | sort:"order" %}
+<ul class="chapter-list">
+  {% assign chapters = site.chapters
+    | where:"lang","it"
+    | sort:"order" %}
 
-    {% for c in chapters %}
-      <li>
-        <a href="{{ c.url }}">{{ c.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
+  {% for c in chapters %}
+    <li>
+      <a href="{{ c.url }}">{{ c.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 </article>
