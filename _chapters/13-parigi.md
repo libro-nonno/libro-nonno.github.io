@@ -52,7 +52,7 @@ nevicava fitto. A Parigi, avrei pure fatto volentieri a meno della
 neve. Seppi che, a Bagolino, il tempo era splendido, ideale per
 sciare...
 
-## Il cappotto
+## Il cappotto
 
 Mi capitava con una certa frequenza di recarmi a Parigi per
 trasferte di lavoro. A volte andavo e tornavo nella stessa
