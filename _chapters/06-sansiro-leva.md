@@ -89,7 +89,7 @@ te.
 
 ![img](/assets/img/12.png)
 
-## Incidente in vespa
+## Incidente in vespa
 
 Io e il mio compagno Giuseppe frequentavamo la IV superiore.
 Era un giovedì di maggio, l’unico giorno di scuola con il
@@ -202,7 +202,7 @@ estati speciali.
 
 ![img](/assets/img/13.png)
 
-## Al cinema
+## Al cinema
 
 In paese non c’erano molte possibilità e il cinema
 rappresentava una delle poche occasioni di svago e di
