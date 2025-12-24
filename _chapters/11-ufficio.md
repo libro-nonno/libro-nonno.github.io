@@ -178,8 +178,7 @@ documenti storici di allora:
       line-height:1.6;
       font-size:0.8rem;
     "
-  >
-Nonostante i tuoni e i lampi, si è giocato su entrambi i campi.
+  >Nonostante i tuoni e i lampi, si è giocato su entrambi i campi.
 Delle due partite in atto, parleremo di una sola,
 cioè di quella col Gerola* ;
 La contesa è singolare e la vogliamo raccontare.
@@ -199,7 +198,6 @@ Gli avversari esterrefatti se la ridon come matti
 e si sa cos’hanno in mente: passiamo il turno, finalmente!
 Cadon dal cielo alcune gocce e i nostri eroi vanno alle docce.
   </blockquote>
-
 </section>
 
 * Fornitore nda
@@ -226,8 +224,7 @@ Cadon dal cielo alcune gocce e i nostri eroi vanno alle docce.
       line-height:1.6;
       font-size:0.8rem;
     "
-  >
-Il poeta mai non mente,
+  >Il poeta mai non mente,
 Tutto è vero e divertente.
 La vicenda dell’incontro
 si è risolta in uno scontro
@@ -240,7 +237,6 @@ pei fondelli il proprio capo?
 Tutto ciò, da mane a sera,
 può costargli la carriera?
   </blockquote>
-
 </section>
 
 A questa sottile minaccia del direttore risposi con un’altra rima
