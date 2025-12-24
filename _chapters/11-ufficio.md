@@ -154,10 +154,31 @@ Si arrivò così all’incontro del capo, del direttore e non poteva
 certo mancare un mio commento. Ecco il racconto, ripreso dai
 documenti storici di allora:
 
-6° Torneo di Tennis News
--11 maggio 1988-
-La partita del capo
-“Nonostante i tuoni e i lampi, si è giocato su entrambi i campi.
+<section style="max-width:700px; margin:3rem auto; font-family:Georgia, 'Times New Roman', serif; color:#222;">
+
+  <h3 style="text-align:center; margin-bottom:0.2rem;">
+    6° Torneo di Tennis News
+  </h3>
+
+  <h3 style="text-align:center; font-weight:normal; margin:0;">
+    - 11 maggio 1988 -
+  </h3>
+
+  <h3 style="text-align:center; font-weight:normal; margin:0;">
+    La partita del capo
+  </h3>
+
+  <blockquote
+    style="
+      margin-top:2rem;
+      padding-left:1.5rem;
+      border-left:3px solid #ccc;
+      white-space:pre-line;
+      font-style:italic;
+      line-height:1.6;
+    "
+  >
+Nonostante i tuoni e i lampi, si è giocato su entrambi i campi.
 Delle due partite in atto, parleremo di una sola,
 cioè di quella col Gerola* ;
 La contesa è singolare e la vogliamo raccontare.
@@ -176,13 +197,34 @@ Dopo un po’ va anche a terra, proprio come avviene in guerra.
 Gli avversari esterrefatti se la ridon come matti
 e si sa cos’hanno in mente: passiamo il turno, finalmente!
 Cadon dal cielo alcune gocce e i nostri eroi vanno alle docce.
+  </blockquote>
+
+</section>
 
 * Fornitore nda
 
 ![img](/assets/img/21.png)
 
-Poesia al Poeta “Atto secondo”
-(Ovvero la risposta del capo)
+<section style="max-width:700px; margin:3rem auto; font-family:Georgia, 'Times New Roman', serif; color:#222;">
+
+  <h3 style="text-align:center; margin-bottom:0.2rem;">
+    Poesia al Poeta “Atto secondo”
+  </h3>
+
+  <h3 style="text-align:center; font-weight:normal; margin:0;">
+    (Ovvero la risposta del capo)
+  </h3>
+
+  <blockquote
+    style="
+      margin-top:2rem;
+      padding-left:1.5rem;
+      border-left:3px solid #ccc;
+      white-space:pre-line;
+      font-style:italic;
+      line-height:1.6;
+    "
+  >
 Il poeta mai non mente,
 Tutto è vero e divertente.
 La vicenda dell’incontro
@@ -195,10 +237,24 @@ per aver un po’ tirato
 pei fondelli il proprio capo?
 Tutto ciò, da mane a sera,
 può costargli la carriera?
+  </blockquote>
+
+</section>
+
 A questa sottile minaccia del direttore risposi con un’altra rima
 di cui riporto solo i versi iniziali:
 
-“Anche quest’oggi non è sereno e
+<section style="max-width:700px; margin:3rem auto; font-family:Georgia, 'Times New Roman', serif; color:#222;">
+  <blockquote
+    style="
+      margin-top:2rem;
+      padding-left:1.5rem;
+      border-left:3px solid #ccc;
+      white-space:pre-line;
+      font-style:italic;
+      line-height:1.6;
+    "
+  >“Anche quest’oggi non è sereno e
 e anche stavolta commenteremo.
 Si, perché l’arte ha da seguir le sue tracce,
 anche in presenza di velate minacce!...”
@@ -208,3 +264,6 @@ Va detto che la mia carriera non subì contraccolpi nonostante
 le rime simpaticamente impertinenti e nonostante la vittoria
 del torneo, proprio contro il capo che seppe incassare il tutto
 con grande sportività.
+  </blockquote>
+
+</section>
