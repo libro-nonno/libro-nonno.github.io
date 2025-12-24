@@ -176,7 +176,7 @@ documenti storici di allora:
       white-space:pre-line;
       font-style:italic;
       line-height:1.6;
-      font-size:0.8rem;
+      font-size:1rem;
     "
   >Nonostante i tuoni e i lampi, si è giocato su entrambi i campi.
 Delle due partite in atto, parleremo di una sola,
@@ -222,7 +222,7 @@ Cadon dal cielo alcune gocce e i nostri eroi vanno alle docce.
       white-space:pre-line;
       font-style:italic;
       line-height:1.6;
-      font-size:0.8rem;
+      font-size:1rem;
     "
   >Il poeta mai non mente,
 Tutto è vero e divertente.
@@ -251,7 +251,7 @@ di cui riporto solo i versi iniziali:
       white-space:pre-line;
       font-style:italic;
       line-height:1.6;
-      font-size:0.8rem;
+      font-size:1rem;
     "
   >“Anche quest’oggi non è sereno e
 e anche stavolta commenteremo.
