@@ -262,7 +262,7 @@ e gli chiesi: “Mi scusi, padre, mi potrebbe indicare come
 raggiungere l’aula magna?”. Lui sorrise divertito e con
 gentilezza mi indicò la strada. Mi resi conto un po’ in ritardo
 che, sebbene mi trovassi all’università Cattolica, quell’uomo
-non era un religioso bensì un docente.
+non era un religioso, bensì un docente.
 
 Finalmente, raggiunsi l’aula e riuscii ad assistere alla
 discussione della tesi di Graziano davanti a quei professori
