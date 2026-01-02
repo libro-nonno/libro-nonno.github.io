@@ -11,7 +11,7 @@ order: 11
 
 Nell’ufficio in cui lavoravo, grazie alle persone che vi erano,
 tutte giovani, si era creato un ambiente sereno e piacevole. Tra
-noi c’era affiatamento: Ciascuno svolgeva il proprio lavoro con
+noi c’era affiatamento: ciascuno svolgeva il proprio lavoro con
 impegno ma trovava anche il tempo di scherzare, di scambiare
 battute e consigli. Un giorno Ezio, senza un preciso motivo, salì
 in piedi su una scrivania situata al centro dell’ufficio open
