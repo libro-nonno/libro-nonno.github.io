@@ -11,7 +11,7 @@ order: 6
 
 Da ragazzo ero - e lo sono tuttora - appassionato di calcio. La
 mia squadra del cuore è il Milan. Chissà cosa avrei dato per
-assistere ad una partita a San Siro ma era una cosa
+assistere a una partita a San Siro, ma era una cosa
 irrealizzabile a quell’età, in quel periodo. Io, insieme a tutti gli
 altri compagni che avevano deciso di proseguire gli studi, ci
 eravamo trasferiti a Brescia per frequentare la scuola media
