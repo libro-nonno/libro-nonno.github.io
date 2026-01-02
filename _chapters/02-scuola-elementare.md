@@ -25,9 +25,9 @@ non sempre si riesce a trattenere. Gianni cominciò ad agitarsi.
 Lo si sentiva brontolare e dire qualcosa a Giuseppe, il
 compagno del banco davanti al suo. I due gesticolavano fino a
 che il maestro se ne accorse e li richiamò. “Che succede?”,
-chiese. Gianni si alzò in piedi e, tappandosi il naso rispose:
+chiese. Gianni si alzò in piedi e, tappandosi il naso, rispose:
 “Giuseppe continua a fare le puzze ed io non ce la faccio a
-resistere. L’insegnante si avvicinò ai due e convenì che Gianni
+resistere. L’insegnante si avvicinò ai due e convenne che Gianni
 non avesse tutti i torti a lamentarsi. “Niente di grave”, disse.
 “Risolviamo il problema”.
 
@@ -125,7 +125,7 @@ incidesse più di tanto sul nostro rendimento scolastico.
 
 Matilde era una ragazza molto carina e il fatto che io recitassi
 con lei suscitò un po’ d’invidia nei miei compagni di classe. Non
-ricordo bene la trama ma la si può facilmente immaginare: un
+ricordo bene la trama, ma la si può facilmente immaginare: un
 principe, la principessa, un luogo incantato popolato da gnomi
 e così via; un bel finale e… vissero felici e contenti. La storia era
 piuttosto lunga e imparare la parte da recitare fu impegnativo.
