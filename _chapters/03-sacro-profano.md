@@ -26,7 +26,7 @@ avevo undici anni, i miei genitori si trovarono nella necessità di
 dover cambiare casa e mio padre si rivolse alla professoressa
 visto che la sua famiglia possedeva una casa, in centro al paese,
 sfitta da molti anni. La professoressa Ginevra si attivò subito
-per contattare i suoi fratelli ma fece subito presente che non
+per contattare i suoi fratelli, ma fece subito presente che non
 sarebbe stata impresa facile convincerli ad affittare quella casa
 perché avevano in mente altri progetti. I fratelli vivevano a
 Milano e i tempi per i contatti furono inevitabilmente lunghi
@@ -58,7 +58,7 @@ vecchia abitazione e ci eravamo trasferiti in una casa in centro
 al paese. Una casa molto bella, dalle stanze grandi e spaziose.
 Disposta su due piani, aveva anche un ampio solaio sottotetto
 dove veniva accatastata la legna per l’inverno e che serviva
-inoltre per il deposito di vecchi mobili, magari sgangherati ma,
+inoltre per il deposito di vecchi mobili, magari sgangherati, ma,
 chissà mai, potevano sempre venir buoni. Il luogo ideale dove,
 nella mia fantasia di ragazzino, potevano nascondersi
 personaggi inquietanti e spaventosi dei quali avere paura.
@@ -189,14 +189,14 @@ regolarmente.
 
 Il professor Tonoli era il nostro professore di matematica. Uno
 spilungone magro, magro. Bravo ad insegnare la sua materia.
-C’era empatia tra noi studenti e il prof. Che però sapeva anche
+C’era empatia tra noi studenti e il prof. che però sapeva anche
 essere severo e farsi rispettare. Un bel giorno, l’ultima ora
 prima dell’intervallo per il pranzo, ci comportammo in modo
 non proprio tranquillo. Era primavera, si avvicinava la fine
 dell’anno scolastico, eravamo tutti stanchi e faticavamo a
 mantenere la concentrazione.
 
-Il prof. Dopo vari richiami si spazientì e, nonostante il suono
+Il prof. dopo vari richiami si spazientì e, nonostante il suono
 della campana, decise di trattenerci in classe oltre l’orario.
 “Anzi”, disse, “Non dovrete muovervi finché non ve lo dirò io” e
 si diresse verso la segreteria per consegnare il registro di
