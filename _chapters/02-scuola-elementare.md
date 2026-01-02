@@ -134,7 +134,7 @@ Alla fine, lo spettacolo andò in scena ed ebbe un grande
 successo. Il teatro fece il tutto esaurito e, a gran richiesta di chi
 non aveva potuto assistere alla serata, la recita fu replicata la
 settimana seguente. Di nuovo “sold-out”. Ricordo che avevo
-febbre e un gran raffreddore ma, si sa, gli attori non possono
+febbre e un gran raffreddore, ma, si sa, gli attori non possono
 deludere il loro pubblico.
 
 ![img](/assets/img/02.png)
