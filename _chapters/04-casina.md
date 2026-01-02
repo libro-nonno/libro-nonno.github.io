@@ -207,7 +207,7 @@ di rivederci visto che le occasioni di incontrarci sono diventate
 ormai sporadiche. Parlando del più e del meno siamo finiti sul
 discorso della “casina” e, in particolare, delle voci che
 correvano in paese su “quelli della casina”.
-Giorgio non fece mai parte del gruppo ma mi disse di ricordarsi
+Giorgio non fece mai parte del gruppo, ma mi disse di ricordarsi
 benissimo di quel periodo e che l’argomento, in paese, era sulla
 bocca di tutti. Aggiunse anche di ricordare perfettamente come
 la gente parlasse di “quelli della casina” che avevano
