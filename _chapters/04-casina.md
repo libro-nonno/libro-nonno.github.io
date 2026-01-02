@@ -117,7 +117,7 @@ diffuse velocemente in paese e, come spesso accade, si
 formarono due diverse fazioni: chi pensava che fosse avvenuta
 perché, come avevano sempre pensato, c’era qualcosa di losco
 e chi invece sottolineava che non era stato trovato nulla di
-irregolare e che, come anch’essi avevano sempre pensato,
+irregolare e che, come anche loro avevano sempre pensato,
 eravamo semplicemente dei bravi ragazzi, intraprendenti, con
 uno spiccato spirito d’avventura.
 
@@ -160,8 +160,8 @@ particolare ed era perfettamente funzionante. Dalla sponda del
 fiume, la casina si poteva appena intravedere, perché era
 coperta dai salici e i prof. cominciarono a mostrarsi
 meravigliati. Dovevamo trasferirli con la teleferica, uno alla
-volta. Quando li invitammo a salire sul cassone appeso alla fune
-notammo espressioni di perplessità ma si capiva che nessuno
+volta. Quando li invitammo a salire sul cassone appeso alla fune,
+notammo espressioni di perplessità; ma si capiva che nessuno
 avrebbe rinunciato ad attraversare il fiume per vedere la
 casina. Forse quella traversata avventurosa faceva sentire i
 professori un po’ ragazzi anche loro.
@@ -170,21 +170,21 @@ Il prof. di Applicazione tecnica, fisico atletico, fu il primo. A
 seguire, il prof. di francese, di matematica, di disegno artistico.
 La prof. di lettere, che aveva una certa età, aveva declinato
 l’invito.
-Arrivati alla casina i prof manifestarono tutto il loro stupore.
+Arrivati alla casina i proff. manifestarono tutto il loro stupore.
 Erano visibilmente meravigliati. Evidente che non si
-aspettavano di trovarsi di fronte ad una costruzione così ben
+aspettavano di trovarsi di fronte a una costruzione così ben
 fatta e ben curata nei particolari. Riassumendo in una parola, la
 trovarono stupenda. Ci fecero un sacco di domande su come
 eravamo riusciti a realizzarla e come intendevamo utilizzarla e
 così via. Accendemmo il camino per fare il the, offrimmo loro
-qualche bibita, e tra numerosi complimenti terminammo la
+qualche bibita, e, tra numerosi complimenti, terminammo la
 visita. Attraversammo nuovamente il fiume e
 accompagnammo i prof. al paese. Seguirono gli esami della
 terza media e, quando i voti furono esposti, noi della casina ci
 trovammo orgogliosamente un bel DIECI in Applicazione
 tecnica. Un riconoscimento che dava ancor più gusto alla nostra
 rivincita sui tanti detrattori.
-Quel DIECI rappresentava la Prova del NOVE della bontà del
+Quel DIECI rappresentava la prova del NOVE della bontà del
 nostro progetto. Grazie prof.!
 
 ![img](/assets/img/08.png)
@@ -232,7 +232,7 @@ c’era INTERNET, non c’era AMAZON, ma riuscimmo ad avere i
 prodotti consegnati nel nostro borgo, sperduto tra i monti. Un
 piccolo miracolo di cui ancora oggi vado fiero.
 
-NdA: La verità sui mitici occhiali a Raggi X, è che fu un grosso
+NdA: La verità sui mitici occhiali a Raggi X è che fu un grosso
 inganno commerciale, una vera e propria truffa. Per buona
 pace dei detrattori di “quelli della casina”.
 
