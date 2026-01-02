@@ -82,7 +82,7 @@ disorientato, circondato soltanto dall’azzurro del cielo. Il pilota
 mi avvisò di prepararmi: avrebbe cominciato a compiere
 acrobazie, rotazioni, perdite di quota improvvise, risalite
 verticali, picchiate, giri della morte. Lo stress fisico era enorme
-e Avvertii anche un senso di nausea. Di tanto in tanto il pilota
+e avvertii anche un senso di nausea. Di tanto in tanto il pilota
 mi chiedeva come stavo; io cercavo di resistere, ma non vedevo
 l’ora di tornare con i piedi per terra. Alla fine il pilota, mi
 comunicò che il nostro giro era terminato ma che, essendoci
