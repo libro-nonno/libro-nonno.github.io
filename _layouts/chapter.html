@@ -21,14 +21,6 @@ layout: default
       <a class="next" href="{{ page.next.url }}">{{ page.next.title }} →</a>
     {% endif %}
 
-    <div class="chapter-lang-switch">
-      {% assign is_english = page.collection == 'chapters_en' %}
-      {% if is_english %}
-        <a href="{{ page.url | replace_first:'/en/chapters','/chapters' }}">🇮🇹 Leggi in italiano</a>
-      {% else %}
-        <a href="/en{{ page.url }}">🇬🇧 Read in English</a>
-      {% endif %}
-    </div>
   </footer>
 
 </article>

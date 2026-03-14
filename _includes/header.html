@@ -13,14 +13,14 @@
                                     {% assign is_english = page.collection == 'chapters_en' %}
                                     {% assign is_italian = page.collection == 'chapters' %}
                                     {% if is_english %}
-                                        <span class="lang-selected">ENG</span> |
-                                        <a href="{{ page.url | replace_first:'/en/chapters','/chapters' }}">ITA</a>
+                                        <span class="lang-selected" title="English">🇬🇧</span> |
+                                        <a href="{{ page.url | replace_first:'/en/chapters','/chapters' }}" title="Italiano">🇮🇹</a>
                                     {% elsif is_italian %}
-                                        <span class="lang-selected">ITA</span> |
-                                        <a href="/en{{ page.url }}">ENG</a>
+                                        <span class="lang-selected" title="Italiano">🇮🇹</span> |
+                                        <a href="/en{{ page.url }}" title="English">🇬🇧</a>
                                     {% else %}
-                                        <span class="lang-selected">ITA</span> |
-                                        <a href="/en/chapters/">ENG</a>
+                                        <span class="lang-selected" title="Italiano">🇮🇹</span> |
+                                        <a href="/en/chapters/" title="English">🇬🇧</a>
                                     {% endif %}
                                 </li>
              </ul>
