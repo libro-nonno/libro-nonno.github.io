@@ -17,6 +17,10 @@ collections:
     output: true
     permalink: /chapters/:name/
 
+  chapters_en:
+    output: true
+    permalink: /en/chapters/:name/
+
 sass:
     style: compressed
 
