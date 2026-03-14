@@ -1,97 +1,43 @@
 ---
 layout: chapter
-title: "Volare"
+title: "Flying"
 order: 7
 ---
 
 <!-- * In questo capitolo
 {:toc}
  -->
-Paura di volare? Direi di no. Ho alle spalle molti voli e parecchie
-miglia e, quando salgo su un aereo, l’unica mia preoccupazione
-è di trovare facilmente posto per il bagaglio in cabina. Ma
-volare può significare molte cose diverse. Eccone due esempi.
+Am I afraid of flying? I would say no. I’ve travelled many miles by air, and when I board a plane my only concern is finding an overhead space for my carry-on.
+But flying can mean many different things. Here are two examples.
 
-## Il volo con ultraleggero
+## The Ultralight Flight
 
-Mia moglie Piera scoprì casualmente, forse alla macchina del
-caffè, durante una pausa di lavoro, che un collega che lavorava
-nell’ ufficio vicino al suo era un pilota di aerei e di tanto in tanto,
-per mantenere attivo il brevetto che richiede un numero
-minimo di ore di volo annuali, offriva ad amici e colleghi la
-possibilità di volare con lui a costi contenuti. Piera me ne parlò
-ed io fui subito attratto dall’idea di vedere il nostro paese
-dall’alto.
+My wife Piera discovered by chance — perhaps at the coffee machine during a work break — that a colleague from the office next to hers was also a pilot. From time to time, in order to keep his licence active (which required a minimum number of flight hours per year), he offered friends and colleagues the chance to fly with him at a reasonable cost.
 
-Fissammo la data e, il giorno stabilito, io, Piera e i bambini,
-nostra cugina Loredana con le sue figlie ci recammo
-all’aeroclub di Bresso. Per tutti, tranne me, si trattava del
-battesimo dell’aria. All’ingresso, il controllore ci chiese
-scherzosamente se si trattasse di un “volo pertosse” poiché
-allora si credeva che l’alta quota potesse far bene a chi soffriva
-di quella malattia. Il pilota dovette effettuare due voli, dato che
-il velivolo poteva ospitare solo quattro passeggeri.
-Salimmo a bordo: io accanto al pilota, la famiglia dietro.
+Piera told me about it, and I was immediately fascinated by the idea of seeing our village from above. We set a date and, on the day arranged, Piera and I, our children, our cousin Loredana and her daughters all went to the Bresso aeroclub.
 
-Partimmo. Notai un trattore che tagliava l’erba vicino alla pista
-e, per alleggerire la tensione, feci una battuta al pilota sul fatto
-che il trattore sembrava più veloce dell’aereo. Lui mi spiegò che
-quell’ultraleggero decollava a circa ottanta km orari.
-Effettivamente, dopo poco, l’aereo si alzò ondeggiando e ci
-trovammo proprio sopra il cimitero di Bresso! “Speriamo di
-allontanarci in fretta” pensai tra me. Presto raggiungemmo la
-quota ottimale diretti verso Burago, sorvolando Monza e
-dintorni. La zona è bellissima e dall’alto riuscimmo ad
-ammirarla nella sua interezza.
+For everyone except me, it was their first time in the air. At the entrance, the controller jokingly asked if we were going on a “whooping-cough flight,” because at the time it was believed that high altitude could help people suffering from that illness. Since the aircraft could take only four passengers at a time, the pilot had to make two flights. We boarded: I sat next to the pilot, the family behind us. We took off. I noticed a tractor cutting the grass near the runway and, to lighten the tension, I joked with the pilot that the tractor seemed faster than the plane. He explained that the ultralight took off at about eighty kilometres per hour.
 
-Raggiungemmo Burago e sorvolammo la cascina Baraggia,
-dove parenti e conoscenti si erano radunati per salutarci,
-sventolando fazzoletti. Il pilota scese fino a 150 metri dal suolo
-e fu emozionante vederli da lì. Riprendemmo quota e, con un
-ampio giro sorvolammo Vimercate e la Telettra, la ditta dove
-lavoravamo io, Piera ed il pilota per tornare all’aeroporto tutti
-soddisfatti di quella bellissima esperienza. Per mia suocera, io
-e Piera restammo per sempre degli irresponsabili che avevano
-portato anche i bambini, i suoi nipotini, su quell’aeroplanino.
+A moment later, the plane lifted, rocking slightly, and we found ourselves directly above the Bresso cemetery.
+“Let’s hope we move away quickly,” I thought to myself.
+Soon we reached cruising altitude, heading towards Burago, flying over Monza and the surrounding area. The scenery was beautiful, and from above we could admire it in its entirety.
+
+We reached Burago and flew over Cascina Baraggia, where relatives and friends had gathered to greet us, waving handkerchiefs. The pilot descended to about 150 meters, and seeing them from up there was truly emotional.
+
+We regained altitude and, with a wide turn, flew over Vimercate and the Telettra factory, where Piera, the pilot, and I worked, before returning to the airport — all of us thrilled with the experience. For my mother-in-law, however, Piera and I remained forever “the irresponsible ones” who had taken even the children — her grandchildren — on that tiny little airplane.
 
 ![img](/assets/img/14.png)
 
-## Il volo acrobatico
+## The Aerobatic Flight
 
-Nel 2006 un noto fornitore di strumentazione di misura
-organizzò un evento a Nizza per la presentazione di nuovi
-prodotti all’avanguardia nel settore delle telecomunicazioni. Io
-e il mio collega Gianpiero fummo invitati a partecipare. Per
-rendere la giornata più interessante per i clienti, a conclusione
-della presentazione, venne offerta la possibilità di vivere
-un’esperienza indimenticabile: un volo acrobatico. Gianpiero
-non esitò e decise di provarlo. Io ero restio ma, alla fine, tra le
-insistenze di Gianpiero e degli organizzatori mi lasciai
-convincere. indossai il casco e salii sull’aereo. Con mia
-sorpresa, il passeggero veniva fatto sedere davanti, mentre il
-pilota stava dietro di lui, invisibile alla vista, cosa che mi mise
-un po’ di apprensione.
+In 2006, a well-known supplier of measurement instruments organized an event in Nice to present new state-of-the-art products in the telecommunications field. My colleague Gianpiero and I were invited to participate.
 
-Il pilota mi diede alcune indicazioni e informazioni sul volo; Da
-quel momento, saremmo stati collegati solo via radio. Mi
-chiese se fossi pronto e, ottenuta la mia risposta affermativa
-partimmo. L’aereo prese velocità e in pochi secondi decollò.
-Improvvisamente iniziò a salire in verticale, con il muso
-puntato verso il cielo. Persi ogni riferimento, completamente
-disorientato, circondato soltanto dall’azzurro del cielo. Il pilota
-mi avvisò di prepararmi: avrebbe cominciato a compiere
-acrobazie, rotazioni, perdite di quota improvvise, risalite
-verticali, picchiate, giri della morte. Lo stress fisico era enorme
-e avvertii anche un senso di nausea. Di tanto in tanto il pilota
-mi chiedeva come stavo; io cercavo di resistere, ma non vedevo
-l’ora di tornare con i piedi per terra. Alla fine il pilota, mi
-comunicò che il nostro giro era terminato ma che, essendoci
-pochi partecipanti dopo di me, mi chiese se volessi proseguire
-ancora un altro po’. Non so se volesse scherzare. “No, no, no!
-Grazie. È stato bello ma a me basta così. Lascio volentieri il
-posto ad altri…” Ci volle un po’ di tempo prima che lo stomaco,
-messo sottosopra, tornasse a posto e che potessi tornare a
-sorridere. Se dovessi riassumere quell’esperienza in due parole
-direi: “sono sopravvissuto!”.
+To make the day more exciting for clients, at the end of the presentation they offered the chance to experience something unforgettable: an aerobatic flight. Gianpiero didn’t hesitate and immediately decided to try it. I was reluctant, but eventually — with his insistence and the organizers’ encouragement — I allowed myself to be convinced. I put on the helmet and climbed into the plane. To my surprise, the passenger sat in front, while the pilot sat behind him, completely out of sight — something that made me a bit uneasy.
+
+The pilot gave me some instructions and information about the flight. From that moment on, we would communicate only via radio. He asked if I was ready and, once I answered yes, we took off. The aircraft gathered speed and lifted within seconds. Then, suddenly, it began to climb vertically, nose pointed toward the sky. I lost all reference points, completely disoriented, surrounded only by the blue of the heavens. The pilot warned me to get ready: he would now begin performing acrobatics — rolls, spins, sudden drops, vertical climbs, dives, loop-the-loops.
+
+The physical strain was enormous, and I even began to feel nauseous. From time to time the pilot asked how I was doing; I tried to hold on, but I couldn’t wait to have my feet back on the ground. At last he told me that our flight was over. But since there were only a few participants after me, he asked — perhaps jokingly — if I wanted to continue a little longer. “No, no, no! Thank you. It was great, but that’s more than enough for me. I’ll gladly let others take my place…”
+
+It took a while before my upside-down stomach settled again and I could smile. If I had to sum up that experience in two words, they would be: “I survived!”
 
 ![img](/assets/img/15.png)

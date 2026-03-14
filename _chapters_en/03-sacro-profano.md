@@ -1,235 +1,99 @@
 ---
 layout: chapter
-title: "Tra sacro e profano"
+title: "Between the sacred and the profane"
 order: 3
 ---
 
 <!-- * In questo capitolo
 {:toc}
  -->
-## La professoressa Ginevra
+## Professor Ginevra
+A character. A truly unique figure.
+She was a woman in her fifties, well known in the village, from a wealthy and respected family. Every summer she returned to Bagolino with her brothers, and she always drew attention.
 
-Un personaggio, un tipo molto originale. Era una signora che
-aveva passato la cinquantina e che tutti in paese conoscevamo.
-Proveniva da una famiglia agiata e rinomata del paese. Ogni
-anno, d’estate, insieme ai suoi fratelli, tornava a Bagolino a
-passare le vacanze e si faceva notare. Il detto “Scarpe grosse,
-cervello fino” potrebbe essere stato coniato su di lei. Vestita in
-modo stravagante con golfini di lana, calzettoni di lana grossa
-e scarponi da montagna, attraversava tutti i giorni il paese
-sferruzzando e bisbigliando versi o forse preghiere.
+The saying “big shoes, sharp mind” could have been invented for her. She dressed eccentrically: wool sweaters, thick wool socks, mountain boots. Every day she walked through the village knitting and murmuring what sounded like verses or prayers.
+She held a law degree and taught jurisprudence at the University of Sassari. Among her students had been President Francesco Cossiga.
 
-Laureata in giurisprudenza, era docente di diritto presso
-l’università di Sassari. Ebbe tra i suoi studenti l’ex presidente
-Francesco Cossiga. Rientra tra i miei ricordi perché, quando io
-avevo undici anni, i miei genitori si trovarono nella necessità di
-dover cambiare casa e mio padre si rivolse alla professoressa
-visto che la sua famiglia possedeva una casa, in centro al paese,
-sfitta da molti anni. La professoressa Ginevra si attivò subito
-per contattare i suoi fratelli, ma fece subito presente che non
-sarebbe stata impresa facile convincerli ad affittare quella casa
-perché avevano in mente altri progetti. I fratelli vivevano a
-Milano e i tempi per i contatti furono inevitabilmente lunghi
-perché la corrispondenza avveniva solo attraverso la posta. Per
-mia mamma dover cambiare casa dopo tanti anni,
-rappresentava un evento decisamente traumatico ed
-evidentemente la professoressa Ginevra se ne rese conto
-quando ebbe occasione di parlare con lei. Fu così che la
-professoressa Ginevra, nell’ attesa di risposte, ebbe l’idea di
-recitare una novena per ottenere la grazia. Per nove giorni
-consecutivi, si presentò in casa nostra, di pomeriggio, per
-recitare preghiere scelte da lei, coinvolgendo tutti coloro che si
-trovavano in casa a quell’ora. Io cercai di essere sempre
-puntuale e alla fine le preghiere furono esaudite: di lì a poco si
-poteva cominciare a organizzare il trasloco. Terminate le
-preghiere, la professoressa Ginevra si intratteneva volentieri a
-scambiare quattro chiacchiere con noi e fu l’inizio di una
-piacevole relazione con la nostra famiglia. Se non fosse stata
-alla fine della vacanza, sono certo che avrebbe organizzato
-anche una novena di ringraziamento per il buon esito delle sue
-preghiere.
+She appears in my memories because, when I was eleven, our parents needed to move house. Father asked her—since her family owned an empty property in the town centre—whether it might be rented.
+She tried, but warned that it would be difficult to convince her brothers, who had other plans for the house. They lived in Milan, and correspondence took days.
+
+Mother was upset and anxious about moving after so many years. Professor Ginevra sensed this and proposed a solution: a novena.
 
 ![img](/assets/img/03.png)
 
-## L’uomo nero
+## The Man in Black
+We had recently moved to our new home, a beautiful two-story house in the centre of the village, with large, spacious rooms. Above it was a wide attic used to store winter firewood and old, somewhat battered furniture—items that might be useful someday. To my young imagination, it was the perfect hiding place for unsettling, shadowy characters one could be afraid of.
 
-Da qualche tempo avevamo cambiato casa. Avevamo lasciato la
-vecchia abitazione e ci eravamo trasferiti in una casa in centro
-al paese. Una casa molto bella, dalle stanze grandi e spaziose.
-Disposta su due piani, aveva anche un ampio solaio sottotetto
-dove veniva accatastata la legna per l’inverno e che serviva
-inoltre per il deposito di vecchi mobili, magari sgangherati, ma,
-chissà mai, potevano sempre venir buoni. Il luogo ideale dove,
-nella mia fantasia di ragazzino, potevano nascondersi
-personaggi inquietanti e spaventosi dei quali avere paura.
-Un bel giorno, stavamo pranzando quando il papà fu avvisato
-che si era verificato un guasto sulla linea elettrica e dunque
-doveva intervenire. Pioveva a dirotto. Lampi e tuoni si
-susseguivano senza interruzione. Il tipico, forte temporale di
-montagna.
+One day, during lunch, father was informed of a fault on the electrical line and had to rush out to fix it. A mountain storm was raging—torrential rain, thunder, lightning.
+At home were my parents, Angiolino, Annamaria, and me. Father asked which of us was brave enough to go up to the attic to fetch his raincoat.
+Feeling suddenly grown-up and bold, I volunteered.
 
-In casa, oltre ai genitori, eravamo io, Angiolino e Annamaria. Il
-papà Sandro chiese chi di noi si sentisse di salire nel sottotetto
-a prendergli l’impermeabile per uscire. Io mi offrii, sentendomi
-improvvisamente grande e coraggioso. Salii nel sottotetto,
-trovai l’impermeabile e mi apprestai a portarlo giù al papà.
-Si trattava di un pastrano nero, grande, pesante e ingombrante
-con un enorme cappello nero, rotondo. Il modo più pratico per
-portarlo giù fu di indossarlo: pastrano sulle spalle e cappello in
-testa, cominciai a scendere la rampa di scale verso il secondo
-piano. Contemporaneamente, Annamaria saliva dal piano di
-sotto, diretta in bagno. Sollevò lo sguardo e si trovò di fronte la
-mia sagoma nera, resa enorme dal pastrano e, terrorizzata,
-lanciò un urlo disumano. Io, ritenendo che avesse visto
-qualcuno alle mie spalle, cominciai a scendere la scala
-velocemente, gridando a mia volta. Annamaria, sentendosi
-inseguita, continuò a urlare ancor più forte in un crescendo di
-terrore. Il risultato fu che raggiungemmo insieme la sala da
-pranzo terrorizzati, cadaverici, con il cuore in gola. Con le
-gambe che tremavano, consegnai l’impermeabile al papà e mi
-sedetti su una poltrona per riprendermi. Ci volle un po’ di
-tempo prima che io e Annamaria potessimo riacquistare il
-colorito normale.
+Up I went, found the raincoat—an enormous, heavy black overcoat with a huge round black hat—and realized the easiest way to carry it downstairs was simply to wear it. So I slipped on the oversized coat and put the hat on my head. Wrapped in this huge dark mass, I started down the stairs.
+At the same time, Annamaria was climbing up from the floor below to go to the bathroom. She lifted her eyes and saw my silhouette—giant, shapeless, entirely black—and let out a blood-curdling scream.
 
 ![img](/assets/img/04.png)
 
-## A pesca
+I froze. Convinced she was reacting to something behind me, I began running down the stairs, screaming as well.
+Hearing me, she believed the mysterious figure was now chasing her, so she screamed even louder.
+We burst together into the dining room, pale as ghosts, shaking with terror.
 
-Nostro padre ci aveva trasmesso la passione per la pesca delle
-trote. Era piacevole andare al fiume Caffaro che, partendo dalle
-falde del monte Blumone, scorre lungo la valle o risalire lungo
-uno dei rii che vi confluiscono. Era estate e Graziano e Flavio
-tornarono dal collegio dei salesiani per passare uno dei pochi
-periodi di vacanza che venivano concessi loro.
+I handed the raincoat to father, sat down in an armchair, and slowly tried to recover.
+It took quite a while before either of us regained our natural colour.
 
-Un giorno decidemmo di andare tutti a pescare. Anche
-Angiolino chiese di far parte della spedizione. Ci teneva molto
-e, siccome bisognava alzarsi molto presto, decise che sarebbe
-andato a letto per essere puntuale e in forma al mattino. Io,
-Graziano e Flavio preferimmo invece andare al cinema poiché
-per noi non sarebbe stato un problema alzarci di buonora.
-Tornammo dal cinema piuttosto tardi e trovammo Angiolino
-addormentato. Dormivamo tutti nella stessa stanza e, benché
-avessimo cercato di non fare rumore, non riuscimmo ad evitare
-che Angiolino si svegliasse. Si svegliò, si stropicciò gli occhi,
-vide noi tre fratelli, in piedi e vestiti e chiese: “Siete già pronti?”.
+## Fishing
 
-Quella domanda segnò la sua condanna a vittima sacrificale.
-Noi tre rispondemmo quasi contemporaneamente di si, anzi, lo
-sollecitammo a sbrigarsi ad alzarsi aggiungendo: “sai che oltre
-una certa ora le trote non abboccano più!”. Angiolino si alzò in
-fretta e andò in bagno. Nel frattempo noi ci svestimmo e ci
-infilammo velocemente ciascuno nel proprio letto. Il povero
-fratellino, il più piccolo di noi, tornò in camera e trovò noialtri
-coricati sotto le lenzuola che fingevamo di dormire. Era
-confuso, frastornato e forse pensò di essersi sognato. Al
-mattino, quando ci svegliammo al suono della sveglia, per
-andare a pescare, chiedemmo ad Angiolino se fosse ancora
-convinto di venire a pescare con noi. La sua risposta fu molto
-eloquente: “Andate a farvi benedire!”. Si era reso conto di non
-aver sognato ma di essere stato vittima di uno scherzo.
+Our father had passed on to us a passion for trout fishing. It was a pleasure to go to the Càffaro river — which springs from the slopes of Mount Blumone and runs down the valley — or to follow one of the small streams that flow into it. It was summer, and Graziano and Flavio had come back from the Salesian boarding school to enjoy one of the few vacation periods they were allowed.
 
-## La scuola media
+One day we decided to go fishing together. Even Angiolino wanted to join the expedition. He really cared about it and, since we had to get up very early, he decided to go to bed early so he would be ready and in good shape in the morning. Graziano, Flavio and I, however, preferred to go to the cinema because getting up early would not have been a problem for us. 
 
-Dal 1962, grazie alla riforma scolastica, anche nel nostro paese
-potemmo finalmente frequentare la scuola media unificata.
-Prima di allora, per chi desiderava continuare gli studi oltre le
-elementari, l’unica possibilità era frequentare la scuola in un
-paese vicino, distante trenta chilometri. Troppo lontano per
-poterci andare ogni giorno con i mezzi pubblici, soprattutto su
-una strada di montagna tutta a curve.
+We returned from the cinema quite late and found Angiolino asleep. We all slept in the same room and, despite trying not to make any noise, we couldn’t prevent Angiolino from waking up. He rubbed his eyes, saw the three of us standing and dressed, and asked, “Are you ready already?” That question sealed his fate as our sacrificial victim.
+We three answered almost at the same time “yes,” and even urged him to hurry: “you know trout don’t bite past a certain hour!” Angiolino jumped up and went to the bathroom.
 
-Così, in attesa che la scuola media iniziasse, frequentai la
-cosiddetta classe post-elementare, equivalente alla scuola
-professionale. Fu in quegli anni che scoprii l’interesse per
-materie nuove come il francese, il disegno tecnico e soprattutto
-il laboratorio di falegnameria.
-Finalmente le medie ebbero inizio e di quelle riporterò qualche
-episodio.
+Meanwhile we quickly stripped off and slipped under the covers. The poor little brother, the youngest of us, came back to the room and found us lying under the sheets pretending to be asleep. He was confused, stunned, and perhaps thought he had dreamed it all. In the morning, when the alarm woke us to go fishing, we asked Angiolino if he was still willing to come with us. His answer was very eloquent: “Go and get blessed!” He had realized he hadn’t dreamed it — he had been the victim of a prank.
 
-## Educazione fisica
+## Middle School
 
-Ancora oggi, dopo più di mezzo secolo, non mi spiego come ci
-fosse stata assegnata l’insegnante di educazione fisica.
-Semplicemente non te l’aspetti.
-Una signora dal forte accento meridionale, non bassa di statura
-ma un bel po’ sovrappeso, per usare un eufemismo e tutti ci
-chiedemmo cosa c’entrasse con la materia che doveva
-insegnare, l’educazione fisica. Poco o niente.
+In 1962, thanks to educational reforms, our village finally got a unified middle school. Before then, anyone wanting to study beyond primary school had to travel to a town 30 km away—too far for daily commuting, especially on winding mountain roads.
 
-Infatti volle chiarire subito che non si sarebbe fatta attività
-fisica all’esterno durante la sua ora, almeno fino a primavera
-inoltrata; cioè niente corse, niente movimento, niente partite a
-calcio, niente ginnastica. Tutte queste attività sarebbero state
-sostituite da educazione civica e educazione stradale.
-Passammo la maggior parte del tempo a disegnare e colorare
-cartelli stradali. Evidentemente ci annoiavamo e non stavamo
-tranquilli. Parlavamo tra di noi ad alta voce, nel nostro dialetto
-che risultava assolutamente incomprensibile alla
-professoressa.
+While waiting for the new school to open, I attended the “post-elementary” class, similar to a vocational year. That’s when I discovered new subjects: French, technical drawing, and especially woodworking.
+When middle school finally began, it brought episodes I still remember vividly.
 
-Forse fu questo elemento che portò l’insegnante a rivolgersi a
-noi studenti con frasi spesso poco cortesi e addirittura
-all’insulto. “Siete, dei rospi. State zitti. Incivili” Questa una delle
-frasi con cui si rivolse alla classe sin dalle prime lezioni. Una
-volta, due volte, finché uno di noi reagì. Flaviano si alzò e, col
-tono di chi non intendeva più tollerare quegli insulti, le disse in
-maniera diretta: “Rospo sarà lei”. Seguì un breve scambio di
-battute tra la professoressa e Flaviano. Nessuno di noi fiatava.
 
-La professoressa, impietrita, ebbe una crisi di pianto. Lasciò
-l’aula e si diresse verso la segreteria. Non serve riportare come
-fu gestita la situazione nell’immediato e da chi. Il preside,
-durante una delle ore successive, venne in classe e ci disse che
-portava le scuse dell’insegnante alla classe. Scuse accettate e
-incidente chiuso. Le lezioni di educazione stradale ripresero
-regolarmente.
+## Physical Education
 
-## Una bella punizione
+To this day, I still cannot explain how we ended up with that particular P.E. teacher. She was unexpected, to say the least.
+She had a strong southern accent, wasn’t short but was decidedly overweight. We all wondered what she had to do with physical education. The answer was: not much.
 
-Il professor Tonoli era il nostro professore di matematica. Uno
-spilungone magro, magro. Bravo ad insegnare la sua materia.
-C’era empatia tra noi studenti e il prof. che però sapeva anche
-essere severo e farsi rispettare. Un bel giorno, l’ultima ora
-prima dell’intervallo per il pranzo, ci comportammo in modo
-non proprio tranquillo. Era primavera, si avvicinava la fine
-dell’anno scolastico, eravamo tutti stanchi e faticavamo a
-mantenere la concentrazione.
+She immediately informed us that we would not be doing any outdoor activity until late spring—no running, no games, no gymnastics. Instead, our P.E. hours would be devoted to civic education and road safety.
+We spent most lessons drawing traffic signs and colouring them in.
+Naturally, we were bored stiff. We chatted loudly—in dialect the teacher couldn’t understand—and she frequently resorted to scolding us, sometimes drifting into insults:
+“You’re a bunch of toads. Shut up. Savages!” Over and over. Until finally someone reacted.
 
-Il prof. dopo vari richiami si spazientì e, nonostante il suono
-della campana, decise di trattenerci in classe oltre l’orario.
-“Anzi”, disse, “Non dovrete muovervi finché non ve lo dirò io” e
-si diresse verso la segreteria per consegnare il registro di
-classe. Obbedimmo e nessuno di noi si mosse. Trascorsi alcuni
-minuti, del professore non si vedeva traccia quindi il
-capoclasse si prese la briga di andare in segreteria a verificare
-cosa stesse succedendo. “Ragazzi, la segreteria è chiusa e non
-c’è nessuno”, riferì il nostro compagno.
+Flaviano stood up and, fed up, said sharply: “Toad? Look who’s talking.”
+A brief, tense exchange followed. We held our breath, silent.
+The teacher froze, then burst into tears and left the room, heading to the school office.
 
-Che fare? In pochi secondi fummo tutti d’accordo di andare a
-casa a pranzo e di ritornare velocemente in aula come se non ci
-fossimo mai allontanati. Prima dell’inizio della lezione
-pomeridiana, ognuno era seduto al proprio posto. Mai stati così
-puntuali. Entrò in classe il professore che doveva tenere la
-lezione e non fece in tempo a raggiungere la cattedra che fu
-investito dalle nostre lamentele: “Professore noi siamo qui da
-stamattina e non abbiamo ancora pranzato. Il professore di
-matematica ci ha ordinato di non lasciare l’aula finché non ci
-avesse dato lui il permesso e così noi non ci siamo mossi. Però
-abbiamo fame”. Al momento il professore fu incredulo. Pensò
-che noi stessimo scherzando. Poi però si convinse che stavamo
-dicendo il vero. Il professore si consultò con la segreteria e con
-il preside e ci consentì di andare a casa a pranzo. Noi però
-eravamo già sazi. Il professore ci raccomandò di andare piano,
-con calma e di fare molta attenzione affinché non si
-verificassero incidenti. Ci venne concesso un permesso
-speciale e fummo esentati dal presentarci alle lezioni
-pomeridiane. Avevamo ottenuto l’intero pomeriggio di libertà.
-Ci recammo al campo di calcio dell’oratorio e disputammo una
-delle più piacevoli partite di calcio tra di noi.
+Later, the principal visited our classroom, conveying the teacher’s apologies. We accepted them, and the incident was considered closed. Road-safety lessons resumed as usual.
 
-Difficile dimenticare la faccia del professore di matematica
-quando, durante la gita scolastica di fine anno, gli svelammo i
-risvolti dell’accaduto. Il professore dapprima non la prese
-benissimo, poi però anche lui rise divertito. E noi? Ci sentimmo
-più leggeri dopo esserci tolti un bel peso dalla coscienza.
+## A well-earned Punishment
+
+Professor Tonoli, our math teacher, was tall and extremely thin. He was good at teaching and had a strong rapport with us—though he could be strict when needed.
+
+One spring day, during the last lesson before lunch break, we were restless and inattentive. After several warnings, he lost patience. Even when the bell rang, he said:
+“You are not leaving this classroom until I give you permission.”
+He then left to take the register to the office.
+We waited. And waited. After several minutes, he still hadn’t returned.
+The class leader went to check. “The office is closed. He’s not there.” What to do?
+
+In seconds, we reached a consensus: we would all sneak home for lunch and return well before the afternoon lesson, pretending we had never left. And so we did.
+Before the afternoon bell, everyone was back in place—as punctual as never before.
+The next teacher walked in, and we immediately began complaining:
+“Professor, we’ve been here since this morning—we haven’t even had lunch! The math teacher told us not to move until he returned, and he never came back…”
+
+At first, the teacher thought we were joking. Then he realized we were serious.
+After consulting with the principal, he allowed us to go home to eat. Of course, we were already full.
+He warned us to walk carefully, not to rush, and to avoid accidents.
+We were excused from afternoon classes and spent the entire time playing one of the best football matches of our youth at the parish field.
+
+Months later, during our end-of-year trip, we revealed everything to Professor Tonoli. He didn’t take it too well at first—but eventually laughed heartily. As for us, we felt relieved. Finally, the weight on our conscience was gone.
+

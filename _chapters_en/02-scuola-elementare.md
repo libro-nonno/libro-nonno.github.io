@@ -1,140 +1,72 @@
 ---
 layout: chapter
-title: "La scuola elementare"
+title: "Primary School"
 order: 2
 ---
 
 <!-- * In questo capitolo
 {:toc}
  -->
-Le elementari furono forse il periodo più bello del mio percorso
-scolastico. Andavo volentieri a scuola anche perché c’era
-spesso da divertirsi. Il maestro dei primi due anni era il sindaco
-del paese, Giuliano Fusi. Persona molto capace e severa cui era
-stata assegnata la mia classe, probabilmente perché era piena
-di ripetenti non proprio facili da gestire. Qualcuno aveva
-addirittura tre anni più di me.
+Primary school was perhaps the happiest period of my student life. I enjoyed going to class—there was always something amusing happening.
+Our teacher for the first two years was the town’s mayor, Giuliano Fusi. A capable but strict man, assigned to our class—probably because it was full of older repeaters, some even three years older than I was.
+Here are a few episodes.
 
-## Le puzze
 
-Noi scolari eravamo seduti a due a due, in banchi di legno. La
-scuola iniziava il primo ottobre, tempo di castagne dunque. Le
-castagne, come noto, sono buonissime e, se mangiate in
-quantità, producono quell’effetto di sviluppare gas in pancia e
-non sempre si riesce a trattenere. Gianni cominciò ad agitarsi.
-Lo si sentiva brontolare e dire qualcosa a Giuseppe, il
-compagno del banco davanti al suo. I due gesticolavano fino a
-che il maestro se ne accorse e li richiamò. “Che succede?”,
-chiese. Gianni si alzò in piedi e, tappandosi il naso, rispose:
-“Giuseppe continua a fare le puzze ed io non ce la faccio a
-resistere. L’insegnante si avvicinò ai due e convenne che Gianni
-non avesse tutti i torti a lamentarsi. “Niente di grave”, disse.
-“Risolviamo il problema”.
+## The Smells
 
-Fece allontanare i due, prese una bottiglietta di alcool, ne
-sparse un po’ sul sedile di Giuseppe e diede fuoco. La fiamma
-durò pochi secondi e si spense. “Bene ragazzi!”, disse. Il banco
-è disinfettato, potete tornare a sedervi e possiamo continuare
-la lezione. Sorridendo, raccomandò a Giuseppe di limitarsi con
-le castagne. Il poveretto avrebbe voluto sparire, dissolversi
-nell’aria come il gas che non era riuscito a trattenere.
+We sat two per desk, on wooden benches. School began on October 1st—chestnut season. And chestnuts, as everyone knows, are delicious… and produce gas.
+Gianni started fidgeting. He whispered complaints to Giuseppe, the boy sitting in front of him. Their gesturing caught the teacher’s attention.
+“What’s going on?”
 
-## Il calamaio
+Gianni stood up, pinched his nose, and announced:
+“Giuseppe keeps farting and I can’t take it anymore!”
+The teacher walked over, sniffed, and had to agree that Gianni had a point.
+“Nothing serious,” he said calmly. “We’ll fix it.”
+He moved the boys aside, took a small bottle of alcohol, sprinkled some on Giuseppe’s wooden seat, and set it on fire. A quick whoosh—the flame burned for a few seconds and went out.
+“There. All disinfected. You may sit and we can continue.”
 
-Ero in terza elementare. Come già detto, in classe eravamo
-seduti a due a due, in banchi di legno. Come si sa, a quei tempi,
-dalla seconda classe in poi, si scriveva con l’inchiostro blu o
-nero, usando la penna con il pennino.
+Then, with a smile, he advised Giuseppe to go easy on the chestnuts. Poor Giuseppe wished he could vanish into thin air—much like the gas he hadn’t managed to hold in.
 
-I banchi erano dunque muniti di calamai, nei quali si intingeva
-il pennino, che la bidella provvedeva a riempire giornalmente.
-Io ero seduto vicino al mio compagno Clemente, un ripetente
-simpatico e molto lentigginoso. Un giorno, mentre temperava
-una matita, alcuni trucioli di legno finirono nel suo calamaio
-galleggiando e rendendo difficoltoso intingervi il pennino.
-Clemente, per rimuovere i trucioli, soffiò con forza nel
-calamaio, causando schizzi d’inchiostro ovunque: sul banco, sui
-quaderni e soprattutto sulla sua faccia, che divenne una vera e
-propria tavolozza di lentiggini nere, suscitando l’ilarità
-generale della classe.
 
-## Il cane lupo
+## The Inkwell
 
-Cosa può c’entrare un cane lupo con la scuola? Ve lo spiego.
-Frequentavo la quarta elementare. La nostra insegnante ebbe
-una improvvisa indisposizione e non poté essere sostituita
-immediatamente. La nostra classe fu affidata all’insegnante
-della classe vicina affinché, di tanto in tanto, controllasse il
-nostro comportamento. Egli, verificava che non ci fosse
-disordine e se ne tornava nella sua classe. Mi accorsi presto che
-dopo pranzo non veniva effettuato l’appello, pertanto si poteva
-tranquillamente bigiare senza rischi. Ne parlai al mio amico
-Mario e, senza bisogno di tanti discorsi, ci fu un’intesa
-immediata: il giorno successivo avremmo bigiato. E così
-avvenne. Dopo pranzo, non rientrammo in aula e ci
-incamminammo verso un prato poco distante dalla scuola.
-Scavalcammo un recinto di filo spinato e ci sdraiammo
-nell’erba chiacchierando e fantasticando, godendoci il sole
-primaverile.
+By third grade, we were all writing with fountain pens dipped into inkwells built into our desks. The school custodian filled them every morning.
+I sat next to Clemente, a friendly repeater with a face full of freckles. One day, while sharpening a pencil, wood shavings fell into his inkwell. 
 
-Ad un tratto, alle nostre spalle comparve un cane lupo enorme
-che cominciò ad abbaiare. Spaventati, cercammo di fuggire
-scavalcando nuovamente il recinto. Stavo per spiccare il salto,
-quando scivolai sul piede d’appoggio e finii con una gamba sul
-filo spinato. I pantaloni si strapparono lungo tutta la gamba e
-mi procurai un graffio lungo e profondo. E adesso? Non c’era
-alternativa, bisognava andare a casa a farsi medicare,
-raccontare tutto alla mamma e sperare nella sua
-comprensione. La mamma non mi rimproverò severamente,
-evidentemente preoccupata per la ferita che mi ero procurato.
-Il giorno dopo tornai regolarmente a scuola e, con
-soddisfazione, appresi che l’appello, dopo pranzo, non era stato
-fatto…
+He tried to blow them out—but instead, he blew ink everywhere: on the desk, on notebooks, and especially on his own face, which instantly transformed into a spotted painting of black freckles.
+The whole class exploded in laughter.
 
-## Mi scappa la pipì
 
-Può capitare a tutti di dover correre in bagno con urgenza. È
-naturale. Però se qualcuno ti impedisce di andarci…Eravamo in
-IV elementare, la maestra stava spiegando alla lavagna quando
-Osvaldo alzò la mano per chiedere il permesso di andare in
-bagno. L’insegnante gli disse di attendere che lei terminasse di
-spiegare. Osvaldo stette in silenzio per un po’ e poi tornò ad
-alzare la mano rinnovando la sua richiesta. Le parole di una
-simpatica canzone, “Mi scappa la pipì” rendono perfettamente
-quanto successe ad Osvaldo quel giorno: “Mi scappa la pipì, mi
-scappa la pipì!... Non ne posso proprio più, io la faccio qui!”. Ed
-è quello che Osvaldo fece, con aria di sfida.
+## The German Shepherd
+What does a German shepherd have to do with school? Here’s how.
+One day in fourth grade, our teacher became suddenly ill and couldn’t be replaced. Our class was left under the occasional supervision of the teacher next door, who would check on us now and then.
 
-Dopo il secondo no dell’insegnante, un rigolo cominciò a
-scorrere dal banco di Osvaldo verso la lavagna e alla fine la
-maestra ci finì dentro con i piedi.
-La classe era composta solamente da maschi e la situazione
-rimase circoscritta senza diventare uno scandalo.
+I soon realized that after lunch break, there was no roll call. Which meant… we could simply not show up. I shared the discovery with my friend Mario. No words were needed—we immediately agreed to skip school the next day.
+We headed to a nearby meadow, crossed a barbed-wire fence, and lay in the grass enjoying the spring sun.
+Suddenly, behind us, a huge German shepherd appeared, barking furiously. Terrified, we ran back toward the fence. As I leaped, my foot slipped and I landed on the barbed wire, tearing my pants from top to bottom and scratching my leg.
 
-## Attore
-Frequentavo la IV elementare e alcune insegnanti con a capo la
-vice direttrice, maestra Giulia, non ricordo bene in occasione di
-quale festa, decisero di organizzare uno spettacolo teatrale che
-vedeva come attori noi scolari, scelti tra diverse classi. Io, non
-chiedetemi perché, fui scelto per il ruolo di protagonista, nella
-parte del principe. Matilde, della III elementare, fu scelta per il
-ruolo di principessa. Probabilmente c’entrava il fatto che
-entrambi andavamo bene a scuola e quindi avremmo potuto
-saltare qualche lezione per le prove di teatro, senza che ciò
-incidesse più di tanto sul nostro rendimento scolastico.
+There was no hiding it—I had to go home, get treated, and admit everything to my mother. She didn’t scold me too harshly, more worried about the cut than the skipped class.
+The next day, I went back to school. And to my satisfaction, I learned that roll call after lunch still hadn’t been done.
 
-Matilde era una ragazza molto carina e il fatto che io recitassi
-con lei suscitò un po’ d’invidia nei miei compagni di classe. Non
-ricordo bene la trama, ma la si può facilmente immaginare: un
-principe, la principessa, un luogo incantato popolato da gnomi
-e così via; un bel finale e… vissero felici e contenti. La storia era
-piuttosto lunga e imparare la parte da recitare fu impegnativo.
+## I Can’t Hold It!
 
-Alla fine, lo spettacolo andò in scena ed ebbe un grande
-successo. Il teatro fece il tutto esaurito e, a gran richiesta di chi
-non aveva potuto assistere alla serata, la recita fu replicata la
-settimana seguente. Di nuovo “sold-out”. Ricordo che avevo
-febbre e un gran raffreddore, ma, si sa, gli attori non possono
-deludere il loro pubblico.
+We were in fourth grade again. The teacher was writing on the board when Osvaldo raised his hand, desperate to go to the bathroom. She told him to wait.
+
+He tried. Then asked again. Another refusal.
+And just like in the children’s song “Mi scappa la pipì”, he finally did it—right there.
+
+A little river ran from under his desk across the floor… ending right at the teacher’s shoes.
+Luckily, our class was all boys, so the incident remained contained and never became a scandal.
+
+## The Actor
+
+Still in fourth grade, several teachers led by the vice principal decided to put on a school play. Students were chosen from different classes.
+For reasons still unclear to me, I was selected as the protagonist—the prince.
+Matilde, from third grade, was chosen as the princess. She was very pretty, and my classmates were quite envious of my stage partnership with her.
+
+The plot was the classic fairy tale: prince, princess, enchanted woods, gnomes, a happy ending. The play was long, and memorizing the lines took effort.
+When the big day came, the performance was a huge success. The theatre was packed, and by popular request it was repeated the following week—again sold out.
+
+I had a fever and a terrible cold, but as they say: the show must go on.
 
 ![img](/assets/img/02.png)

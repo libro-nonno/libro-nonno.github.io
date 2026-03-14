@@ -1,239 +1,90 @@
 ---
 layout: chapter
-title: "La casina oltre il fiume"
+title: "The Little Shack Across the River"
 order: 4
 ---
 
 <!-- * In questo capitolo
 {:toc}
  -->
-All’età di circa tredici anni, insieme ad un gruppo di amici,
-decidemmo di costruire una piccola capanna, o come la
-chiamavamo noi, la “casina”, lungo la sponda del fiume Caffaro.
-Non esagero nel definirla un piccolo capolavoro di fantasia,
-creatività, abilità ingegneristica, nato da quel bisogno
-irrefrenabile di avventura che solo un gruppo di ragazzi può
-vivere a quell’età. Eravamo un gruppo di coetanei e
-frequentavamo tutti la scuola media. Io, Fernando, Giancarlo,
-Gianluigi, Gianstefano, Oliviero, Osvaldo, Renzo e Silvano. Non
-ricordo come nacque l’idea e come fu concepito il progetto ma
-il gruppo di avventurosi si costituì in tempi brevi, tutti
-impazienti di cominciare a costruire la casina. Effettuammo
-perlustrazioni, sopralluoghi, richieste di autorizzazioni ai
-proprietari dei terreni. Alla fine il luogo fu individuato: una
-piazzola sulla sponda opposta del fiume Caffaro, poco distante
-dalla riva ma non raggiungibile dalle acque anche in caso di
-piene stagionali.
-Era perfetto anche se, dovendo attraversare il fiume, non era
-facilmente raggiungibile. Ma questo fu considerato un pregio
-potendo essere raggiunto solo da qualche pescatore e
-stimolava il nostro spirito d’avventura. Cominciammo a
-definire compiti individuali e di gruppo man mano che
-venivano abbozzati schizzi, disegni, elenchi dei materiali
-necessari. Giancarlo, sicuramente, diede il maggior contributo
-nella fase di progettazione dato che suo padre aveva
-un’impresa edile e quindi poteva avvalersi dei suoi consigli e
-della sua disponibilità per il reperimento dei materiali dai suoi
-cantieri.
+At about thirteen years old, together with a group of friends, we decided to build a small hut — which we called the “casina” — on the bank of the Càffaro river.
+
+I don’t exaggerate if I call it a little masterpiece of imagination, creativity and engineering skill, born from that irrepressible urge for adventure that only a group of youngsters can experience. We were a group of peers, all attending middle school: I, Fernando, Giancarlo, Gianluigi, Gianstefano, Oliviero, Osvaldo, Renzo and Silvano. I don’t remember exactly how the idea began or how the plan was drawn up, but the gang formed quickly, all eager to start building the casina. 
+
+We conducted surveys, inspections and asked the landowners for permission. In the end we chose a clearing on the opposite bank of the Càffaro river — a spot a little distance from the water yet safe from seasonal floods. It was perfect; being reachable only by crossing the river made it even better, since only a few fishermen could get there and it fed our spirit of adventure. 
+
+We began to assign individual and group tasks while sketching plans and listing the materials needed. Giancarlo contributed the most to the design phase — his father had a construction company and could help us source materials from job sites.
 
 ![img](/assets/img/05.png)
 
-## La realizzazione
+## The Construction
 
-Lavorammo con molto entusiasmo tutta un’estate alla
-realizzazione del nostro progetto. Pian piano la casina prese
-forma: un monolocale di circa sedici metri quadri, realizzato
-con travi e assi di legno, con porte, finestre, un pavimento di
-cemento e un camino che ci avrebbe scaldato e permesso di
-cuocere caldarroste durante le fredde giornate autunnali.
-L’arredamento era costituito da uno scaffale a muro, un tavolo
-e alcune sedie. Per utilizzare la casina non era necessario che
-fosse presente tutta la combriccola. Chiunque di noi era libero
-di andarci anche con altri amici. Per segnalare la nostra
-presenza alla casina ed essere raggiunti dagli amici, veniva
-issata una bandiera bianca su un’asta, ben visibile da punti
-precisi del paese.
-Il posto diventò un punto di ritrovo ambìto, ma anche oggetto
-di chiacchiere e maldicenze. Molti si chiedevano cosa facessimo
-lì, quali segreti nascondesse quel rifugio. Anche il parroco si
-pronunciò durante una delle sue prediche, dipingendo la casina
-come un luogo di peccato e i suoi frequentatori come peccatori,
-senza mai aver parlato direttamente con noi.
+We worked with great enthusiasm the whole summer to bring our project to life. Little by little the casina took shape: a studio of about sixteen square meters built with beams and boards, with doors, windows, a concrete floor and a fireplace that would warm us and allow us to roast chestnuts in the cool autumn days. The furniture consisted of a wall shelf, a table and some chairs. You didn’t need the whole gang present to use the casina — anyone could go there with a friend. 
 
-## La teleferica
+To signal our presence and be reached, we raised a white flag on a pole visible from certain points in town. The place became a much-desired gathering spot, but also the subject of gossip. Many wondered what we did there and what secrets the refuge might hide. Even the parish priest spoke about the casina in one of his sermons, portraying it as a den of sin and its regulars as sinners - without ever having spoken to us directly.
 
-L’attraversamento del fiume rappresentava un grosso ostacolo.
-Il luogo dove doveva sorgere la casina era raggiungibile a piedi
-solo attraverso un lungo percorso. Trasportare tutti i materiali
-necessari a costruire la casina seguendo quel sentiero era
-impensabile, quindi decidemmo di tendere una fune metallica
-tra le due rive del fiume. La fune fu posata e fissata e poteva
-dunque essere utilizzata per il trasporto dei materiali necessari
-alla costruzione della casina.
-Dopo alcuni trasferimenti, il collaudo fu considerato superato
-con successo e decidemmo che si sarebbe potuta utilizzare
-anche per il passaggio delle persone. Inizialmente utilizzammo
-un sistema rudimentale ma efficace: un bastone trasversale al
-gancio della carrucola, impugnato con entrambe le mani e in
-pochi secondi eri dall’altra parte del fiume. Una figata! Nessuna
-imbragatura e l’acqua che scorreva sotto di noi. Nonostante
-avesse assistito a numerosi attraversamenti da parte nostra,
-Gianluigi era timoroso e molto titubante ad usare quel mezzo
-di trasporto. Insistemmo molto e alla fine si lasciò convincere a
-provare. Piegato sulle ginocchia, chiuse gli occhi e, anziché
-lasciarsi scivolare appeso alla fune, diede una spinta verso
-l’alto col risultato che la carrucola si staccò dalla corda
-metallica e lui cadde dritto, a piombo, come un sasso. Splash!...
-Udimmo il rumore di un tuffo con “spanciata” e tutti noi
-presenti a… spanciarci dalle risate. Non fu niente di grave.
-Gianluigi dovette solo lasciare asciugare i vestiti. In poco tempo
-riuscimmo a completare la teleferica dotandola di un cassone
-con cui trasportare agevolmente anche le persone oltre che
-materiali ed oggetti vari.
+## The Cableway
+
+Crossing the river was a huge obstacle. The place we had chosen could only be reached on foot by a long path. Transporting all the materials along that trail would have been unthinkable, so we decided to string a metal cable between the two banks. The cable was laid and secured and could be used to haul materials for the casina. 
+
+After a few test runs the system passed inspection and we decided it could also be used to carry people. Initially we used a simple but effective system: a crossbar attached to the pulley hook that you gripped with both hands, and in a few seconds you were on the other side. What a thrill! No harness, the water flowing beneath us. Even though Gianluigi had watched many crossings, he was fearful and very hesitant to try it. 
+
+We pressured him a lot and finally convinced him to try. Bent at the knees, he closed his eyes and — instead of letting himself glide along the cable — he gave an upward push so the pulley came off the wire and he fell straight down like a stone. Splash! We heard the loud slap of a belly-flop and burst out laughing. It was nothing serious — Gianluigi simply had to let his clothes dry. It didn’t take long before the cableway was completed, equipped with a crate sturdy enough to carry people too.
 
 ![img](/assets/img/06.png)
 
-## L’ispezione dei carabinieri
+## The Carabinieri Inspection
 
-L’esistenza della casina era ormai nota a tutti e tutti avevano
-un’idea su di essa, chi a favore, chi contro, al punto che anche il
-maresciallo dei carabinieri volle capirne qualcosa e decise di
-farci visita. In quattro o cinque del gruppo ci trovavamo presso
-la casina quando comparvero sulla sponda opposta il
-maresciallo e due carabinieri. Ci dissero che erano lì per
-effettuare un’ispezione. Ci chiesero di non muoverci ma non
-sapevano come poter attraversare il fiume per raggiungerci.
-Noi ci mostrammo subito collaborativi: uno di noi li raggiunse
-saltellando sui sassi e mostrò il percorso inverso, seguito dai
-carabinieri.
-Giunti alla casina, chiesero di poter entrare e ispezionarono gli
-oggetti che si trovavano all’interno. Fecero un breve
-interrogatorio: nomi, cognomi, figli di, chi frequentasse la
-casina, se fossimo in possesso di armi ecc. Alla fine il
-maresciallo ci fece i complimenti per la costruzione, ci
-raccomandò di comportarci bene e chiese di essere
-riaccompagnato sull’altra sponda. La notizia dell’ispezione si
-diffuse velocemente in paese e, come spesso accade, si
-formarono due diverse fazioni: chi pensava che fosse avvenuta
-perché, come avevano sempre pensato, c’era qualcosa di losco
-e chi invece sottolineava che non era stato trovato nulla di
-irregolare e che, come anche loro avevano sempre pensato,
-eravamo semplicemente dei bravi ragazzi, intraprendenti, con
-uno spiccato spirito d’avventura.
+Word about the casina had spread and everyone had an opinion: some for it, some against it — so the local marshal of the Carabinieri decided to investigate and came to visit. Four or five of us were at the casina when the marshal and two officers appeared on the opposite bank. They said 
+they were there to carry out an inspection and asked us not to move — but they didn’t know how to cross the river. 
 
-## Pasquetta alla casina
+We immediately helped: one of us hopped over the stones and showed them the way, then they crossed. Once at the casina they asked to come in and inspected our things. They conducted a short inquiry: names, parentage, who frequented the casina, whether we had weapons, etc. In the end the marshal praised our construction, told us to behave well and asked to be escorted back to the other bank. 
 
-L’acquisto di un nuovo vestito o di un qualsiasi capo di
-abbigliamento era una cosa importante e avveniva solo a
-ridosso delle grandi feste, a Pasqua e a Natale. Quell’anno mia
-mamma mi comprò un vestito nuovo. Lo indossai il giorno di
-Pasqua e ne fui molto fiero. Lo indossai anche il giorno di
-Pasquetta. Visto che era una bella giornata, il gruppo decise di
-organizzare una merenda alla casina.
-Arrivati al fiume, cominciammo ad attraversarlo saltando sui
-sassi che sporgevano dall’acqua. Quando toccò il mio turno,
-proprio all’ultimo saltello, scivolai e caddi nel punto dove
-l’acqua era più alta e ne uscii col vestito fradicio. Accendemmo
-il camino, mi spogliai e misi il vestito vicino alla fiamma per
-farlo asciugare in fretta.
-Ci volle molto tempo e, arrivata l’ora di tornare a casa, lo
-indossai anche se non era del tutto asciutto. La gamba dei
-pantaloni e le maniche della giacca si erano accorciate di
-sei/sette centimetri! I miei compagni risero non poco. Io
-invece ero mesto e sconsolato, rassegnato a prendermi una
-bella ramanzina dai miei genitori, consapevole che, per un
-vestito nuovo, avrei dovuto aspettare l’anno dopo.
+News of the inspection spread quickly through the village and — as often happens — two factions emerged: those who believed something shady was going on and those who pointed out that nothing irregular had been found and that we were simply enterprising, adventurous kids.
+
+## Easter Monday at the Casina
+
+Buying a new outfit was a big event and usually happened only near major holidays like Easter and Christmas. That year my mother bought me a new suit. I wore it on Easter and was very proud. I wore it again on Easter Monday. 
+
+Since it was a beautiful day, the group decided to have a picnic at the casina. Reaching the river, we began to cross by hopping on the stones protruding from the water. When it was my turn, on the last jump I slipped and fell into the deepest part; I emerged with my suit soaking wet. 
+
+We lit the fireplace, I took off the suit and put it near the flames to dry quickly. It took a long time, and when it was time to go home, I put it on even though it wasn’t completely dry. The pant legs and sleeve hems had shortened by six or seven centimetres! My friends laughed a lot. I, on the other hand, was gloomy and resigned, convinced I would receive a good scolding from my parents — and that I’d have to wait another year for a new outfit.
 
 ![img](/assets/img/07.png)
 
-## La visita dei professori
+## The Teachers’ Visit
 
-La casina non era più un segreto. Il suo nome girava in paese e
-incuriosiva tutti, persino i nostri professori. Alcuni professori
-di III media si mostrarono così interessati dalla nostra
-descrizione che proponemmo loro di venire a visitarla.
-Accettarono molto volentieri. Un bel giorno, ci accordammo
-per la visita. Noi ragazzi eravamo eccitatissimi. Tutto era
-pronto per ricevere quegli ospiti così importanti. La teleferica
-per attraversare il fiume era stata controllata in ogni
-particolare ed era perfettamente funzionante. Dalla sponda del
-fiume, la casina si poteva appena intravedere, perché era
-coperta dai salici e i prof. cominciarono a mostrarsi
-meravigliati. Dovevamo trasferirli con la teleferica, uno alla
-volta. Quando li invitammo a salire sul cassone appeso alla fune,
-notammo espressioni di perplessità; ma si capiva che nessuno
-avrebbe rinunciato ad attraversare il fiume per vedere la
-casina. Forse quella traversata avventurosa faceva sentire i
-professori un po’ ragazzi anche loro.
+The casina was no longer a secret. Its name circulated in town and even our teachers were curious. Some third-year teachers were so interested by our description that we invited them to visit. They gladly accepted. On the agreed day we were all excited and ready to receive such important guests. The cableway had been checked in every detail and worked perfectly. 
 
-Il prof. di Applicazione tecnica, fisico atletico, fu il primo. A
-seguire, il prof. di francese, di matematica, di disegno artistico.
-La prof. di lettere, che aveva una certa età, aveva declinato
-l’invito.
-Arrivati alla casina i proff. manifestarono tutto il loro stupore.
-Erano visibilmente meravigliati. Evidente che non si
-aspettavano di trovarsi di fronte a una costruzione così ben
-fatta e ben curata nei particolari. Riassumendo in una parola, la
-trovarono stupenda. Ci fecero un sacco di domande su come
-eravamo riusciti a realizzarla e come intendevamo utilizzarla e
-così via. Accendemmo il camino per fare il the, offrimmo loro
-qualche bibita, e, tra numerosi complimenti, terminammo la
-visita. Attraversammo nuovamente il fiume e
-accompagnammo i prof. al paese. Seguirono gli esami della
-terza media e, quando i voti furono esposti, noi della casina ci
-trovammo orgogliosamente un bel DIECI in Applicazione
-tecnica. Un riconoscimento che dava ancor più gusto alla nostra
-rivincita sui tanti detrattori.
-Quel DIECI rappresentava la prova del NOVE della bontà del
-nostro progetto. Grazie prof.!
+From the riverbank you could barely make out the casina, hidden by willows, and the teachers were impressed. We ferried them one by one in the cabin hung on the cable; though initially hesitant, no one refused the crossing — perhaps that adventurous trip made the teachers feel a bit like kids again. 
+
+The Handicrafts/Technical Studies teacher went first, followed by the French, math and art teachers. 
+The literature teacher, an older woman, declined the invitation. Once at the casina, the teachers were clearly astonished; they hadn’t expected such a well-made and well-finished structure. They asked many questions about how we had built it and how we intended to use it. 
+
+We lit the fireplace to make tea, offered some drinks, and the visit ended amid compliments. We then escorted the teachers back to town. 
+When third-year exam results were posted, the casina crew proudly found a straight TEN in Technical Application — a sweet vindication against many detractors. That TEN was the final proof of how good our project had been. Thanks, professor!
 
 ![img](/assets/img/08.png)
 
-## Occhiali ai Raggi X
+## The X ray glasses
 
-Questo capitolo entra a far parte di questo libro solo per una
-pura, piacevole coincidenza. Il 6 settembre 2025, io, mio figlio
-Filippo, mia nuora Silvia e i due nipotini Camilla e Giacomo,
-decidemmo di fare una camminata alla chiesetta di S. Gervasio,
-arroccata sulla montagna di fronte a Bagolino e che offre una
-vista stupenda sul paese. Dopo aver ammirato il panorama e
-provata la soddisfazione di suonare qualche rintocco della
-campana della chiesetta ci incamminammo per il ritorno.
-Nell’occasione, non potevo non fermarmi a salutare il mio
-amico e compagno di classe Giorgio che, durante i mesi estivi,
-si trasferisce nella bellissima cascina che ha ristrutturato e che
-si trova proprio sul percorso. Siamo stati entrambi molto felici
-di rivederci visto che le occasioni di incontrarci sono diventate
-ormai sporadiche. Parlando del più e del meno siamo finiti sul
-discorso della “casina” e, in particolare, delle voci che
-correvano in paese su “quelli della casina”.
-Giorgio non fece mai parte del gruppo, ma mi disse di ricordarsi
-benissimo di quel periodo e che l’argomento, in paese, era sulla
-bocca di tutti. Aggiunse anche di ricordare perfettamente come
-la gente parlasse di “quelli della casina” che avevano
-addirittura fatto arrivare degli occhiali particolari che
-permettevano di vedere sotto i vestiti delle persone. Non era
-vero. E, che io ricordi, non furono mai acquistati quei famosi
-occhiali speciali.
+This chapter finds its place in this book thanks only to a simple, pleasant coincidence.
+On September 6, 2025, my son Filippo, my daughter-in-law Silvia, my two grandchildren Camilla and Giacomo, and I decided to hike up to the little church of San Gervasio, perched on the mountainside facing Bagolino, offering a stunning view of the village below. After taking in the panorama and enjoying the small thrill of ringing the church bell a few times, we began our walk back.
+
+On the way, I couldn’t miss the chance to stop by and greet my friend and former classmate Giorgio who, during the summer months, moves to the beautiful farmhouse he restored, located right along the trail. We were both genuinely happy to see each other again; opportunities to meet have become rare over the years.
+
+While chatting about this and that, we ended up talking about the “casina” and, in particular, about all the rumours that had circulated in town about “the boys from the casina.” Giorgio had never been part of our group, yet he told me he remembered that period vividly, and confirmed that the topic had been on everyone’s lips in the village.
+
+He added that he recalled perfectly how people said that “the boys from the casina” had supposedly ordered special glasses that allowed you to see under people’s clothes. It wasn’t true. And as far as I remember, those legendary “special glasses” were never purchased. What is true is that, through the Postal Market catalogue, we had ordered snorkelling masks and a few pairs of fins to use for swimming in the river.
 
 ![img](/assets/img/09.png)
 
-È vero piuttosto che, attraverso il catalogo di Postal Market,
-acquistammo delle maschere da sub e alcune paia di pinne da
-usare per i bagni nel fiume. Come spesso accade, la fantasia
-supera la realtà: quelle maschere da sub si trasformarono, nelle
-voci, in occhiali per la visione ai raggi X che, “quelli della
-casina”, utilizzavano per guardare sotto i vestiti delle ragazze!
-Se anche Giorgio, che non faceva parte del clan, ha ancora un
-ricordo così vivido di questo fatto, vuol dire che fu importante
-e quindi che merita di essere ricordato.
-A pensarci bene, quanto eravamo avanti, noi della casina? Non
-c’era INTERNET, non c’era AMAZON, ma riuscimmo ad avere i
-prodotti consegnati nel nostro borgo, sperduto tra i monti. Un
-piccolo miracolo di cui ancora oggi vado fiero.
+As often happens, imagination outruns reality: those simple snorkelling masks became, in the local lore, X-ray vision goggles that “the boys from the casina” used to peek under girls’ clothes! 
 
-NdA: La verità sui mitici occhiali a Raggi X è che fu un grosso
-inganno commerciale, una vera e propria truffa. Per buona
-pace dei detrattori di “quelli della casina”.
+If even Giorgio, who was never part of the clan, still recalls the story so clearly, it means it was an important episode, one worth remembering.
+Looking back, how ahead of our time were we, “the boys from the casina”? 
+There was no internet, no Amazon, and yet we managed to get products delivered to our tiny hamlet tucked away in the mountains. A small miracle, and one I’m still proud of today.
+
+Author’s note: The truth about those mythical X-ray glasses is that they were nothing more than a big commercial scam, a genuine swindle. Much to the disappointment of all the detractors of “the boys from the casina.”
 
 ![img](/assets/img/10.png)
