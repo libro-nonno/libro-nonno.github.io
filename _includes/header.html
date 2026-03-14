@@ -9,6 +9,16 @@
                  </li>
                  {%- endfor -%}
                  <li>Una vita ordinaria in tempi straordinari</li>
+                                <li class="lang-switcher">
+                                    {% assign is_english = page.collection == 'chapters_en' %}
+                                    {% if is_english %}
+                                        <span class="lang-selected">ENG</span> |
+                                        <a href="{{ page.url | replace_first:'/en/chapters','/chapters' }}">ITA</a>
+                                    {% else %}
+                                        <span class="lang-selected">ITA</span> |
+                                        <a href="/en{{ page.url }}">ENG</a>
+                                    {% endif %}
+                                </li>
              </ul>
          </nav>
      </div>
