@@ -1,104 +1,43 @@
 ---
 layout: chapter
-title: "Le chiromanti"
+title: "The fortune tellers"
 order: 10
 ---
 
 <!-- * In questo capitolo
 {:toc}
  -->
-Non sono un appassionato di cartomanzia, di chiromanzia e
-oroscopi. Certo, come molti, capita che legga o ascolti
-l’oroscopo ma niente di più. Il mio criterio è semplice: se le
-previsioni sono positive, bene, possono essere uno stimolo ad
-affrontare la giornata; se sono negative, non le prendo in
-considerazione.
+I’m Not Much into Fortune-Telling. I’m not particularly fond of card reading, palmistry, or horoscopes. Of course, like many people, I sometimes read or listen to the horoscope, but nothing more. My approach is simple: if the predictions are positive, fine — they can be a nice encouragement for the day; if they’re negative, I simply ignore them.
 
-## Due donne
+## Two Women
 
-Durante una vacanza a Lerici, sul lungomare, mi trovavo con
-Piera, allora mia fidanzata, e con sua madre, che per la prima
-volta in vita sua si concedeva una vacanza al mare.
-Passeggiavamo gustando un gelato quando, tra le varie
-bancarelle, una vecchia signora con un vistoso foulard in testa
-attirò la nostra attenzione. Era una cartomante che, con un
-sorriso accennato, mi invitò a farmi leggere le carte. Ero
-riluttante, ma Piera insistette e alla fine accettai.
+During a holiday in Lerici, I was walking along the seafront with Piera, who was then my fiancée, and with her mother, who for the first time in her life was treating herself to a holiday by the sea. We were strolling along while enjoying an ice cream when, among the various stalls, an elderly lady wearing a large, colourful headscarf caught our attention. She was a fortune-teller who, with a faint smile, invited me to have my cards read.
 
-La signora mescolò le carte, le dispose sul tavolino e iniziò a
-parlare, prima in modo abbastanza generico, poi via via più
-specifico. Disse, ad esempio, che me la cavavo bene negli studi
-ed era un peccato che li avessi interrotti; in effetti, lavorando,
-avevo deciso di abbandonare l’università. Parlò del rapporto
-tra me e Piera: vedeva una bellissima relazione destinata a
-durare, con molte soddisfazioni. Continuò così, con diversi
-elementi positivi, finché, a un tratto, cambiò tono, guardò
-prima me e poi Piera, e disse, con una certa sorpresa mista a
-dispiacere: “Ma… c’è un’altra donna nella vostra vita…”.
+I was reluctant, but Piera insisted, and eventually I agreed.
 
-Io e Piera ci scambiammo uno sguardo, con un sorriso un po’
-tirato, poi tornammo a fissare la cartomante che, continuando
-a girare le carte, annuiva come per confermare quanto appena
-detto. Ci furono attimi di lieve apprensione, finché arrivò la
-frase liberatoria, accompagnata da un sorriso: “Ah, tutto a
-posto, è la mamma della tua fidanzata!”.
-A distanza di tempo devo riconoscere che ci aveva visto giusto.
-Mia suocera è stata una presenza davvero importante nella
-nostra vita: una donna straordinaria, semplice, mai invadente,
-sempre positiva e generosissima. Terminata la seduta,
-ringraziai e salutai la cartomante, poi proseguimmo la
-passeggiata sul lungomare, io e le “mie due donne”.
+The woman shuffled the cards, laid them out on the small table, and began speaking—first in rather general terms, then gradually in a more specific way. She said, for example, that I was doing well in my studies and that it was a pity I had interrupted them; indeed, once I started working, I had decided to give up university. She spoke about my relationship with Piera, describing a beautiful bond destined to last, full of satisfaction.
+She went on like this, adding several positive elements, until suddenly her tone changed. She looked at me, then at Piera, and said with a mix of surprise and regret:
+“Ah… but there is another woman in your life…”
 
-## Il cortile
+Piera and I exchanged a glance, with a slightly tense smile, then turned again toward the fortune-teller, who kept flipping over the cards and nodding as though confirming her statement. There were a few moments of mild apprehension before the liberating sentence came, accompanied by a smile:
+“Oh, everything’s fine — it’s your fiancée’s mother!”
 
-Si avvicinava il mio compleanno, non ricordo esattamente di
-quale anno, probabilmente all’inizio degli anni ’90. Mia moglie
-decise di farmi una sorpresa decisamente particolare e,
-certamente, inaspettata: fissò un appuntamento con una
-cartomante del nostro paese, molto apprezzata, tanto da avere
-clienti abituali anche da fuori. Si diceva che persone autorevoli
-si rivolgessero a lei prima di prendere decisioni importanti.
-Quando Piera mi rivelò quale fosse il regalo per il mio
-compleanno, inizialmente mi arrabbiai un po’: non riuscivo a
-concepire come si potessero buttare via soldi in quel modo. Poi
-decisi di prenderla sul ridere e così ci recammo insieme dalla
-cartomante.
+Looking back, I must admit she had seen it right. My mother-in-law became a very important presence in our lives: an extraordinary, simple woman, never intrusive, always positive and extremely generous. When the session was over, I thanked and greeted the fortune-teller, and the three of us continued our walk along the seafront — me and “my two women.”
 
-La donna parlò bene della nostra relazione, descrivendo una
-vita serena e un futuro promettente. Poi si soffermò sulla casa
-in cui viviamo tuttora, che fa parte dell’ala di un vecchio cortile
-e che era stata da poco terminata. Il progetto e la realizzazione
-avevano richiesto un impegno enorme, ma alla fine eravamo
-soddisfatti e orgogliosi.
+## The Courtyard
 
-La cartomante però sostenne che per lei il progetto non era
-affatto finito: vedeva un’opera molto più grande e indicò
-addirittura una cifra economica che a me e a Piera sembrava
-irragionevole. Nonostante il nostro evidente scetticismo, la
-signora insistette a lungo, confermando una visione ben più
-ampia rispetto a quella che avevamo descritto.
-L’incontro si concluse con uno scambio di sorrisi: noi
-lasciammo quello studio contenti di aver conosciuto una
-persona gioviale e piacevole, pur rimanendo increduli per le
-sue parole riguardanti la casa e il cortile.
-Qualche anno dopo però, mio figlio, i miei due cognati e un
-costruttore riuscirono ad acquistare il resto del fabbricato
-fatiscente che costituiva la seconda ala del cortile. Iniziarono
-verifiche sul progetto, permessi di costruzione, volumetrie, e
-dopo non poche difficoltà partirono i lavori di demolizione e
-ricostruzione di un nuovo edificio.
+My birthday was approaching — I don’t remember exactly which year, probably in the early 1990s. My wife decided to give me a rather unusual and certainly unexpected surprise: she booked an appointment with a fortune-teller from our town, highly regarded and known to have regular clients even from out of town. It was said that influential people consulted her before making important decisions. When Piera told me what my birthday gift was, I initially got a bit annoyed. I couldn’t understand how anyone could waste money that way. Then I decided to take it with humour, and so we went together to see the fortune-teller.
 
-Oggi il cortile è diventato un complesso residenziale signorile,
-chiamato “Curt di Gambitt”, composto da dodici unità abitative
-che mi sono preso la briga di amministrare personalmente.
-Dunque la cartomante aveva visto giusto? Ribadisco il mio
-scetticismo verso cartomanti, chiromanti, astrologi e maghi
-vari, ma ogni tanto mi ritornano in mente le sue parole, la sua
-insistenza, la sua sicurezza nel descrivere qualcosa che
-sembrava irrealizzabile. Non è importante dare una risposta;
-ciò che conta è aver visto i miei figli e ora i miei nipoti correre
-felici nel nostro bel cortile, cosa che mi riempie di gioia e
-soddisfazione.
+The woman spoke positively about our relationship, describing a peaceful life and a promising future. Then she focused on the house where we still live, which is part of the wing of an old courtyard and had just recently been completed. The planning and construction had required an enormous amount of effort, and in the end we were satisfied and proud.
+
+But according to the fortune-teller, the project was far from finished: she envisioned something much larger and even suggested a financial figure that seemed absolutely unreasonable to both me and Piera. Despite our evident scepticism, she insisted at length, reaffirming a vision much more ambitious than what we had described. The meeting ended with an exchange of smiles: we left her studio pleased to have met a pleasant and lively woman, though still incredulous about her predictions regarding the house and the courtyard.
+
+A few years later, however, my son, my two brothers-in-law, and a builder managed to purchase the rest of the dilapidated structure that formed the second wing of the courtyard. They began studying plans, building permits, volumes, and after many difficulties, demolition and reconstruction of a new building finally began.
+
+Today, the courtyard has become an elegant residential complex called “Curt di Gambitt,” composed of twelve housing units — which I have taken upon myself to manage personally.
+
+So, was the fortune-teller right after all? I remain sceptical about fortune-tellers, palm readers, astrologers, and the like, but now and then her words, her insistence, and her confidence come back to mind — especially considering how impossible her prediction seemed at the time.
+It doesn’t really matter whether she was right. What matters is seeing my children, and now my grandchildren, running happily through our beautiful courtyard — something that fills me with joy and satisfaction.
 
 ![img](/assets/img/19.png)
-La vecchia Curt di Gambitt
+The old Curt di Gambitt 
