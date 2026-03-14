@@ -79,7 +79,7 @@ Note:
 Many figures destined to become major players in Italian politics passed through the Augustinianum College, including Amintore Fanfani, Ciriaco De Mita, Romano Prodi, Tiziano Treu, and Giovanni Maria Flick. One of Graziano’s fellow residents was Mario Capanna, who even then stood out for his fiery protests, to the point of being expelled from the university and forced to leave the college.
 Graziano chose the path of teaching in classical high schools; he served as a Latin instructor at the Catholic University and authored various publications, especially in Latin and also on the Bagolino dialect. For fifteen years he was the headmaster of the V. Gambara Institute in Brescia, which, during his leadership, became the largest school in Lombardy in terms of student numbers.
 
-## The Recommendation.
+## The Recommendation
 
 A recommendation is never something flattering to boast about. Those who benefit from one usually keep it to themselves and do not want to talk about it — unless… During my military service in Cecchignola, Rome, the moment arrived for assignment postings: everyone hoped to be sent somewhere near home, but usually those from the north were assigned to the centre–south, and vice versa.
 

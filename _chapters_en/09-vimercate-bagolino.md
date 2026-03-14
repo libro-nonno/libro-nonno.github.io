@@ -1,301 +1,117 @@
 ---
 layout: chapter
-title: "Ricordi tra Vimercate e Bagolino"
+title: "Memories between Vimercate and Bagolino"
 order: 9
 ---
 
 <!-- * In questo capitolo
 {:toc}
  -->
-## La settimana bianca
+## The ski week
 
-Negli anni ’70, dalle nostre parti, la neve non mancava mai. Io e
-Piera eravamo da poco sposati e avevamo finalmente lasciato
-alle spalle gli impegni del matrimonio e soprattutto la
-ristrutturazione della casa in cui avevamo deciso di vivere.
-Avevamo pure messo da parte qualche risparmio e potevamo
-concederci qualche soddisfazione.
-A me piaceva sciare, così, perché non concederci una settimana
-bianca al Gaver, località sciistica vicino al mio paese, Bagolino?
-Detto, fatto! Ne parlammo anche con alcuni amici e colleghi di
-lavoro, che espressero il desiderio di aggregarsi. In poco tempo
-si formò un gruppo di una decina di persone.
-Trovai disponibilità al Villaggio dei Cardi, un complesso
-costruito da poco, formato da un’unità centrale con sala
-ristorante e bar, circondato da numerosi chalet indipendenti
-dove avremmo alloggiato.
-Tutti eravamo entusiasti e prenotammo per la seconda
-settimana di gennaio 1977. Tutto andò a meraviglia: le piste
-erano bene innevate, il tempo limpido e soleggiato, la
-compagnia piacevole e si mangiava bene. La settimana volò.
-Venerdì, penultimo giorno, il cielo si fece nuvoloso e
-incominciò a nevicare. Tre del nostro gruppo decisero di
-partire in anticipo. I fiocchi si fecero sempre più fitti,
-trasformandosi in una intensa nevicata. “Se continua così,
-avremo seri problemi col viaggio”, pensammo tutti.
+In the 1970s, in our area, snow was never in short supply. Piera and I had recently married, finally leaving behind the many commitments tied to the wedding and, above all, the renovation of the house we had chosen as our home. We had even managed to save a little money and could afford a few small luxuries.
 
-Durante la cena, si rideva e scherzava, ma c’era anche
-preoccupazione. Francesco Colombo, ragazzo brillante ma noto
-per scarso autocontrollo, cominciò ad agitarsi e lo fece a modo
-suo, da vero intrattenitore, suscitando le risate del gruppo.
-Graziella che lo conosceva bene, chiese alla cameriera di venire
-al nostro tavolo e di comunicare, per scherzo, che la strada per
-Bagolino era interrotta per la caduta di una valanga e
-difficilmente saremmo riusciti a partire il giorno seguente. La
-fake news mandò nel panico Colombo. Assistemmo ad un
-crescendo di battute, imprecazioni, esclamazioni che ci fecero
-ridere di gusto.
-Parlammo di come affrontare la situazione, consapevoli che
-l’unica cosa da fare era aspettare il miglioramento del tempo.
-Intanto continuava a nevicare.
-Chi era tornato dagli chalet raccontava di avere avuto grande
-difficoltà a trovare il sentiero, perché la neve cadeva così fitta
-da cancellare in pochi minuti le tracce degli scarponi.
-Dopo una mezz’ora, la cameriera tornò da noi con espressione
-seria e disse che tre, forse quattro valanghe erano realmente
-cadute tra Gaver e Valle Dorizzo.
-Poco dopo, le luci del ristorante si spensero per l’interruzione
-di corrente e la cena proseguì a lume di candela. La situazione
-si fece preoccupante: eravamo isolati, senza riscaldamento.
-Andammo a dormire sperando di avere notizie migliori la
-mattina successiva. Fortunatamente Colombo si era calmato un
-po’.
+I had always enjoyed skiing, so why not treat ourselves to a ski week in Gaver, a mountain resort near my hometown, Bagolino? No sooner said than done. We mentioned it to some friends and colleagues, who immediately expressed the desire to join us. In a short time, our group grew to about ten people.
 
-Il giorno dopo arrivarono notizie più precise, purtroppo non
-buone: ben sette valanghe ostruivano la strada tra Gaver e Valle
-Dorizzo e sarebbero stati necessari alcuni giorni per liberarla.
-Non restava che prenderla con filosofia e pensare a come
-occupare il tempo.
-L’albergatore ci rassicurò: c’erano scorte di cibo sufficienti fino
-a Pasqua, la comunicazione con il paese era assicurata grazie al
-collegamento da radioamatore ed essendo vicini alla centrale
-elettrica, era fiducioso che la corrente potesse essere
-ripristinata in pochi giorni.
+I found accommodations at the Villaggio dei Cardi, a newly built complex consisting of a central lodge with a restaurant and bar, surrounded by numerous independent chalets where we would be staying. Everyone was excited, and we booked the second week of January 1977.
 
-Grazie al cielo, il tempo migliorò e smise di nevicare. I soccorsi
-si erano attivati celermente e le ruspe avevano ricavato dei
-varchi in mezzo agli ammassi di neve delle valanghe così da
-rendere possibile attraversare i punti più critici a piedi o con la
-motoslitta. Grazie al trasporto con la motoslitta, Graziella,
-Loredana, Mariangela e Piera furono in grado di lasciare il
-villaggio e raggiungere Valle Dorizzo. Da li, su una camionetta
-dei carabinieri, raggiunsero Bagolino e con i mezzi pubblici
-proseguirono verso casa a Burago. Io, Colombo, Claudio con la
-moglie Bambi e la figlioletta Lisa fummo costretti a restare, in
-attesa che la strada venisse resa percorribile alle auto.
-La domenica, un elicottero dei carabinieri sorvolò la zona e,
-dopo alcuni giri, lanciò un sacco scuro nella neve fresca. Lo
-recuperammo con fatica e trovammo dentro del pane fresco,
-una sorpresa tanto gradita quanto inattesa!
-Lo stesso giorno, mio fratello Angiolino, Duilio e il mio caro
-amico Fabio, partiti da Valle Dorizzo, ci raggiunsero a piedi,
-aggiornandoci sullo stato della strada e spiegandoci che
-sarebbero stati sicuramente necessari alcuni giorni prima che
-le ruspe potessero liberarla.
-Per noi rimasti, il principale problema era come trascorrere il
-tempo, dato che con tutta quella neve non ci si poteva muovere;
-ad ogni passo sprofondavamo fino ai fianchi.
-Gli impianti di risalita non funzionavano, ma gli addetti alle
-piste ci trasportarono sui gatti delle nevi fino alla sommità,
-permettendoci di godere qualche discesa sugli sci.
-I maestri di sci, Gigi e Giacomo, ci accompagnarono durante le
-discese, e riuscimmo anche a divertirci.
-Intanto le squadre di soccorso lavoravano senza sosta per
-sgomberare la strada dalla neve.
-Le nostre automobili erano sepolte sotto due metri o più di
-neve e bisognava spalare a mano per liberarle. Ripulite le auto
-dalla neve, non restava che attendere il via libera per il ritorno.
+Everything went beautifully. The slopes were perfectly covered in snow, the weather was clear and sunny, the company was pleasant, and the food was excellent. The week flew by.
 
-Finalmente ci fu detto che potevamo partire. Dopo saluti e
-abbracci, ci congedammo dai maestri di sci e dal personale del
-villaggio, che erano stati molto cortesi con noi, con la promessa
-di rivederci ma…solo a fine inverno e con la neve sciolta.
-Con molta cautela iniziammo il viaggio verso casa. Arrivati al
-primo varco, ricavato tra mura di neve alte come case, a
-Colombo si sganciò la catena da neve dalla ruota. Apriti cielo!
-Ma non c’era tempo per lamentarsi. Io e Claudio rimontammo
-la catena e riprendemmo la marcia.
-La settimana bianca, tanto attesa, era giunta a conclusione e ne
-ero soddisfatto; anzi, dato che erano state due, ero
-“doppiamente” soddisfatto…
+On Friday, the second-to-last day, the sky clouded over and it began to snow. Three people from our group decided to leave early. The snowflakes became thicker and thicker until the snowfall turned heavy. “If it keeps going like this, we’re going to have serious trouble getting home,” we all thought.
+
+During dinner, we laughed and joked, though a sense of worry hung in the air. Francesco Colombo, a bright guy but known for his lack of self-control, started to get anxious and did so in his own way, like a true entertainer, making the whole group burst into laughter. Graziella, who knew him well, asked the waitress to come to our table and, as a prank, tell us that the road to Bagolino had been closed by an avalanche and that leaving the next morning would be nearly impossible. The fake news sent Colombo into a panic. What followed was a crescendo of outbursts, exclamations, and colourful commentary that kept us laughing.
+
+We discussed what to do, knowing full well that the only thing possible was to wait for the weather to improve. Meanwhile, the snow kept falling.
+Those who had returned from the chalets told us how difficult it had been to find the path back; the snow was falling so fast that it erased their footprints within minutes.
+
+After half an hour, the waitress returned with a serious expression and reported that three, perhaps four avalanches had actually fallen between Gaver and Valle Dorizzo.
+
+Shortly afterward, the restaurant lights went out due to a power failure, and dinner continued by candlelight. The situation became worrisome: we were isolated, without heating.
+We went to bed hoping for better news the next morning. Fortunately, Colombo had calmed down somewhat.
+
+The next day we finally received more precise updates, though not encouraging ones: no fewer than seven avalanches were blocking the road between Gaver and Valle Dorizzo, and it would take several days to clear them.
+There was nothing to do but take it philosophically and think about how to pass the time.
+The hotel manager reassured us: they had enough food supplies to last until Easter; communication with the village was guaranteed thanks to a ham-radio link; and being close to the power station, he was confident electricity would be restored within a few days.
+
+Thankfully, the weather improved and the snowfall ceased. Rescue teams were quickly mobilized, and snowploughs had begun carving narrow passages through the massive avalanche debris, making it possible to cross the most critical points on foot or by snowmobile. Thanks to a snowmobile escort, Graziella, Loredana, Mariangela, and Piera managed to leave the village and reach Valle Dorizzo. From there, a Carabinieri truck took them to Bagolino, where they caught public transportation back home to Burago. I, Colombo, Claudio with his wife Bambi and their little daughter Lisa had no choice but to remain and wait until the road was safe for cars.
+
+On Sunday, a Carabinieri helicopter flew over the area, and after several passes dropped a dark sack into the fresh snow. We retrieved it with difficulty and found fresh bread inside, a delightful and unexpected surprise. That same day, my brother Angiolino, along with Duilio and my dear friend Fabio, trekked up from Valle Dorizzo to reach us, updating us about the situation and confirming that it would definitely take some more days before the snowplows could clear the road.
+
+For those of us who remained, the real challenge became figuring out how to spend the time, as the deep snow made any movement nearly impossible: with each step, we sank down to our hips.
+The ski lifts were out of service, but the slope operators took us up to the top on snowcats, allowing us at least a few downhill runs. Ski instructors Gigi and Giacomo guided us, and we even managed to enjoy ourselves.
+Meanwhile, rescue crews worked tirelessly to clear the road. Our cars were buried under two meters of snow or more, and we had to dig them out by hand. Once the cars were freed from the snow, we simply waited for the all-clear to depart.
+At last, we were told we could leave. After heartfelt thanks, handshakes, and promises to return—but only at the end of winter, with the snow safely gone—we set off.
+
+Driving with great caution, we reached the first narrow passage between towering walls of snow, as high as houses. There, Colombo’s snow chain slipped off the wheel. All hell broke loose. But there was no time for complaints. Claudio and I fixed the chain and continued on our way.
+The long-awaited ski week had come to an end, and I was satisfied. In fact, since the week had turned into two, I was “doubly” satisfied…
 
 ![img](/assets/img/18.png)
 
-## La crocerossina
+## The little Red Cross Nurse.
 
-Chi è la crocerossina? Ve lo svelo subito: è mia cognata
-Mariangela. Non poteva certo mancare nel libro dei miei
-ricordi. Se dovessi raccontare tutto ciò che la riguarda,
-servirebbe un libro a parte, ma qui mi limiterò a un episodio
-che da solo dipinge bene la persona.
-Segni particolari: “sûlevada” – in italiano, sollevata, sbadata –
-come la definiva mia suocera, che non aveva tutti i torti. In
-realtà, Mariangela è una ragazza dolcissima, sempre pronta ad
-aiutare chiunque si trovi in difficoltà, generosissima, con un
-autentico spirito da crocerossina.
-Difatti, si iscrisse al corso presso la Croce Rossa di Monza, dove
-ottenne il diploma di crocerossina. Questo comportava, tra le
-altre cose, l’obbligo di frequentare corsi di aggiornamento.
+Who is the “little Red Cross nurse”? I’ll tell you right away: she’s my sister-in-law, Mariangela. She simply had to be included in the book of my memories. If I were to recount everything about her, I’d need a separate volume, but here I will limit myself to one episode that, on its own, describes her perfectly.
 
-Per questo motivo decise di partecipare a una serie di incontri
-di primo soccorso organizzati dalla Croce Rossa a Monza.
-Riuscì a convincere a seguirli anche la sorella, oggi mia moglie,
-e una collega. Chi ben comincia...
-Già al primo incontro arrivarono in ritardo. Un guasto
-meccanico costrinse Mariangela a parcheggiare l’auto nelle
-vicinanze e a raggiungere la sede a piedi. Arrivarono tutte e tre
-trafelate, quando la riunione era ormai iniziata. Mariangela
-guidava il terzetto.
-Aprì la porta del corridoio centrale della sala, che emise un
-forte cigolio, attirando l’attenzione delle circa trecento persone
-presenti: insegnanti di scuola, vigili urbani, vigili del fuoco,
-poliziotti e altri.
-Percorse rapidamente alcuni metri, fece una frettolosa
-genuflessione e si alzò facendo il segno della Croce. Quel gesto
-provocò una fragorosa risata nella platea, che faticò non poco a
-calmarsi.
-Mariangela avrebbe voluto sparire, diventò rossa come un
-peperone e fu pervasa da una sensazione di svenimento. Certo,
-in caso di malore, non sarebbe mancato il pronto intervento!
-Nel massimo imbarazzo, il terzetto raggiunse infine i propri
-posti a sedere.
+Distinguishing trait: “sûlevada” — in Italian sollevata, meaning absent-minded or scatterbrained — as my mother-in-law used to call her, and not without reason.
 
-## Il maglione
+In reality, Mariangela is a sweet, kind-hearted girl, always ready to help anyone in need, incredibly generous, with the true spirit of a Red Cross nurse. Indeed, she enrolled in a course at the Monza Red Cross and earned her Red Cross nurse certification. This required, among other things, attending regular refresher courses.
 
-Lavoravo da circa due anni a Vimercate. Durante i primi sei
-mesi avevo affittato una camera in una pensione vicino alla
-stazione del tram per Milano. Successivamente, a causa del
-trasferimento del mio dipartimento a Vimodrone, decisi di
-lasciare la pensione preferendo tornarmene a Brescia anche se
-questo significava dover fare il viaggio in treno ogni giorno.
-Dopo un anno, quel viaggio cominciò a pesarmi. Tre ore di
-treno quando tutto filava liscio; poi però bisognava fare i conti
-anche con gli scioperi e con la necessità di fare del lavoro
-straordinario in occasione di scadenze improrogabili. Una
-situazione insostenibile. Fu allora che la mia fidanzata, ora mia
-moglie, e mia cognata, riuscirono a trovare una camera in
-affitto, sempre a Vimercate. Ero felicissimo ma, quando vi andai
-ad abitare, scoprii che la camera era da condividere con
-un’altra persona.
+For this reason, she decided to take part in a series of first-aid training sessions organized by the Red Cross in Monza. She even managed to convince her sister — now my wife — and a colleague to join her. A good start… or so it seemed.
+Already at the very first meeting, they arrived late. A mechanical problem forced Mariangela to park the car nearby and reach the venue on foot. The three of them arrived out of breath, just as the session had already begun. Mariangela led the trio.
 
-Non proprio una piacevole sorpresa. Avevo già versato un
-anticipo, così mi adattai, in attesa di trovare di meglio. La
-stanza era da spartire con un napoletano, trasferitosi da poco,
-che faceva il postino. Una persona gioviale, piacevole ma capii
-in fretta, che era meglio mantenere un po’ le distanze. Nella
-stanza, condividevamo anche l’armadio dei vestiti. Un giorno,
-volendo andare a casa della mia fidanzata, e volendomi
-presentare in ordine, cercai la camicia elegante, quella delle
-occasioni speciali. Nulla, la camicia era sparita. Evidentemente
-se l’era presa il mio compagno di stanza. Notai nell’armadio un
-maglione bordeaux con disegni di color bianco, ben riposto,
-piegato, nuovo, con l’etichetta d’acquisto ancora attaccata.
-Senza pormi troppe domande, senza esitazioni, lo indossai.
-Non mi rimaneva che correre da Piera e farle la bella sorpresa.
-Anche a me che non avevo proprio gusto nel vestire, quel
-maglione appariva davvero kitsch, pacchiano, dozzinale.
+She opened the door to the central aisle, which let out a loud creak, drawing the attention of the roughly three hundred people present: schoolteachers, local police officers, firefighters, policemen, and others. She walked a few steps quickly, made a hurried genuflection, and stood up doing the sign of the Cross. That gesture triggered a roar of laughter from the audience, which took quite some time to settle down.
 
-Arrivato a casa di Piera, scesi dalla mia Dyane con l’aria sicura
-di chi sa di star bene! Piera mi accolse col suo solito bel sorriso,
-ma più mi avvicinavo a lei e più il sorriso si spegneva per lasciar
-posto via via ad un’espressione di incredulità, di serietà quasi
-minacciosa. Seguì una raffica di domande: “dove l’hai
-comprato?”; “quando l’hai comprato?”; “quanto l’hai pagato?” e
-così via… Sono certo che la domanda più importante, anche se
-non pronunciata fu: “come hai osato, senza il mio permesso?”.
-Al termine, un ordine netto che non ammetteva repliche:
-“Portalo subito indietro!”. Cercai di spiegarle che era stata
-un’occasione, che il maglione non era poi così male, inventai
-delle scuse ma lei non voleva sentir ragione. Dopo interminabili
-minuti di finzione e di scambio di battute tra me e Piera, spiegai
-come erano andate davvero le cose e si risolse tutto. Quanto al
-napoletano, quando gli dissi che, non trovando la mia camicia,
-avevo preso il suo maglione, mi rispose divertito: “Va-bbuono
-guagliò!..”.
+Mariangela wished she could vanish into thin air; she blushed as red as a beet and felt faint with embarrassment. Certainly, had she actually fainted, there would have been no shortage of immediate medical assistance! In utter embarrassment, the trio finally reached their seats.
 
-## Ma che bella giornata!...
+## The sweater
 
-Era una bella domenica di fine novembre e, come ogni anno,
-decidemmo di fare una capatina al mio paese, Bagolino, per
-acquistare il famoso formaggio “Bagoss” e altri prodotti locali
-da gustare durante le feste di Natale.
-Ne approfittammo anche per un pranzo al ristorante “Al tempo
-perduto…”, il preferito di Piera, mia moglie. Sapevamo già cosa
-scegliere: per primo un tris composto da malfatti al burro fuso,
-penne al Bagoss e risotto ai porcini; per secondo, spezzatino ai
-funghi porcini con polenta. Chiudere il tutto con un buon vino
-rosso era d’obbligo.
-Ma Piera cominciò a farmi qualche rimprovero: “Non
-esagerare, devi guidare e se ti fermano…” (il riferimento a
-carabinieri o polizia era sottinteso). Al secondo bicchiere tornò
-a ricordarmelo.
-Terminammo il pranzo soddisfatti, tutto era delizioso. Il
-proprietario, che mi conosce bene, mi propose un digestivo,
-“offerto dalla casa”. Non potevo certo rifiutare: perfetto per
-concludere l’ottimo pasto.
+I had been working in Vimercate for about two years. During the first six months, I had rented a room in a boarding house near the tram station for Milan. Later, as my department was moved to Vimodrone, I decided to leave the boarding house and return to Brescia, even though it meant commuting by train every day.
 
-Piera provò a mandarmi di traverso il grappino: “E se ti
-fermano?...” Io non risposi e mi gustai l’ultima goccia.
-Ringraziammo, salutai l’amico ristoratore e ci incamminammo
-verso l’auto per rientrare a Burago.
-Arrivati a Idro, ci trovammo dietro a un camion che non
-superava i 40 km/h. La strada provinciale è stretta, piena di
-curve ed è impossibile sorpassare. Dopo otto chilometri di
-pazienza arrivammo a Vestone.
-Conosco bene la strada e mi preparai al sorpasso nel lungo
-rettilineo verso l’abitato, pur sapendo che in quel tratto c’è il
-divieto di sorpasso ma non ne potevo più di stare dietro a quel
-camion così lento. Misi la freccia e accelerai.
-Non feci in tempo ad affiancare l’automezzo che mi toglieva la
-visuale ed ecco apparire, in fondo al rettilineo, una pattuglia
-della polizia. Ormai era troppo tardi per pentirsi. Completai il
-sorpasso e mi preparai ad accostare, seguendo l’invito del
-poliziotto con la paletta rossa in mano.
-Mi fermai, consapevole di averla combinata grossa: divieto di
-sorpasso, superamento della linea continua, forse anche
-eccesso di velocità. L’euforia per l’ottimo pranzo e per la bella
-giornata, svanì in un istante e pensai alle inevitabili
-conseguenze.
+After a year, that commute began to wear me down. Three hours on the train when everything went smoothly; but there were also strikes to deal with, and the need to work overtime when deadlines could not be postponed. It became an unbearable situation.
+That’s when my fiancée—now my wife—and my sister-in-law managed to find a room for rent in Vimercate. I was delighted, but when I moved in, I discovered that the room had to be shared with another person. Not the nicest surprise. I had already paid a deposit, so I tried to adapt while waiting to find something better.
 
-“Libretto e patente, prego” furono le parole del poliziotto.
-Attesi il controllo dei documenti e cercai di giustificarmi: otto
-chilometri di strada, venti minuti dietro al camion, tanta strada
-ancora da fare.
-Mia moglie, vedendo che le cose si protraevano, scese dall’auto
-e, con tono di rimprovero, esclamò: “Io te l’avevo detto! E se ti
-fanno il palloncino?”.
-Credo di averla fulminata con uno sguardo. Poi rivolsi
-l’attenzione al poliziotto, sperando non avesse udito le sue
-parole o peggio, che decidesse di non procedere con l’alcoltest.
-Il poliziotto, incredulo, guardò prima mia moglie, poi me,
-quindi abbassò lo sguardo sui documenti, scuotendo
-lievemente la testa.
+The room was shared with a Neapolitan who had recently moved there and worked as a postman. He was cheerful and pleasant, but I quickly understood it was wise to keep a little distance. We even shared the wardrobe.
+One day, wanting to visit my fiancée and present myself looking neat, I searched for my dress shirt — the one for special occasions. Nothing. It had disappeared. Clearly, my roommate had taken it.
 
-Seguirono attimi di vero terrore. Il poliziotto si rivolse
-nuovamente a me chiedendo: “Sa che la sua patente è
-scaduta?”.
-“Oddio, ci mancava solo questa! E ora cosa faccio?” pensai. La
-situazione era davvero critica.
-Dopo interminabili minuti di attesa, il poliziotto mi mostrò il
-verbale chiedendomi di firmarlo, se d’accordo.
-Bastò una rapida occhiata: mi contestava solo la guida con
-patente scaduta. Mi era andata bene!
-Mi sono chiesto spesso cosa lo avesse spinto a tanta clemenza.
-Forse a ridosso del Natale si diventa più indulgenti, o forse intuì
-che avrei dovuto fare i conti con mia moglie: una punizione ben
-più pesante della multa appena ricevuta.
+In the wardrobe, however, I noticed a burgundy sweater with white patterns — neatly folded, new, with the price tag still attached. Without giving it a second thought, without hesitation, I put it on. Al	l that was left was to run to Piera’s house and surprise her.
+Even I, who had no particular sense of style, thought the sweater looked downright kitschy — gaudy, tacky, cheap.
+When I arrived at Piera’s house, I stepped out of my Dyane with the confident air of someone who thinks he looks great.
 
-Appena seduti in macchina, le prime parole di Piera furono: “Io
-te l’avevo detto! Ora andiamo a Desenzano, all’outlet di Gallo, e
-spendo la stessa cifra della tua multa!”
-Credo abbia speso di più ma, dopo una giornata così bella,
-poteva permetterselo...
-Accesi la radio e, su Radio Italia, andava in onda la canzone di
-Ugolino, “Ma che bella giornata!”. Una semplice, curiosa
-coincidenza.
+Piera welcomed me with her usual lovely smile, but the closer I got, the more that smile faded, giving way to an expression of disbelief — even a slightly threatening seriousness. A barrage of questions followed: “Where did you buy it?” “When did you buy it?” “How much did you pay for it?” And so on…
 
-A margine di questo episodio, ricordo che, per rivalsa nei miei
-confronti, Piera volle appendere il verbale della polizia
-all’albero, come “trofeo-regalo” di quel Natale, per ricordarmi
-che anche il “perfettino” può sbagliare. (Molto raramente,
-aggiungo io.)
+I’m sure the most important question — even if unspoken — was: “How dare you, without my permission?” In the end, she gave a firm, unquestionable order: “Take it back immediately!”
+
+I tried explaining that it had been a good opportunity, that the sweater wasn’t so bad; I invented excuses, but she would have none of it. After endless minutes of pretending and exchanging comments, I finally explained what had really happened, and everything was resolved.
+
+As for the Neapolitan, when I told him that, not finding my shirt, I had worn his sweater, he replied with amusement: “Va-bbuono, guagliò!” (“All right, kid!”)
+
+## A beautiful day.
+
+It was a beautiful Sunday at the end of November and, as we did every year, we decided to take a trip to my hometown, Bagolino, to buy the famous Bagòss cheese and other local products to enjoy during the Christmas holidays.
+We also took the opportunity to have lunch at the restaurant Al Tempo Perduto…, Piera’s favorite. We already knew exactly what to order: as a starter, a trio of malfatti with melted butter, penne with Bagòss, and porcini mushroom risotto; for the main course, porcini mushroom stew with polenta. Ending the meal with a good red wine was simply mandatory.
+But Piera began to scold me: “Don’t overdo it. You have to drive, and if they stop you…” (the reference to the police or the Carabinieri was implied). She reminded me again after my second glass.
+
+We finished our meal satisfied; everything was delicious. The owner, who knows me well, offered me a digestif “on the house.” I certainly couldn’t refuse: the perfect way to conclude an excellent lunch.
+Piera tried once more to discourage me from drinking the grappa: “And what if they stop you?…” I didn’t answer and enjoyed the last drop. We thanked him, I said goodbye to my restaurateur friend, and we walked to the car to head back to Burago.
+After reaching Idro, we found ourselves stuck behind a truck going no faster than 40 km/h. The provincial road is narrow, full of curves, and overtaking is impossible. After eight kilometres of patience, we arrived in Vestone.
+
+I know the road well and prepared to overtake on the long straight stretch leading into town, even though I knew full well that overtaking was prohibited there. But I had had enough of following that slow truck. I signalled and accelerated.
+I hadn’t even managed to pull up alongside the truck, which was blocking my view, when suddenly a police car appeared at the end of the straight. It was already too late to regret it. I completed the overtaking manoeuvre and prepared to pull over, following the officer’s signal with the red paddle.
+
+I stopped, fully aware I had made a serious mistake: overtaking where prohibited, crossing the solid line, and probably speeding as well. The euphoria from the excellent lunch and the beautiful day vanished instantly, replaced by thoughts of the inevitable consequences.
+“License and registration, please,” said the officer. I waited as he checked my documents and tried to justify myself: eight kilometres stuck behind a truck, twenty minutes wasted, and a long drive still ahead.
+My wife, seeing that things were taking a while, got out of the car and, in a scolding tone, said: “I told you! And what if they test you for alcohol?”
+I think I shot her a lethal glance, then turned back toward the officer, hoping he had not heard her comment or, worse, decided to administer the alcohol test.
+
+The officer, incredulous, looked first at my wife, then at me, then lowered his eyes to the documents, shaking his head slightly.
+A few moments of pure terror followed. The officer looked at me again and asked: “Did you know your driver’s license has expired?”
+“Good grief, just what I needed! Now what do I do?” I thought. The situation was really serious.
+After several agonizing minutes, the police officer showed me the report and asked me to sign it if I agreed.
+A quick glance was enough: he was citing me only for driving with an expired license. I had gotten off lightly.
+
+I’ve often wondered what moved him to such leniency.
+Perhaps the approach of Christmas makes people more forgiving, or perhaps he sensed that I would already have to deal with my wife — a far harsher punishment than the fine itself.
+As soon as we sat back in the car, Piera’s first words were: “I told you! Now we’re going to Desenzano, to the Gallo outlet, and I’ll spend the same amount as your fine!”
+
+I think she spent even more, but after such a wonderful day, she could certainly afford it.
+I turned on the radio, and on Radio Italia they were playing Ugolino’s song “Ma che bella giornata!” A simple, curious coincidence.
+As a footnote to this episode, I should add that, as a form of revenge, Piera insisted on hanging the police report on the Christmas tree as a “trophy-gift,” to remind me that even “Mr. Perfect” can make mistakes. (Very rarely, I might add.)

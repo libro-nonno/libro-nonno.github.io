@@ -1,65 +1,32 @@
 ---
 layout: chapter
-title: "Il Concorde"
+title: "The Concorde"
 order: 8
 ---
 
 <!-- * In questo capitolo
 {:toc}
  -->
-Il Concorde, aereo di linea supersonico, è stato un’icona per la
-sua velocità e un simbolo di innovazione e prestigio. Frutto di
-una collaborazione tra Francia e Gran Bretagna in un’epoca di
-forte competizione tecnologica, nonostante la sua dismissione,
-continua ad affascinare per la sua unicità.
-Tre ricordi mi legano a questo aereo.
+The Concorde, the supersonic airliner, was an icon of speed and a symbol of innovation and prestige. Born from a collaboration between France and Great Britain during an era of intense technological competition, it continues to fascinate for its uniqueness, despite having been retired from service.
+
+I have three memories tied to this extraordinary aircraft.
 
 ![img](/assets/img/16.png)
 
-## Il prototipo
+## The prototype
+The first dates back to 1972, when I had the good fortune to see it at the military base in Farnborough, Great Britain. My brother Flavio was part of a team of technicians involved in ground testing: mechanical and thermal stress tests, opening and closing of components, alarm checks, and similar procedures. Somehow, he managed to get me permission to enter the enormous hangar where the Concorde was housed. It was an indescribable thrill. Before me stood a one-of-a-kind machine, widely talked about but seen by very few. I had every reason to feel privileged.
 
-Nel 1972 ebbi la fortuna di vedere uno dei primi prototipi di
-questo aereo nella base militare di Farnborough, in Gran
-Bretagna. Mio fratello Flavio era parte di un team di tecnici
-impegnati nei test di collaudo a terra: prove di stress meccanici,
-termici, apertura e chiusura parti, verifiche degli allarmi e
-simili. Riuscì, non so come, a farmi ottenere un permesso per
-entrare nell’immenso capannone dove era ospitato il Concorde.
-Fu un’emozione indescrivibile. Davanti a me c’era un oggetto
-unico al mondo, di cui si parlava molto ma che pochissimi
-avevano avuto la possibilità di vedere. Un valido motivo per
-sentirmi privilegiato.
+## The Crash
 
-## Lo schianto
+The second episode occurred in July 2000. Returning from a business trip, I was at Paris airport when rumours began to circulate — first confused, then increasingly clear: a Concorde had caught fire during take off and crashed shortly afterward. I was deeply shaken and boarded my flight to Milan with great anxiety. Getting on a plane after learning that another aircraft, which had just taken off from the same airport, had crashed is an experience that forces you to consider every possible risk. That feeling of anguish stayed with me throughout the entire flight. That accident brought the Concorde era to an end.
 
-Nel luglio del 2000, rientrando da un viaggio di lavoro, mi
-trovavo all’aeroporto di Parigi e improvvisamente
-cominciarono a circolare voci, dapprima confuse e poi sempre
-più precise: un Concorde si era incendiato in fase di decollo ed
-era precipitato poco distante. Ero profondamente scosso e con
-molta apprensione presi il mio volo per Milano. Salire su un
-aereo dopo aver saputo che un altro, appena decollato dallo
-stesso scalo, era precipitato è un’esperienza che fa mettere in
-conto ogni possibile rischio. Quel senso di angoscia mi
-accompagnò per tutto il viaggio. Con quell’incidente finì la
-storia del Concorde.
+## At Duxford museum
 
-## Al museo di Duxford
+My last memory dates back to 2015, when I visited the Imperial War Museum in Duxford, near Cambridge, in Great Britain. A former colleague of my brother Flavio had organized a guided tour for retired colleagues who had worked on the Concorde for many years.
 
-L’ultimo ricordo risale al 2015, quando visitai l’Imperial War
-Museum di Duxford, vicino a Cambridge, in Gran Bretagna. Un
-ex collega di mio fratello Flavio organizzò una visita guidata per
-gli ex colleghi, ormai in pensione, che avevano lavorato anni al
-Concorde. Il museo ospita una vastissima collezione di velivoli,
-ma il Concorde è la vera star. La sua linea affusolata, le sue ali
-eleganti e il “naso” che si abbassa come il becco di un rapace lo
-rendono immediatamente riconoscibile.
+The museum hosts an extensive collection of aircraft, but the Concorde is unquestionably the star. Its sleek, tapered shape, elegant wings, and the “droop nose” that lowers like the beak of a bird of prey make it instantly recognizable.
 
-Dopo una breve presentazione, la guida ci invitò a salire a
-bordo. Mettere piede su quel mito fu un’emozione forte; ancor
-più straordinario fu poterci sedere nella cabina di pilotaggio al
-posto di uno dei due piloti, un’esperienza indimenticabile.
+After a brief introduction, the guide invited us aboard. Setting foot on such a legendary aircraft was a powerful emotion; even more extraordinary was the chance to sit in the cockpit, in the seat of one of the two pilots — an unforgettable experience.
 
 ![img](/assets/img/17.png)
-Flavio alla “guida” del Concorde
-
+Flavio piloting the Concorde
