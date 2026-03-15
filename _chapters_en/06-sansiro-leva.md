@@ -38,7 +38,7 @@ As I carried out the movement, I became aware that I had landed in the middle of
 
 Fortunately, the accident didn’t result in serious consequences — except that for a long time afterward, every time I had to cross an intersection, I felt a wave of anxiety, even when I was riding on a bus on my way to school or downtown. As I write, I relive the moment again, and the black streak left by my shoe on the hood of the FIAT 500 is still etched vividly in my mind — an indelible trace of that instant.
 
-## Summer Jobs
+## Summer Jobs
 
 Where did we go on holiday? To the seaside? No. To the mountains? I was already living there, so that didn’t count. So… what did we do? We went to work. During my middle-school years, I spent my summers helping some family acquaintances who ran the restaurant Locanda del Cavallino. There I lent a hand wherever needed — in the kitchen, at the bar, or doing small tasks — and I felt like a real part of the place. Giving up long days of play with my friends wasn’t always easy, but I was motivated: I wanted to be useful, and I wanted to do things well.
 

@@ -62,7 +62,7 @@ She opened the door to the central aisle, which let out a loud creak, drawing th
 
 Mariangela wished she could vanish into thin air; she blushed as red as a beet and felt faint with embarrassment. Certainly, had she actually fainted, there would have been no shortage of immediate medical assistance! In utter embarrassment, the trio finally reached their seats.
 
-## The sweater
+## The sweater
 
 I had been working in Vimercate for about two years. During the first six months, I had rented a room in a boarding house near the tram station for Milan. Later, as my department was moved to Vimodrone, I decided to leave the boarding house and return to Brescia, even though it meant commuting by train every day.
 
@@ -84,7 +84,7 @@ I tried explaining that it had been a good opportunity, that the sweater wasn’
 
 As for the Neapolitan, when I told him that, not finding my shirt, I had worn his sweater, he replied with amusement: “Va-bbuono, guagliò!” (“All right, kid!”)
 
-## A beautiful day.
+## A beautiful day.
 
 It was a beautiful Sunday at the end of November and, as we did every year, we decided to take a trip to my hometown, Bagolino, to buy the famous Bagòss cheese and other local products to enjoy during the Christmas holidays.
 We also took the opportunity to have lunch at the restaurant Al Tempo Perduto…, Piera’s favorite. We already knew exactly what to order: as a starter, a trio of malfatti with melted butter, penne with Bagòss, and porcini mushroom risotto; for the main course, porcini mushroom stew with polenta. Ending the meal with a good red wine was simply mandatory.

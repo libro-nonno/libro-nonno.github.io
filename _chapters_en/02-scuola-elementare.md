@@ -48,7 +48,7 @@ Suddenly, behind us, a huge German shepherd appeared, barking furiously. Terrifi
 There was no hiding it—I had to go home, get treated, and admit everything to my mother. She didn’t scold me too harshly, more worried about the cut than the skipped class.
 The next day, I went back to school. And to my satisfaction, I learned that roll call after lunch still hadn’t been done.
 
-## I Can't Hold It!
+## I Can't Hold It!
 
 We were in fourth grade again. The teacher was writing on the board when Osvaldo raised his hand, desperate to go to the bathroom. She told him to wait.
 

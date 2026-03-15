@@ -21,7 +21,7 @@ When I heard my name, I felt completely lost — incredulous. My attempts to rem
 
 Gianluigi was called next, and he too received a glaring insufficient grade. We were both deeply hurt by what we considered an unfair and difficult-to-accept situation. Nevertheless, with commitment, we eventually managed to recover.
 
-## Technical Drawing
+## Technical Drawing
 
 This was — and still is — an important subject for a technical institute. The first lessons covered UNI standards, sheet formats, block-letter handwriting exercises, and so on. I actually enjoyed writing in block letters and believed I was doing quite well… until the first in-class test. The grade? 4.
 
@@ -29,7 +29,7 @@ A decidedly low mark — yet one of the highest in the class. Many received 3s, 
 
 Over time, however, I improved so much that even today, whenever something needs to be written neatly, my wife hands it over to me because she says I have beautiful handwriting.
 
-## Mathematics
+## Mathematics
 
 The math teacher was a man with a rather sad demeanour, yet cheerful in his own way — even likable. I remember him fondly, and one episode made me admire him deeply. Around the middle of the 1964/65 school year, he assigned a written test. I don’t remember the topic, but what I do remember is that it went terribly for everyone. When he handed back the papers, the mood in the classroom was gloomy.
 
@@ -39,7 +39,7 @@ So the test is annulled. We’ll go over the topic again, and you’ll have anot
 
 Many years later, in 1974, while on my way to work, I was shocked to read in the newspapers that this same teacher, Prof. Alberto Trebeschi, a man I had always respected, was among the victims of the bombing of Piazza della Loggia in Brescia on May 28. My memory of that school episode — and of his fairness — has remained vivid ever since.
 
-## Electrical Engineering
+## Electrical Engineering
 
 The third year began with the specialized subjects of our course of study. In the class there was a student whom, for privacy, I will refer to as Andrea — a name that resembles his real surname.
 
@@ -51,7 +51,7 @@ He paused briefly, during which we all turned, wide-eyed, to look at Andrea, stu
 
 With Marino, however, the same teacher was a little more generous — but the situation was different. Marino had been called to the blackboard for an oral exam and essentially said nothing. The professor wrote the grade in the register and told him: “I gave you a two: one for the trip to the blackboard, and one for the trip back.” Some of us laughed. Marino didn’t.
 
-## The Oral Final Exam
+## The Oral Final Exam
 
 My oral exam was scheduled for July 21, 1969.
 

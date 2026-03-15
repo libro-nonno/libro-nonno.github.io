@@ -10,7 +10,7 @@ order: 7
 Am I afraid of flying? I would say no. I’ve travelled many miles by air, and when I board a plane my only concern is finding an overhead space for my carry-on.
 But flying can mean many different things. Here are two examples.
 
-## The Ultralight Flight
+## The Ultralight Flight
 
 My wife Piera discovered by chance — perhaps at the coffee machine during a work break — that a colleague from the office next to hers was also a pilot. From time to time, in order to keep his licence active (which required a minimum number of flight hours per year), he offered friends and colleagues the chance to fly with him at a reasonable cost.
 
@@ -28,7 +28,7 @@ We regained altitude and, with a wide turn, flew over Vimercate and the Telettra
 
 ![img](/assets/img/14.png)
 
-## The Aerobatic Flight
+## The Aerobatic Flight
 
 In 2006, a well-known supplier of measurement instruments organized an event in Nice to present new state-of-the-art products in the telecommunications field. My colleague Gianpiero and I were invited to participate.
 

@@ -20,7 +20,7 @@ The first dates back to 1972, when I had the good fortune to see it at the milit
 
 The second episode occurred in July 2000. Returning from a business trip, I was at Paris airport when rumours began to circulate — first confused, then increasingly clear: a Concorde had caught fire during take off and crashed shortly afterward. I was deeply shaken and boarded my flight to Milan with great anxiety. Getting on a plane after learning that another aircraft, which had just taken off from the same airport, had crashed is an experience that forces you to consider every possible risk. That feeling of anguish stayed with me throughout the entire flight. That accident brought the Concorde era to an end.
 
-## At Duxford museum
+## At Duxford museum
 
 My last memory dates back to 2015, when I visited the Imperial War Museum in Duxford, near Cambridge, in Great Britain. A former colleague of my brother Flavio had organized a guided tour for retired colleagues who had worked on the Concorde for many years.
 
