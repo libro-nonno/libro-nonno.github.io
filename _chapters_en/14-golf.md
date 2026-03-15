@@ -1,118 +1,37 @@
 ---
 layout: chapter
-title: "Il golf"
+title: "Golf"
 order: 14
 ---
 
 <!-- * In questo capitolo
 {:toc}
  -->
-Era impensabile che io potessi dedicarmi al golf e che ne fossi
-persino affascinato. Per anni non sapevo nemmeno che
-esistesse e, quando cominciai a sentirne parlare, lo consideravo
-uno sport troppo snob. Poi, una volta in pensione, un
-conoscente mi invitò a provare. Lui insistette ed io mi lasciai
-convincere ad andare in campo pratica al “Golf Club Borgo di
-Camuzzago”.
-Cominciai con i colpi di prova e una discreta percentuale andò
-a segno. Già dai primi tentativi, riuscii persino a far volare la
-pallina e terminai la prova abbastanza soddisfatto. Decisi allora
-di tornare il giorno dopo, e ancora la settimana successiva, fino
-a quando mi ritrovai colpito da una vera passione per questo
-sport. Col passar del tempo ti accorgi che il golf ti ha stregato,
-ti rende schiavo e non puoi più farne a meno. Gli alti e bassi
-sono parte del gioco e, forse, proprio questo lo rende così
-affascinante. Un giorno ti senti bravo come Tiger Woods, il
-campionissimo, e il giorno dopo vorresti rompere tutte le
-mazze. Ma non lo farai, perché non puoi più smettere di giocare.
-Mi cimentai in alcune gare e ottenni anche delle vittorie, ma i
-ricordi più belli non sono legati a queste, bensì ad alcuni colpi
-riusciti particolarmente bene, eccezionali e, onestamente,
-fortunati.
-Parlo dei miei quattro “hole in one” – colpi che consistono nel
-mettere la pallina in buca con un solo tiro, cioè centrare la buca
-di 10,9 centimetri da una distanza superiore ai cento metri. Un
-evento incredibile, con bassissima probabilità statistica.
-Ad oggi, mi è successo ben quattro volte.
+It seemed unthinkable that I would ever take up golf, let alone become fascinated by it. For years I barely knew it existed, and when I finally started hearing people talk about it, I dismissed it as a snobbish sport. I had always been drawn to more active disciplines, the kind that demand effort and sweat.
+
+Then, once I retired, an acquaintance invited me to give it a try. He insisted, and I eventually let myself be persuaded to go to the practice range at the Golf Club Borgo di Camuzzago. During my first attempts, I couldn’t even hit the ball, and that irritated me. I kept practicing, and a reasonable number of shots finally connected. I even managed to send the ball flying, and I ended the session fairly satisfied. I decided to return the next day, and again the following week, until I found myself unexpectedly struck by a genuine passion for the sport.
+
+With time, you realize that golf has bewitched you. It enslaves you, and you can no longer do without it. The highs and lows are part of the game, and perhaps this is exactly what makes it so captivating. One day you feel as skilled as Tiger Woods; the next, you feel like breaking every club in your bag. But you never actually do, because you simply cannot stop playing. I entered a few tournaments and even won some, but my fondest memories are not tied to those victories. They are linked instead to a handful of particularly well-executed shots, exceptional and, to be honest, lucky ones. I am referring to my four hole-in-ones: shots in which the ball lands directly in the cup, 10.9 centimetres wide, from more than a hundred meters away. An extraordinary event with an extremely low statistical probability. To date, it has happened to me four times.
 
 ![img](/assets/img/24.png)
 
-## Prima hole in one.
-29-05-2012
+## First hole in one
+29 May 2012
 
-Giocavo da due anni ed ero migliorato discretamente. Quel
-pomeriggio, a Camuzzago, con Patrizia, Gino e Mirko,
-affrontammo la buca 2, con la bandiera posizionata a 120 metri.
-Dopo che due giocatori avevano tirato, toccò a me. Mi portai
-sulla piazzola, piantai il tee, appoggiai la pallina e, dopo un paio
-di swing di prova, tirai. Consapevole di un buon colpo, non
-seguii nemmeno la pallina nell’atterraggio, convinto di trovarla
-sul green. Mi abbassai a raccogliere il tee e guardai la bandiera,
-ma con sorpresa non vedevo la pallina sull’erba. Chiesi allora ai
-compagni se l’avessero vista. Mirko rispose: “Secondo me è
-andata in buca!”, ma non potevo crederci. Dopo che tutti ebbero
-tirato, ci dirigemmo verso il green. In fretta arrivai alla buca e
-scoprii la pallina dentro: “Hole in One!” Non stavo più nella
-pelle. Ricevuti i complimenti, mi avviai alla buca 3, con un
-pizzico di rammarico per non essermi gustato appieno l’entrata
-della pallina. Rimaneva il gran colpo, indimenticabile.
+I had been playing for two years and had improved quite a bit. That afternoon in Camuzzago, with Patrizia, Gino and Mirko, we reached hole 2, the flag set at 120 meters. After two players had taken their shots, it was my turn. I stepped onto the tee box, planted the tee, placed the ball, and after a couple of practice swings, I hit. Aware that it was a good shot, I didn’t even follow the ball’s landing, convinced I would find it on the green. I bent down to pick up the tee, looked toward the flag, and to my surprise, I couldn’t see the ball on the green. I asked my companions whether they had seen it. Mirko replied: “I think it went in the hole!” I couldn’t believe it. Once everyone had played, we headed toward the green. I hurried to the hole and found the ball inside. Hole in one! I was over the moon. After the congratulations, we moved on to hole 3, and I felt a slight regret at not having fully enjoyed seeing the ball drop. Still, the shot was unforgettable.
 
-## Seconda hole in one. 
-19-01-2016
+## Second hole in one
+19 January 2016
 
-L’anno golfistico iniziò subito in bellezza: il 19 gennaio, dopo
-meno di quattro anni, ripetei l’hole in one, sempre a
-Camuzzago, sempre alla buca 2. Dicono che la prima volta sia
-fortuna, la seconda bravura. Accettai il complimento. Questa
-volta i compagni erano Alberto, con cui avevo cominciato a
-giocare, Moreno e Gino. Preparai il tiro, sentendo subito di aver
-fatto un ottimo colpo, e questa volta non persi di vista la pallina.
-La seguii atterrare sul green, dirigersi verso la bandiera, posta
-in salita, rotolare… “Vai! Vai!”, esclamai. La vidi scomparire. Era
-in buca! “Siiiiiiii!”.
+The golfing year started brilliantly: on January 19, less than four years after the first, I repeated the feat—again in Camuzzago, again on hole 2. They say the first time is luck, the second skill. I accepted the compliment. This time I was playing with Alberto, with whom I had started golfing, as well as Moreno and Gino. I prepared my shot, immediately sensing it was a solid strike, and this time I did not lose sight of the ball. I watched it land on the green, roll uphill toward the flag… “Go! Go!” I shouted. Then it disappeared. It was in! “Yessssss!”
 
-## Terza hole in one. 
-17-10-2017
+## Third hole in one
+17 October 2017
 
-Di solito gioco di pomeriggio, ma quel giorno avevo un impegno
-e andai al golf al mattino. Mentre aspettavo che si liberasse il
-green della buca, Antonio, un golfista che non conoscevo, mi
-chiese di giocare insieme. Il golf è bello anche da soli, ma in
-compagnia è più divertente e allora girammo insieme. Antonio
-si dimostrò persona discreta, parlava poco e non dava consigli.
-Ero tranquillo, rilassato, e il gioco ne beneficiò. Feci subito bei
-colpi. Alla buca 5, la più lunga (circa 190 metri), scelsi il legno 3. 
-Dopo un paio di colpi di prova tirai. Antonio si complimentò.
-Non riuscivo a vedere la pallina, pensai si fosse fermata in un
-avvallamento. Antonio invece sosteneva che fosse in buca.
-“Impossibile”, risposi. Dopo che anch’egli ebbe tirato, ci
-avviammo verso il green. Spingevo il carrello con passo veloce,
-curioso. Ancora non vedevo la pallina, ma Antonio insisteva: “È
-in buca”. Arrivato alla buca la vidi: era dentro! Hole in One!
-Pazzesco. Antonio sorrise e mi diede una pacca bonaria sulla
-spalla. A fine giro ci facemmo scattare una foto per immortalare
-l’avvenimento.
+I usually play in the afternoon, but that day I had an appointment, so I went in the morning. While waiting for the green to clear, a golfer I didn’t know, Antonio, asked if I wanted to play together. Golf is enjoyable alone, but company makes it more fun, so we paired up. Antonio turned out to be a discreet man; he spoke little and didn’t offer unsolicited advice. I was calm and relaxed, and my game reflected it. I immediately hit good shots. On hole 5, the longest (around 190 meters), I chose my 3-wood. After two practice swings, I hit. Antonio complimented me. I couldn’t see the ball; I thought it had stopped in a dip. Antonio, however, insisted it was in the hole. “Impossible,” I replied. After he played, we walked toward the green. I pushed my trolley briskly, curious. I still didn’t see the ball, but Antonio repeated: “It’s in the hole.” When I reached the cup, there it was. Inside. Hole in one. Unreal. Antonio smiled and gave me a friendly pat on the shoulder. At the end of the round, we had someone take a picture to capture the moment.
 
-## Quarta hole in one. 
-07-05-2018
+## Fourth hole in one
+7 May 2018
 
-Il cielo era nuvoloso e, per una giornata di maggio, non era un
-gran che. Ma se fai hole in one, la giornata diventa stupenda.
-Eravamo io, Luciano, Gianpiero e Giorgio. Capitava spesso di
-giocare insieme ed eravamo tutti, più o meno, allo stesso livello
-di gioco. La buona compagnia migliora la prestazione di tutti.
-Giocammo discretamente bene e arrivammo alla buca 5, la più
-lunga, dove si usa il driver o il legno 3. Sentendomi in forma,
-optai per il legno 3. Feci due movimenti di prova e tirai un colpo
-che sembrava ben riuscito. La pallina volò, atterrò sul green,
-cominciò a rotolare ed eccola scomparire. “È in buca, è in buca!”
-esclamarono i compagni complimentandosi. Anch’io avevo
-seguito il volo e avevo la convinzione che fosse entrata. Esultai
-e non riuscii a trattenere l’urlo di gioia. Battei cinque con tutti
-e mi affrettai a raccogliere quella benedetta pallina!
-Straordinariamente, avevo fatto hole in one anche l’anno
-precedente, sulla stessa buca. Incredibile ma vero. Con il
-cellulare scattai una foto ai miei “testimoni”. Uno di loro la
-scattò a me, mentre mi accingevo a recuperare la pallina dalla
-buca per immortalare il gesto. Si usa dire che la prima è fortuna,
-la seconda è bravura, la terza è classe e la quarta?...
+The sky was overcast, not great weather for a day in May. But if you make a hole in one, the day instantly becomes beautiful. I was playing with Luciano, Gianpiero and Giorgio. We often played together and were all more or less at the same level. Good company always improves everyone’s game. We played fairly well and reached hole 5, the longest one, where you typically use a driver or a 3-wood. Feeling in good shape, I chose the 3-wood. I took two warm-up swings and hit what felt like a clean shot. The ball flew, landed on the green, started to roll, and then vanished. “It’s in the hole! It’s in the hole!” my companions shouted, congratulating me. I had followed the ball’s flight and was almost certain it had gone in. I celebrated, unable to contain my joy. I exchanged high-fives with everyone and hurried to retrieve that blessed ball. Remarkably, I had made a hole in one on the same hole the year before. Incredible but true. With my phone, I took a photo of my “witnesses”. One of them snapped a picture of me as I reached into the cup to retrieve the ball, preserving the moment.  They say the first one is luck, the second is skill, the third is a matter of class… and the fourth?...
+

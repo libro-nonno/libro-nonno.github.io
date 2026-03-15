@@ -1,103 +1,50 @@
 ---
 layout: chapter
-title: "A Parigi"
+title: "In Paris"
 order: 13
 ---
 
 <!-- * In questo capitolo
 {:toc}
  -->
-Parigi è indubbiamente una delle città più belle e attraenti al
-mondo grazie alla sua storia, arte, cultura e alla sua magica
-atmosfera romantica. Merita di essere visitata, sia che ci si vada
-da turisti che per lavoro. Se poi a desiderare di visitarla è la
-moglie, non resta che fare le valigie e andarci. Se fa freddo, non
-dimentichiamo di portare il cappotto. I due aneddoti che
-seguono chiariscono bene la mia breve premessa.
+Piera and I had been married only a few years. As already mentioned, I loved skiing, whereas Piera did not. Still, we had agreed to spend a week in Bagolino, at my parents’ house, so that I could treat myself to a few days of skiing in Gaver or Maniva. Since we had decided to leave on Friday evening, we had packed our suitcases and ski gear the night before and taken everything with us to work. At the end of the day, all we needed to do was load our Dyane and head for the mountains.
 
-## Settimana “bianca” parigina
+## Ski week… in Paris
 
-Io e Piera eravamo sposati da pochi anni. Come già raccontato,
-a me piaceva sciare mentre a Piera no. Ci eravamo comunque
-accordati di passare una settimana a Bagolino, a casa dei miei
-genitori e così io mi sarei potuto concedere qualche sciata al
-Gaver o al Maniva. Avendo deciso di partire il venerdì sera,
-avevamo preparato le valigie e l’attrezzatura da sci e ci
-eravamo recati al lavoro. A fine giornata, sarebbe bastato
-caricare il tutto sulla nostra Dyane e partire per la montagna.
-In tarda mattinata, squillò il telefono sulla mia scrivania: “Ciao,
-sono Piera; come stai? Volevo farti una proposta: Cosa ne dici
-se invece di andare a Bagolino andassimo a Parigi?” Neanche il
-tempo di capire cosa mi stesse dicendo e proseguì senza
-nemmeno darmi il tempo di reagire. “Sono stata all’ufficio
-viaggi. Ci sarebbe un treno diretto, Milano-Parigi, con partenza
-alle 23 e arrivo domani mattina.” “Ma…” è tutto ciò che riuscii a
-obiettare perché Piera continuò a raffica: “Ho già parlato con
-Mariangela (la sorella) e ci può accompagnare in stazione. Può
-anche procurarci dei franchi francesi nella banca vicino al suo
-ufficio”. Non riuscii proprio a parlare, in evidente stato di
-shock. Piera proseguì: “Possiamo alloggiare all’Hotel
-Chévreuse, poco distante dalla Tour Eiffel. Rosaria, -una nostra
-amica- mi ha detto che l’hotel è molto carino ed economico.
-L’ufficio viaggi ha già verificato e ci sono camere disponibili,
-però bisogna prenotare in fretta”.
+Late that morning, the phone on my desk rang.
+“Hi, it’s Piera. How are you? I wanted to make a proposal: what do you think of going to Paris instead of Bagolino?”
+I didn’t even have time to process what she had just said before she continued at high speed, not allowing the slightest reaction.
+“I went to the travel agency. There’s a direct train, Milan–Paris, leaving at 11 p.m. and arriving tomorrow morning.”
+“But…” was all I managed to say, because she immediately carried on.
+“I already talked to Mariangela (her sister). She can drive us to the station, and she can also get some French francs from the bank near her office.”
 
-Secondo me aveva già prenotato sia l’hotel che il treno e i
-franchi ma cercò di farmi credere che tutto era stato fatto solo
-dopo che l’avevamo deciso insieme!... Si può facilmente intuire
-che aveva vinto lei. Lasciato l’ufficio, ci recammo a casa a rifare
-completamente le valigie. Il giorno dopo, alla Gare de Lyon,
-l’annuncio: “Bienvenue à Paris”. Uscimmo dalla stazione e
-nevicava fitto. A Parigi, avrei pure fatto volentieri a meno della
-neve. Seppi che, a Bagolino, il tempo era splendido, ideale per
-sciare...
+I couldn’t speak; I was clearly in a state of shock. Piera kept going:
+“We can stay at Hotel Chévreuse, just a short walk from the Eiffel Tower. Rosaria, a friend of ours, said it’s very nice and inexpensive. The travel agency checked; there are still rooms available, but we have to book quickly.”
+In my opinion, she had already booked both the hotel and the train, and probably the francs as well, but she tried to make me believe that everything happened only after we decided together. One can easily guess who won.
 
-## Il cappotto
+After leaving the office, we went home and completely repacked our bags. The next morning, at the Gare de Lyon, the announcement rang out: Bienvenue à Paris.
+We stepped outside: it was snowing heavily. In Paris, I would have gladly done without the snow. Later, I learned that back in Bagolino, the weather had been splendid, perfect for skiing…
 
-Mi capitava con una certa frequenza di recarmi a Parigi per
-trasferte di lavoro. A volte andavo e tornavo nella stessa
-giornata per non trascorrere la notte lontano dalla famiglia.
-Parigi era per me di routine. Ci fu un’occasione in cui la mia
-trasferta si prolungò per tre o quattro giorni. Il volo era
-previsto al mattino presto e il taxi per l’aeroporto arrivò fuori
-casa un po’ in anticipo. Per non fare attendere troppo il tassista,
-cercai di sistemare le ultime cose un po’ in fretta e salii sull’auto
-col bagaglio, senza nemmeno indossare il cappotto. Arrivato
-all’aeroporto, mi diressi verso il controllo bagagli, poi al gate.
-Preso posto sull’aereo, sistemai borsa e cappotto nella
-cappelliera. Arrivato a Parigi, il percorso fu grosso modo
-inverso: aeroporto, taxi, ufficio, sala riunione.
+## The coat
 
-Dopo la giornata di lavoro piuttosto intensa, ci fu una meritata
-cena con i colleghi. Il ristorante era nelle vicinanze degli uffici
-e quindi lo si poteva raggiungere a piedi. Indossai il cappotto
-blu e appena misi le mani in tasca mi resi conto che qualcosa
-non andava: le tasche erano poco profonde e capii che non era
-il mio loden. Cercai di capire se l’avevo scambiato con quello di
-qualche collega ma tutti già indossavano il proprio. Dopo un
-ultimo controllo, mi accorsi che finiva con un’ampia ruota; un
-modello da donna! Avevo portato il cappotto di Piera!
-Dapprima, cercai di nascondere la cosa ai colleghi ma non era
-facile e, certamente, prima o poi se ne sarebbero accorti ed
-avrei rischiato di fare una figuraccia. Vincendo l’inevitabile
-imbarazzo, decisi di confessare lo scambio di cappotti
-buttandola sul ridere. Infatti ottenne l’effetto desiderato: i
-colleghi risero divertiti e mi rivolsero una serie di battute:
-“Monsieur, quel manteau!.. c'est très chic sur vous! La coupe
-italienne! (Monsieur, che cappotto! Ti sta davvero bene! Che
-bel taglio italiano!)” e così via, per tutta la serata e nei giorni
-successivi.
+I often travelled to Paris for business. At times I even flew in and out on the same day, to avoid spending the night away from my family. Paris had become routine for me.
 
-Camminando verso il ristorante soffiava un bel venticello e
-rischiava di alzare la “ruota” del cappotto che cercavo di
-mantenere aderente per non far ridere anche i passanti!
-Terminata la trasferta me ne tornai in Italia guardandomi bene
-dall’indossare il loden che portai sul braccio, con molta
-disinvoltura. Nel richiamare alla mente questo episodio, mi
-sorse spontanea una domanda che non mi ero posto allora: “Io,
-sia pure con profondo disagio, avevo indossato il suo cappotto
-ma lei, come aveva potuto indossare il mio loden di taglia
-slim?”. E la risposta? Non glie l’ho mai chiesto… Forse è meglio
-così.
+On one occasion, the trip extended to three or four days. My flight was early in the morning, and the taxi arrived at my house slightly ahead of schedule. Not wanting to keep the driver waiting, I hurried through the last-minute details and got into the taxi with my luggage, without even putting on my coat.
+Once at the airport, I went through baggage control and then to the gate. After boarding, I placed my briefcase and coat in the overhead compartment.
+
+In Paris, everything proceeded in reverse: airport, taxi, office, meeting room. After an intense day of work, we went out for dinner with colleagues. The restaurant was close to the office, so we could walk there. I put on my blue coat and immediately realized something was wrong: the pockets were unusually shallow. That wasn’t my loden.
+
+I tried to see if I had swapped coats with a colleague, but everyone was already wearing their own. A closer look revealed a wide flare at the bottom… a women’s model. I had brought Piera’s coat!
+At first, I tried to hide the mishap, but that was impossible. Sooner or later someone would notice, and I risked making a complete fool of myself. Summoning the necessary courage, I decided to confess the mix-up and turn it into a joke.
+
+It worked. My colleagues burst out laughing and immediately showered me with comments: “Monsieur, quel manteau!... très chic sur vous! La coupe italienne!”
+(Monsieur, what a coat! It looks great on you! Beautiful Italian cut!)
+And so on, for the whole evening and the days that followed.
+
+As we walked to the restaurant, a brisk wind threatened to lift the “skirt” of the coat, and I tried to hold it close so as not to amuse passers-by as well.
+
+At the end of the trip, I returned to Italy carefully avoiding wearing the coat; I carried it over my arm with great nonchalance.
+Thinking back on this episode years later, a question suddenly came to mind, one I had never asked myself at the time: “I, though with great discomfort, had worn her coat… but how on earth had she managed to wear my slim-fit loden?”
+And the answer? I never asked her. Perhaps it’s better that way.
 
 ![img](/assets/img/23.png)

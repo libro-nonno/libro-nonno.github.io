@@ -257,12 +257,12 @@ di cui riporto solo i versi iniziali:
 e anche stavolta commenteremo.
 Si, perché l’arte ha da seguir le sue tracce,
 anche in presenza di velate minacce!...”
+  </blockquote>
+</section>
+
 Lo scambio di rime fu molto apprezzato, così come alcuni
 scambi sul campo da tennis tra i giocatori.
 Va detto che la mia carriera non subì contraccolpi nonostante
 le rime simpaticamente impertinenti e nonostante la vittoria
 del torneo, proprio contro il capo che seppe incassare il tutto
 con grande sportività.
-  </blockquote>
-
-</section>

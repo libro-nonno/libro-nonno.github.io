@@ -1,38 +1,25 @@
 ---
 layout: chapter
-title: "Autore"
+title: "Writer"
 order: 16
 ---
 
 <!-- * In questo capitolo
 {:toc}
  -->
-Con questo capitolo termino il mio libro, ma non è di questo che
-voglio parlare. È un fatto troppo recente per rientrare tra i
-ricordi. Magari tra cinque, dieci…venti anni lo vivrò come tale,
-chissà!
+With this chapter I conclude my work, though that is not what I want to talk about. It is far too recent to be counted among my memories. Perhaps in five, ten… twenty years I will look back on it as such. Who knows?
 
-Ora voglio raccontare la mia precedente esperienza come
-autore: il libro scritto per la mia stupenda “streghetta” Camilla,
-quando aveva tre anni. Fu lei l’ispiratrice di tutte le storie di
-quel libro. Il titolo: “Giacomilla & la Strega Burlona”.
-“Giacomilla” nasce dalla fusione del suo nome con quello del
-fratellino Giacomo, di un anno. La Strega Burlona è una strega
-dispettosa che si diverte a stravolgere le favole che i bambini
-già conoscono, creando confusione.
+Right now, I want to tell the story of my earlier experience as an author: the book I wrote for my wonderful little “witch”, Camilla, when she was three years old. She was the inspiration behind all the stories in that book. The title was Giacomilla & the Playful Witch.
+
+“Giacomilla” was born from the combination of her name and that of her little brother Giacomo, then one year old. The Playful Witch is a mischievous character who delights in scrambling the fairy tales children already know, creating confusion and surprise.
 
 ![img](/assets/img/26.png)
 
-Il libro racconta le avventure di Peppa Pig, Dottoressa Peluche,
-Biancaneve e i sette nani, Mago Merlino.
-Per uno come me, che scarseggia di fantasia, inventare quelle
-storie fu un’impresa impegnativa. Ma alla fine, il mio sforzo fu
-ripagato dall’entusiasmo di Camilla, quando si trovò tra le mani
-quel libro splendidamente illustrato dalla zia Linda e curato
-graficamente dalla nonna Piera.
+The book recounts the adventures of Peppa Pig, Doc McStuffins, Snow White and the Seven Dwarfs, and Merlin the Wizard. For someone like me, whose imagination has never been particularly abundant, inventing those stories was quite an undertaking.
 
-Come mi sentivo orgoglioso quando, per giorni e giorni, mi
-rivolgeva la solita richiesta: “Nonno, mi leggi la storia della
-Strega Burlona?”. Cosa si può desiderare di più?
+But in the end, my effort was rewarded by Camilla’s enthusiasm when she found herself holding that beautifully illustrated book in her hands. The illustrations were created by Aunt Linda and the graphic layout prepared by Grandma Piera.
+
+How proud I felt when, for days and days, she came to me with the same request: “Grandpa, will you read me the story of the Playful Witch?” What more could one possibly wish for?
+
 
 ![img](/assets/img/27.png)

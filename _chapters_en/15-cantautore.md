@@ -1,88 +1,44 @@
 ---
 layout: chapter
-title: "Cantautore"
+title: "Singer-Songwriter"
 order: 15
 ---
 
 <!-- * In questo capitolo
 {:toc}
  -->
-Chi lo avrebbe mai detto? Anche a 65 anni si può diventare
-cantautori.
+Who would have thought it? Even at the age of 65, one can become a singer-song writer.
 
-Linda e Paul si erano sposati da poco, a maggio 2014, a
-Richmond, in Inghilterra, con rito civile e una cerimonia
-riservata ai parenti più stretti. La cerimonia più importante,
-estesa a tanti amici e familiari, si sarebbe poi tenuta in Italia,
-nella chiesa del nostro paese, ad agosto, con il pranzo di nozze
-a Oreno.
-Durante i preparativi, Linda mi disse una cosa inaspettata:
-“Non so se te l’ho già detto, ma come papà della sposa, gli inglesi
-si aspettano che tu tenga un discorso agli invitati, secondo la
-loro tradizione”.
-No, non me lo aveva mai accennato, ma ormai aveva lanciato il
-sasso, sapendo che non mi sarei potuto tirare indietro. Un
-discorso, in inglese, davanti a circa 250 invitati! Ero un po’
-preoccupato. Da dove si comincia a preparare un discorso per
-un matrimonio?
-Decisi di cercare qualche spunto su internet, ma non trovai
-niente che facesse davvero al caso mio. Gli esempi erano pieni
-di luoghi comuni, frasi fatte e iperboli. Più cercavo, più cresceva
-la mia apprensione.
+Linda and Paul had just gotten married in May 2014 in Richmond, England, with a civil ceremony reserved for close relatives. The main celebration, with many friends and extended family, would be held later in Italy — in the church of our village, in August — followed by the wedding lunch in Oreno.
 
-Improvvisamente, un’idea mi balenò in mente: perché non
-usare quel motivetto musicale che avevo improvvisato e
-trasformato in una piccola melodia per far addormentare la
-nipotina Camilla? Mi piacque l’idea e i presupposti per lavorare
-c’erano: potevo contare sull’aiuto di mio figlio Filippo e di mio
-nipote Riccardo, ingegnere del suono, che già suonavano nelle
-rispettive band.
-Rispolverai il motivetto e provai ad associare le parole, in
-inglese. Pian piano la canzone prese forma.
-La cantavo ad alta voce anche quando andavo al golf “con la mia
-vespa special che toglie i problemi…” (C. Cremonini), tanto
-sotto il casco non mi sentiva nessuno!
-Finalmente la canzone mi sembrò pronta. Filippo e Riccardo
-curarono l’arrangiamento, e i miei vicini di casa, che abitavano
-nel cortile con me, furono felici di far parte del coro e di
-cantarla insieme.
+During the preparations, Linda told me something unexpected:
+“I don’t know if I ever mentioned it, but as father of the bride, English guests will expect you to give a speech, according to their tradition.”
+No, she had never mentioned it. But at that point, the stone had been thrown — and she knew I couldn’t back out.
+A speech, in English, in front of about 250 guests! I was a bit worried. Where does one even begin when preparing a wedding speech?
 
-Due volte la settimana ci trovavamo tutti insieme per le prove.
-A chi conosceva un po’ l’inglese venne consegnato il testo
-originale, agli altri quella tradotta foneticamente in italiano.
-Mia nuora Silvia dirigeva il coro. Le prove andarono bene, il
-brano risultava gradevole.
-Il giorno dell’evento, il Casino di Caccia di Villa Borromeo era
-stato allestito perfettamente per il catering. Gli invitati presero
-posto e venne servito l’aperitivo, seguito da una pausa dedicata
-ai discorsi.
-Dopo Ross, fratello di Paul, che tenne un bel discorso in inglese,
-toccò a me. Non mi era mai capitato di “esibirmi” davanti a così
-tante persone. Ero molto emozionato.
-Presi il microfono e annunciai agli invitati che, anziché tenere
-il tradizionale discorso, avevo composto una canzone di
-augurio per gli sposi, che avrei cantato con i miei vicini di casa.
+I decided to look for inspiration on the internet, but nothing truly suited me. All the examples were full of clichés, stock phrases, and exaggerated sentiments. The more I searched, the more my apprehension grew.
+Then suddenly, an idea flashed through my mind: why not use the little tune I had improvised and turned into a lullaby for my granddaughter Camilla? I loved the idea, and I had the right support to make it happen: my son Filippo and my nephew Riccardo — a sound engineer — who both played in their own bands.
 
-Guardai Linda e Paul per cogliere le loro reazioni: Paul e i suoi
-genitori sembravano piacevolmente sorpresi, mentre Linda,
-ignara di tutto, assunse un’espressione che non dimenticherò
-mai – un misto di sorpresa, incredulità, perplessità e
-smarrimento. Sembrava dire: “Cosa sta dicendo? Cosa mi ha
-combinato?”.
+So I dug out that tune and tried to match English words to it. Little by little, the song took shape.
+I sang it out loud even when going to golf “on my Vespa Special that takes all my worries away…” (C. Cremonini) — since nobody could hear me under the helmet!
 
-Dopo quella breve introduzione, invitai musicisti e coristi a
-raggiungere la postazione. Le note di chitarra diedero il via e il
-coro iniziò a cantare: “Love is in the air, love is everywhere…”.
-Linda non riuscì a trattenere alcune lacrime di commozione. La
-canzone si chiuse sulle parole “…All together we wish you
-happiness”, seguite da un caloroso applauso degli invitati.
-È proprio il caso di dire: Buona la prima! Che resterà anche
-unica…
+At last, the song seemed ready. Filippo and Riccardo handled the arrangement, and my neighbours from the courtyard were happy to be part of the choir and sing along.
 
-Nota: il mio sentito ringraziamento a tutti coloro che
-contribuirono all’esecuzione della canzone: Riccardo e Filippo
-per l’arrangiamento musicale; per il coro, Anna, Chiara, Marco,
-Mario, Paola, Martina, Penny, Graziella, Riccardo, Antonio,
-Mariangela, Piera, Silvia, Filippo, Camilla e Giacomo.
+Twice a week we would all meet for rehearsals. Those who knew a bit of English received the original lyrics; the others got a phonetically transcribed Italian version. My daughter-in-law, Silvia, conducted the choir. The rehearsals went well — the song sounded really pleasant.
+On the day of the event, the Casino di Caccia at Villa Borromeo had been beautifully set up for the catering. Guests took their seats, the aperitif was served, and then came a break dedicated to speeches.
+
+After Ross — Paul’s brother — who delivered a lovely speech in English, it was my turn. I had never “performed” in front of so many people. I was very emotional.
+
+I took the microphone and announced to the guests that, instead of giving the traditional speech, I had composed a song of well-wishes for the newlyweds, which I would sing together with my neighbours.
+I looked toward Linda and Paul to catch their reactions: Paul and his parents seemed pleasantly surprised; Linda, unaware of everything, showed an expression I will never forget — a mix of surprise, disbelief, bewilderment, and utter confusion. She seemed to be thinking: “What is he talking about? What has he done now?”
+After that brief introduction, I invited the musicians and singers to join me. A few guitar notes set the rhythm, and the choir began:
+“Love is in the air, love is everywhere…”
+
+Linda couldn’t hold back a few tears of emotion.
+
+The song ended with the words: “…All together we wish you happiness,” followed by a warm round of applause from all the guests.
+It’s truly the case to say: A perfect first take! Which also remained the only one…
+
+Note: My heartfelt thanks to everyone who contributed to the performance of the song: Riccardo and Filippo for the musical arrangement; and for the choir. — Anna, Chiara, Marco, Mario, Paola, Martina, Penny, Graziella, Riccardo, Antonio, Mariangela, Piera, Silvia, Filippo, Camilla and Giacomo.
 
 ![img](/assets/img/25.png)
