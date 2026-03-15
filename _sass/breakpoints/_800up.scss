@@ -107,6 +107,12 @@ HEADER STYLING
 					padding-bottom: .25em;
 					border-bottom: 4px solid rgba(255, 255, 255, .4);
 				}
+
+				&.lang-switcher {
+					float: right;
+					padding: 0;
+					margin-left: 1em;
+				}
 			}
 		}
 	}

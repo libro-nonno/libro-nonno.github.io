@@ -211,6 +211,20 @@ HEADER STYLING
 }
 
 /***************
+LANGUAGE SWITCHER STYLING
+***************/
+
+.lang-switcher {
+	text-align: center;
+	font-size: 1.2em;
+
+	span, a {
+		display: inline-block;
+		margin: 0 0.5em;
+	}
+}
+
+/***************
 POST STYLING
 ***************/
 
