@@ -4,9 +4,6 @@ title: "Volare"
 order: 7
 ---
 
-<!-- * In questo capitolo
-{:toc}
- -->
 Paura di volare? Direi di no. Ho alle spalle molti voli e parecchie
 miglia e, quando salgo su un aereo, l’unica mia preoccupazione
 è di trovare facilmente posto per il bagaglio in cabina. Ma
@@ -31,6 +28,7 @@ scherzosamente se si trattasse di un “volo pertosse” poiché
 allora si credeva che l’alta quota potesse far bene a chi soffriva
 di quella malattia. Il pilota dovette effettuare due voli, dato che
 il velivolo poteva ospitare solo quattro passeggeri.
+
 Salimmo a bordo: io accanto al pilota, la famiglia dietro.
 
 Partimmo. Notai un trattore che tagliava l’erba vicino alla pista
@@ -54,7 +52,7 @@ soddisfatti di quella bellissima esperienza. Per mia suocera, io
 e Piera restammo per sempre degli irresponsabili che avevano
 portato anche i bambini, i suoi nipotini, su quell’aeroplanino.
 
-![img](/assets/img/14.png)
+![Veduta aerea di una cascina tra i campi](/assets/img/14.png)
 
 ## Il volo acrobatico
 
@@ -67,7 +65,7 @@ della presentazione, venne offerta la possibilità di vivere
 un’esperienza indimenticabile: un volo acrobatico. Gianpiero
 non esitò e decise di provarlo. Io ero restio ma, alla fine, tra le
 insistenze di Gianpiero e degli organizzatori mi lasciai
-convincere. indossai il casco e salii sull’aereo. Con mia
+convincere. Indossai il casco e salii sull’aereo. Con mia
 sorpresa, il passeggero veniva fatto sedere davanti, mentre il
 pilota stava dietro di lui, invisibile alla vista, cosa che mi mise
 un po’ di apprensione.
@@ -94,4 +92,4 @@ messo sottosopra, tornasse a posto e che potessi tornare a
 sorridere. Se dovessi riassumere quell’esperienza in due parole
 direi: “sono sopravvissuto!”.
 
-![img](/assets/img/15.png)
+![Un piccolo aereo acrobatico bianco e rosso sulla pista](/assets/img/15.png)

@@ -1,30 +1,41 @@
 title: Ricordi del Nonno
-description: Una vita ordinaria in tempi straordinari
-
+author: Pierluigi Melzani
 url: https://libro-nonno.github.io
-# Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
-baseurl: # Ex: /project-page
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
-author:
-  name: "Pierluigi Melzani"
+baseurl: ""
 
-# Header Option
-# header: large
+# Link del Modulo Google per i commenti dei lettori.
+# Incolla qui il link "Invia" del modulo (quello che inizia con https://docs.google.com/forms/...).
+# Finché è vuoto, la pagina commenti mostra un avviso.
+comment_form_url: ""
+
+markdown: kramdown
+kramdown:
+  input: kramdown
 
 collections:
   chapters:
     output: true
     permalink: /chapters/:name/
-
   chapters_en:
     output: true
     permalink: /en/chapters/:name/
+  # Bagosso nascosto per ora: per riattivarlo togli il cancelletto dalle tre righe qui sotto
+  # chapters_bag:
+  #   output: true
+  #   permalink: /bag/chapters/:name/
 
-sass:
-    style: compressed
+defaults:
+  - scope: { type: chapters }
+    values: { layout: chapter, lang: it }
+  - scope: { type: chapters_en }
+    values: { layout: chapter, lang: en }
+  - scope: { type: chapters_bag }
+    values: { layout: chapter, lang: bag }
 
-markdown: kramdown
-highlighter: rouge
-plugins: [jekyll-paginate]
-paginate: 
+exclude:
+  - bag   # bagosso nascosto per ora
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .vscode

@@ -1,0 +1,47 @@
+{%- assign lang = page.lang | default: "it" -%}
+{%- assign lingua = site.data.lingue | where: "codice", lang | first -%}
+{%- assign t = site.data.testi[lang] -%}
+<!DOCTYPE html>
+<html lang="{{ lingua.html }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title and page.title != t.titolo %}{{ page.title }} – {% endif %}{{ t.titolo }}</title>
+  <meta name="description" content="{{ t.sottotitolo }}">
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="{{ '/assets/img/favicon.ico' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,700;1,7..72,400&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/sito.css' | relative_url }}">
+  <script>try{var s=localStorage.getItem('dimensione-testo');if(s)document.documentElement.setAttribute('data-size',s);}catch(e){}</script>
+</head>
+<body>
+  <header class="testata">
+    <div class="testata-riga">
+      <a class="marchio" href="{{ lingua.home | relative_url }}" title="{{ t.prima_pagina }}">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 5.5c3-1.2 6.5-1.2 10 1v13c-3.5-2.2-7-2.2-10-1z"/><path d="M22 5.5c-3-1.2-6.5-1.2-10 1v13c3.5-2.2 7-2.2 10-1z"/></svg>
+        <span class="marchio-testo"><span>{{ t.titolo }}</span><small>{{ t.prima_pagina }}</small></span>
+      </a>
+      {% include lingue.html lang=lang t=t t_html=lingua.html %}
+    </div>
+    <div class="testata-riga testata-strumenti">
+      <a class="link-indice" href="{{ lingua.home | append: 'chapters/' | relative_url }}">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M9 6h11M9 12h11M9 18h11"/><circle cx="4.5" cy="6" r="1.2" fill="currentColor" stroke="none"/><circle cx="4.5" cy="12" r="1.2" fill="currentColor" stroke="none"/><circle cx="4.5" cy="18" r="1.2" fill="currentColor" stroke="none"/></svg>
+        {{ t.indice }}
+      </a>
+      {% include dimensione.html t=t %}
+    </div>
+  </header>
+
+  <main class="pagina">
+    {{ content }}
+  </main>
+
+  <footer class="piede">
+    <p><a href="{{ t.commenti_url | relative_url }}">{{ t.commenti }}</a></p>
+    <p>© {{ site.author }}</p>
+  </footer>
+  <script src="{{ '/assets/js/sito.js' | relative_url }}"></script>
+</body>
+</html>

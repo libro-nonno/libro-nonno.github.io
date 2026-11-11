@@ -1,12 +1,9 @@
 ---
 layout: chapter
 title: "A Parigi"
-order: 13
+order: 14
 ---
 
-<!-- * In questo capitolo
-{:toc}
- -->
 Parigi è indubbiamente una delle città più belle e attraenti al
 mondo grazie alla sua storia, arte, cultura e alla sua magica
 atmosfera romantica. Merita di essere visitata, sia che ci si vada
@@ -25,6 +22,7 @@ Gaver o al Maniva. Avendo deciso di partire il venerdì sera,
 avevamo preparato le valigie e l’attrezzatura da sci e ci
 eravamo recati al lavoro. A fine giornata, sarebbe bastato
 caricare il tutto sulla nostra Dyane e partire per la montagna.
+
 In tarda mattinata, squillò il telefono sulla mia scrivania: “Ciao,
 sono Piera; come stai? Volevo farti una proposta: Cosa ne dici
 se invece di andare a Bagolino andassimo a Parigi?” Neanche il
@@ -44,13 +42,13 @@ però bisogna prenotare in fretta”.
 
 Secondo me aveva già prenotato sia l’hotel che il treno e i
 franchi ma cercò di farmi credere che tutto era stato fatto solo
-dopo che l’avevamo deciso insieme!... Si può facilmente intuire
+dopo che l’avevamo deciso insieme!… Si può facilmente intuire
 che aveva vinto lei. Lasciato l’ufficio, ci recammo a casa a rifare
 completamente le valigie. Il giorno dopo, alla Gare de Lyon,
 l’annuncio: “Bienvenue à Paris”. Uscimmo dalla stazione e
 nevicava fitto. A Parigi, avrei pure fatto volentieri a meno della
 neve. Seppi che, a Bagolino, il tempo era splendido, ideale per
-sciare...
+sciare…
 
 ## Il cappotto
 
@@ -83,7 +81,7 @@ avrei rischiato di fare una figuraccia. Vincendo l’inevitabile
 imbarazzo, decisi di confessare lo scambio di cappotti
 buttandola sul ridere. Infatti ottenne l’effetto desiderato: i
 colleghi risero divertiti e mi rivolsero una serie di battute:
-“Monsieur, quel manteau!.. c'est très chic sur vous! La coupe
+“Monsieur, quel manteau! C’est très chic sur vous! La coupe
 italienne! (Monsieur, che cappotto! Ti sta davvero bene! Che
 bel taglio italiano!)” e così via, per tutta la serata e nei giorni
 successivi.
@@ -97,7 +95,7 @@ disinvoltura. Nel richiamare alla mente questo episodio, mi
 sorse spontanea una domanda che non mi ero posto allora: “Io,
 sia pure con profondo disagio, avevo indossato il suo cappotto
 ma lei, come aveva potuto indossare il mio loden di taglia
-slim?”. E la risposta? Non glie l’ho mai chiesto… Forse è meglio
+slim?”. E la risposta? Non gliel’ho mai chiesto… Forse è meglio
 così.
 
-![img](/assets/img/23.png)
+![Acquerello di Notre-Dame a Parigi](/assets/img/23.png)

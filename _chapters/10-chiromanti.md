@@ -1,12 +1,9 @@
 ---
 layout: chapter
 title: "Le chiromanti"
-order: 10
+order: 11
 ---
 
-<!-- * In questo capitolo
-{:toc}
- -->
 Non sono un appassionato di cartomanzia, di chiromanzia e
 oroscopi. Certo, come molti, capita che legga o ascolti
 l’oroscopo ma niente di più. Il mio criterio è semplice: se le
@@ -42,6 +39,7 @@ a girare le carte, annuiva come per confermare quanto appena
 detto. Ci furono attimi di lieve apprensione, finché arrivò la
 frase liberatoria, accompagnata da un sorriso: “Ah, tutto a
 posto, è la mamma della tua fidanzata!”.
+
 A distanza di tempo devo riconoscere che ci aveva visto giusto.
 Mia suocera è stata una presenza davvero importante nella
 nostra vita: una donna straordinaria, semplice, mai invadente,
@@ -58,6 +56,7 @@ certamente, inaspettata: fissò un appuntamento con una
 cartomante del nostro paese, molto apprezzata, tanto da avere
 clienti abituali anche da fuori. Si diceva che persone autorevoli
 si rivolgessero a lei prima di prendere decisioni importanti.
+
 Quando Piera mi rivelò quale fosse il regalo per il mio
 compleanno, inizialmente mi arrabbiai un po’: non riuscivo a
 concepire come si potessero buttare via soldi in quel modo. Poi
@@ -77,10 +76,12 @@ addirittura una cifra economica che a me e a Piera sembrava
 irragionevole. Nonostante il nostro evidente scetticismo, la
 signora insistette a lungo, confermando una visione ben più
 ampia rispetto a quella che avevamo descritto.
+
 L’incontro si concluse con uno scambio di sorrisi: noi
 lasciammo quello studio contenti di aver conosciuto una
 persona gioviale e piacevole, pur rimanendo increduli per le
 sue parole riguardanti la casa e il cortile.
+
 Qualche anno dopo però, mio figlio, i miei due cognati e un
 costruttore riuscirono ad acquistare il resto del fabbricato
 fatiscente che costituiva la seconda ala del cortile. Iniziarono
@@ -91,6 +92,7 @@ ricostruzione di un nuovo edificio.
 Oggi il cortile è diventato un complesso residenziale signorile,
 chiamato “Curt di Gambitt”, composto da dodici unità abitative
 che mi sono preso la briga di amministrare personalmente.
+
 Dunque la cartomante aveva visto giusto? Ribadisco il mio
 scetticismo verso cartomanti, chiromanti, astrologi e maghi
 vari, ma ogni tanto mi ritornano in mente le sue parole, la sua
@@ -100,5 +102,8 @@ ciò che conta è aver visto i miei figli e ora i miei nipoti correre
 felici nel nostro bel cortile, cosa che mi riempie di gioia e
 soddisfazione.
 
-![img](/assets/img/19.png)
+![Acquerello del vecchio cortile, la Curt di Gambitt](/assets/img/19.png)
+
 La vecchia Curt di Gambitt
+
+{: .caption}

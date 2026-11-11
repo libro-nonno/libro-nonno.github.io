@@ -1,14 +1,8 @@
 ---
 layout: page
-title: "Chapters (English)"
+lang: en
+ref: indice
+title: Contents
 ---
 
-{% assign chapters = site.chapters_en | sort: "order" %}
-
-<ol>
-{% for chapter in chapters %}
-  <li>
-    <a href="{{ chapter.url }}">{{ chapter.title }}</a>
-  </li>
-{% endfor %}
-</ol>
+{% include indice.html lang="en" %}

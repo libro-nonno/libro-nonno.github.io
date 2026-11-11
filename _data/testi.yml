@@ -1,0 +1,60 @@
+# Testi dell'interfaccia nelle tre lingue (il bagosso usa per ora le scritte italiane).
+it:
+  titolo: Ricordi del Nonno
+  prima_pagina: Prima pagina
+  sottotitolo: Una vita ordinaria in tempi straordinari
+  indice: Indice
+  capitoli: I capitoli
+  inizia: Inizia a leggere
+  precedente: Capitolo precedente
+  successivo: Capitolo successivo
+  torna_indice: Torna all'indice
+  testo: Testo
+  piccolo: Testo piccolo
+  medio: Testo medio
+  grande: Testo grande
+  in_preparazione: in preparazione
+  commenti: Lascia un commento
+  commenti_url: /commenti/
+  lingua: Lingua
+  dediche: Dediche
+en:
+  titolo: Grandpa’s Memories
+  prima_pagina: Home page
+  sottotitolo: An ordinary life in extraordinary times
+  indice: Contents
+  capitoli: Chapters
+  inizia: Start reading
+  precedente: Previous chapter
+  successivo: Next chapter
+  torna_indice: Back to contents
+  testo: Text
+  piccolo: Small text
+  medio: Medium text
+  grande: Large text
+  in_preparazione: coming soon
+  commenti: Leave a comment
+  commenti_url: /en/comments/
+  lingua: Language
+  dediche: Dedications
+bag:
+  titolo: Ricordi del Nonno
+  prima_pagina: Prima pagina
+  sottotitolo: Önä étä ordenàriä én tèp sträordenàri
+  indice: Indice
+  capitoli: I capitoli
+  inizia: Inizia a leggere
+  precedente: Capitolo precedente
+  successivo: Capitolo successivo
+  torna_indice: Torna all'indice
+  testo: Testo
+  piccolo: Testo piccolo
+  medio: Testo medio
+  grande: Testo grande
+  in_preparazione: in preparazione
+  commenti: Lascia un commento
+  commenti_url: /bag/commenti/
+  lingua: Lingua
+  dediche: Dediche
+  nota_bag: La versione in bagosso è in lavorazione. Per ora è pronta la premessa; gli altri capitoli si leggono in italiano.
+  continua_italiano: Continua in italiano

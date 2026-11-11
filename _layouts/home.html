@@ -1,0 +1,20 @@
+---
+layout: base
+---
+{%- assign lingua = site.data.lingue | where: "codice", page.lang | first -%}
+{%- assign t = site.data.testi[page.lang] -%}
+{%- if page.lang == "bag" -%}{%- assign primo = site.chapters_bag | sort: "order" | first -%}{%- else -%}{%- assign primo = site[lingua.collezione] | sort: "order" | first -%}{%- endif -%}
+<section class="copertina">
+  <img class="copertina-img" src="{{ '/assets/img/00.png' | relative_url }}" alt="{{ page.alt_copertina }}">
+  <div class="copertina-testo">
+    <h1>{{ page.titolo_libro | default: site.title }}</h1>
+    <p class="sottotitolo">{{ t.sottotitolo }}</p>
+    {% if page.titolo_bagosso %}<p class="titolo-bagosso" lang="lmo">{{ page.titolo_bagosso }}</p>{% endif %}
+    <p class="autore">{{ site.author }}</p>
+    <a class="pulsante" href="{{ primo.url | relative_url }}">{{ page.pulsante | default: t.inizia }}</a>
+  </div>
+</section>
+
+{% if page.lang == "bag" %}<p class="avviso">{{ t.nota_bag }}</p>{% endif %}
+
+{{ content }}

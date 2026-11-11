@@ -4,9 +4,6 @@ title: "Alla scuola media superiore"
 order: 5
 ---
 
-<!-- * In questo capitolo
-{:toc}
- -->
 Premetto che ho avuto qualche dubbio sull’inserimento di
 questo capitolo, perché gli episodi che racconto si allontanano
 un po’ dallo spirito che mi ha spinto a scrivere questo libro:
@@ -54,6 +51,7 @@ prime lezioni riguardavano le norme UNI, il formato dei fogli
 da disegno, esercizi di scrittura in stampatello ecc. A me
 scrivere in stampatello piaceva e ritenevo di cavarmela
 discretamente fino a che non fu fatta la verifica in classe.
+
 Il voto? 4! Un voto decisamente basso ma risultò tra i più alti.
 Erano volati in abbondanza anche dei 3 e persino alcuni 2! Solo
 pochi ripetenti raggiunsero la sufficienza. Avevano
@@ -73,7 +71,7 @@ Intorno alla metà del primo anno scolastico 1964/1965 ci
 assegnò un compito in classe di cui non ricordo il contenuto. La
 prova andò decisamente male per tutti. Distribuì i compiti con
 i voti ed eravamo tutti mesti. Alla fine esordì più o meno con
-queste parole:” Ragazzi, il compito è andato male, ma se
+queste parole: “Ragazzi, il compito è andato male, ma se
 nessuno di voi è riuscito a risolvere il problema (o le
 espressioni algebriche), mi viene il dubbio che sia stato io ad
 aver spiegato male. Quindi il compito viene annullato.
@@ -86,6 +84,7 @@ Molti anni dopo, nel 1974, mentre mi recavo al lavoro, appresi
 con sgomento dai giornali che quel professore, Alberto
 Trebeschi, figura che avevo sempre stimato, era tra le vittime
 dell’attentato del 28 maggio di piazza della Loggia a Brescia.
+
 Il ricordo di quell’episodio scolastico e del suo atteggiamento
 equo mi è rimasto vivo nel tempo.
 
@@ -131,11 +130,11 @@ quell’evento di enorme importanza e decisi di non perderlo. Mi
 alzai quindi alle quattro del mattino per seguire la diretta
 televisiva. Certo, l’orario non era dei più indicati per chi doveva
 presentarsi concentrato all’esame poche ore dopo ma la mia
-attenzione era tutta rivolta a Neil Armstrong e Buzz Alvin che
+attenzione era tutta rivolta a Neil Armstrong e Buzz Aldrin che
 mettevano piede sulla luna. A soli 8 anni di distanza dal primo
 volo dell’uomo nello spazio, con Yuri Gagarin, l’idea che l’uomo
 fosse riuscito a camminare sul nostro satellite naturale mi
 affascinò profondamente, tanto da far passare quasi in secondo
 piano persino l’esame di maturità che mi attendeva.
 
-![img](/assets/img/11.png)
+![Un astronauta sulla superficie lunare](/assets/img/11.png)

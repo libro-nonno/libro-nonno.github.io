@@ -1,16 +1,13 @@
 ---
-layout: chapter
 title: "Flying"
 order: 7
 ---
 
-<!-- * In questo capitolo
-{:toc}
- -->
 Am I afraid of flying? I would say no. I’ve travelled many miles by air, and when I board a plane my only concern is finding an overhead space for my carry-on.
+
 But flying can mean many different things. Here are two examples.
 
-## The Ultralight Flight
+## The ultralight flight
 
 My wife Piera discovered by chance — perhaps at the coffee machine during a work break — that a colleague from the office next to hers was also a pilot. From time to time, in order to keep his licence active (which required a minimum number of flight hours per year), he offered friends and colleagues the chance to fly with him at a reasonable cost.
 
@@ -19,16 +16,18 @@ Piera told me about it, and I was immediately fascinated by the idea of seeing o
 For everyone except me, it was their first time in the air. At the entrance, the controller jokingly asked if we were going on a “whooping-cough flight,” because at the time it was believed that high altitude could help people suffering from that illness. Since the aircraft could take only four passengers at a time, the pilot had to make two flights. We boarded: I sat next to the pilot, the family behind us. We took off. I noticed a tractor cutting the grass near the runway and, to lighten the tension, I joked with the pilot that the tractor seemed faster than the plane. He explained that the ultralight took off at about eighty kilometres per hour.
 
 A moment later, the plane lifted, rocking slightly, and we found ourselves directly above the Bresso cemetery.
+
 “Let’s hope we move away quickly,” I thought to myself.
+
 Soon we reached cruising altitude, heading towards Burago, flying over Monza and the surrounding area. The scenery was beautiful, and from above we could admire it in its entirety.
 
 We reached Burago and flew over Cascina Baraggia, where relatives and friends had gathered to greet us, waving handkerchiefs. The pilot descended to about 150 meters, and seeing them from up there was truly emotional.
 
+![Aerial view of a farmhouse among the fields](/assets/img/14.png)
+
 We regained altitude and, with a wide turn, flew over Vimercate and the Telettra factory, where Piera, the pilot, and I worked, before returning to the airport — all of us thrilled with the experience. For my mother-in-law, however, Piera and I remained forever “the irresponsible ones” who had taken even the children — her grandchildren — on that tiny little airplane.
 
-![img](/assets/img/14.png)
-
-## The Aerobatic Flight
+## The aerobatic flight
 
 In 2006, a well-known supplier of measurement instruments organized an event in Nice to present new state-of-the-art products in the telecommunications field. My colleague Gianpiero and I were invited to participate.
 
@@ -40,4 +39,4 @@ The physical strain was enormous, and I even began to feel nauseous. From time t
 
 It took a while before my upside-down stomach settled again and I could smile. If I had to sum up that experience in two words, they would be: “I survived!”
 
-![img](/assets/img/15.png)
+![A small red and white aerobatic plane on the runway](/assets/img/15.png)

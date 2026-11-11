@@ -1,0 +1,19 @@
+# Le tre lingue del sito, nell'ordine in cui compaiono nel selettore.
+# "collezione" è la cartella dei capitoli (_chapters, _chapters_en, _chapters_bag).
+- codice: it
+  nome: Italiano
+  html: it
+  collezione: chapters
+  home: /
+- codice: en
+  nome: English
+  html: en
+  collezione: chapters_en
+  home: /en/
+# Bagosso nascosto per ora: per riattivarlo togli il cancelletto dalle righe qui sotto
+# e segui le istruzioni in _config.yml (collezione chapters_bag ed elenco exclude).
+# - codice: bag
+#   nome: Bagòs
+#   html: lmo
+#   collezione: chapters_bag
+#   home: /bag/

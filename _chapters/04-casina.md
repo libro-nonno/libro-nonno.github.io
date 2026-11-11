@@ -4,9 +4,6 @@ title: "La casina oltre il fiume"
 order: 4
 ---
 
-<!-- * In questo capitolo
-{:toc}
- -->
 All’età di circa tredici anni, insieme ad un gruppo di amici,
 decidemmo di costruire una piccola capanna, o come la
 chiamavamo noi, la “casina”, lungo la sponda del fiume Caffaro.
@@ -24,6 +21,7 @@ proprietari dei terreni. Alla fine il luogo fu individuato: una
 piazzola sulla sponda opposta del fiume Caffaro, poco distante
 dalla riva ma non raggiungibile dalle acque anche in caso di
 piene stagionali.
+
 Era perfetto anche se, dovendo attraversare il fiume, non era
 facilmente raggiungibile. Ma questo fu considerato un pregio
 potendo essere raggiunto solo da qualche pescatore e
@@ -36,7 +34,7 @@ un’impresa edile e quindi poteva avvalersi dei suoi consigli e
 della sua disponibilità per il reperimento dei materiali dai suoi
 cantieri.
 
-![img](/assets/img/05.png)
+![Foto d’epoca: i ragazzi sul tetto della casina in riva al fiume](/assets/img/05.png)
 
 ## La realizzazione
 
@@ -53,6 +51,7 @@ di andarci anche con altri amici. Per segnalare la nostra
 presenza alla casina ed essere raggiunti dagli amici, veniva
 issata una bandiera bianca su un’asta, ben visibile da punti
 precisi del paese.
+
 Il posto diventò un punto di ritrovo ambìto, ma anche oggetto
 di chiacchiere e maldicenze. Molti si chiedevano cosa facessimo
 lì, quali segreti nascondesse quel rifugio. Anche il parroco si
@@ -70,6 +69,7 @@ impensabile, quindi decidemmo di tendere una fune metallica
 tra le due rive del fiume. La fune fu posata e fissata e poteva
 dunque essere utilizzata per il trasporto dei materiali necessari
 alla costruzione della casina.
+
 Dopo alcuni trasferimenti, il collaudo fu considerato superato
 con successo e decidemmo che si sarebbe potuta utilizzare
 anche per il passaggio delle persone. Inizialmente utilizzammo
@@ -83,7 +83,7 @@ di trasporto. Insistemmo molto e alla fine si lasciò convincere a
 provare. Piegato sulle ginocchia, chiuse gli occhi e, anziché
 lasciarsi scivolare appeso alla fune, diede una spinta verso
 l’alto col risultato che la carrucola si staccò dalla corda
-metallica e lui cadde dritto, a piombo, come un sasso. Splash!...
+metallica e lui cadde dritto, a piombo, come un sasso. Splash!…
 Udimmo il rumore di un tuffo con “spanciata” e tutti noi
 presenti a… spanciarci dalle risate. Non fu niente di grave.
 Gianluigi dovette solo lasciare asciugare i vestiti. In poco tempo
@@ -91,7 +91,7 @@ riuscimmo a completare la teleferica dotandola di un cassone
 con cui trasportare agevolmente anche le persone oltre che
 materiali ed oggetti vari.
 
-![img](/assets/img/06.png)
+![Foto d’epoca: un ragazzo attraversa il torrente appeso alla fune della teleferica](/assets/img/06.png)
 
 ## L’ispezione dei carabinieri
 
@@ -106,6 +106,7 @@ sapevano come poter attraversare il fiume per raggiungerci.
 Noi ci mostrammo subito collaborativi: uno di noi li raggiunse
 saltellando sui sassi e mostrò il percorso inverso, seguito dai
 carabinieri.
+
 Giunti alla casina, chiesero di poter entrare e ispezionarono gli
 oggetti che si trovavano all’interno. Fecero un breve
 interrogatorio: nomi, cognomi, figli di, chi frequentasse la
@@ -130,12 +131,14 @@ mamma mi comprò un vestito nuovo. Lo indossai il giorno di
 Pasqua e ne fui molto fiero. Lo indossai anche il giorno di
 Pasquetta. Visto che era una bella giornata, il gruppo decise di
 organizzare una merenda alla casina.
+
 Arrivati al fiume, cominciammo ad attraversarlo saltando sui
 sassi che sporgevano dall’acqua. Quando toccò il mio turno,
 proprio all’ultimo saltello, scivolai e caddi nel punto dove
 l’acqua era più alta e ne uscii col vestito fradicio. Accendemmo
 il camino, mi spogliai e misi il vestito vicino alla fiamma per
 farlo asciugare in fretta.
+
 Ci volle molto tempo e, arrivata l’ora di tornare a casa, lo
 indossai anche se non era del tutto asciutto. La gamba dei
 pantaloni e le maniche della giacca si erano accorciate di
@@ -144,13 +147,13 @@ invece ero mesto e sconsolato, rassegnato a prendermi una
 bella ramanzina dai miei genitori, consapevole che, per un
 vestito nuovo, avrei dovuto aspettare l’anno dopo.
 
-![img](/assets/img/07.png)
+![Foto d’epoca: il gruppo di ragazzi davanti alla casina](/assets/img/07.png)
 
 ## La visita dei professori
 
 La casina non era più un segreto. Il suo nome girava in paese e
 incuriosiva tutti, persino i nostri professori. Alcuni professori
-di III media si mostrarono così interessati dalla nostra
+di terza media si mostrarono così interessati dalla nostra
 descrizione che proponemmo loro di venire a visitarla.
 Accettarono molto volentieri. Un bel giorno, ci accordammo
 per la visita. Noi ragazzi eravamo eccitatissimi. Tutto era
@@ -170,7 +173,8 @@ Il prof. di Applicazione tecnica, fisico atletico, fu il primo. A
 seguire, il prof. di francese, di matematica, di disegno artistico.
 La prof. di lettere, che aveva una certa età, aveva declinato
 l’invito.
-Arrivati alla casina i proff. manifestarono tutto il loro stupore.
+
+Arrivati alla casina i prof. manifestarono tutto il loro stupore.
 Erano visibilmente meravigliati. Evidente che non si
 aspettavano di trovarsi di fronte a una costruzione così ben
 fatta e ben curata nei particolari. Riassumendo in una parola, la
@@ -184,12 +188,13 @@ terza media e, quando i voti furono esposti, noi della casina ci
 trovammo orgogliosamente un bel DIECI in Applicazione
 tecnica. Un riconoscimento che dava ancor più gusto alla nostra
 rivincita sui tanti detrattori.
+
 Quel DIECI rappresentava la prova del NOVE della bontà del
 nostro progetto. Grazie prof.!
 
-![img](/assets/img/08.png)
+![Foto d’epoca: ragazzi nel bosco attorno alla casina](/assets/img/08.png)
 
-## Occhiali ai Raggi X
+## Occhiali ai raggi X
 
 Questo capitolo entra a far parte di questo libro solo per una
 pura, piacevole coincidenza. Il 6 settembre 2025, io, mio figlio
@@ -199,6 +204,7 @@ arroccata sulla montagna di fronte a Bagolino e che offre una
 vista stupenda sul paese. Dopo aver ammirato il panorama e
 provata la soddisfazione di suonare qualche rintocco della
 campana della chiesetta ci incamminammo per il ritorno.
+
 Nell’occasione, non potevo non fermarmi a salutare il mio
 amico e compagno di classe Giorgio che, durante i mesi estivi,
 si trasferisce nella bellissima cascina che ha ristrutturato e che
@@ -207,6 +213,7 @@ di rivederci visto che le occasioni di incontrarci sono diventate
 ormai sporadiche. Parlando del più e del meno siamo finiti sul
 discorso della “casina” e, in particolare, delle voci che
 correvano in paese su “quelli della casina”.
+
 Giorgio non fece mai parte del gruppo, ma mi disse di ricordarsi
 benissimo di quel periodo e che l’argomento, in paese, era sulla
 bocca di tutti. Aggiunse anche di ricordare perfettamente come
@@ -216,7 +223,7 @@ permettevano di vedere sotto i vestiti delle persone. Non era
 vero. E, che io ricordi, non furono mai acquistati quei famosi
 occhiali speciali.
 
-![img](/assets/img/09.png)
+![Una maschera da sub](/assets/img/09.png)
 
 È vero piuttosto che, attraverso il catalogo di Postal Market,
 acquistammo delle maschere da sub e alcune paia di pinne da
@@ -227,13 +234,16 @@ casina”, utilizzavano per guardare sotto i vestiti delle ragazze!
 Se anche Giorgio, che non faceva parte del clan, ha ancora un
 ricordo così vivido di questo fatto, vuol dire che fu importante
 e quindi che merita di essere ricordato.
+
 A pensarci bene, quanto eravamo avanti, noi della casina? Non
 c’era INTERNET, non c’era AMAZON, ma riuscimmo ad avere i
 prodotti consegnati nel nostro borgo, sperduto tra i monti. Un
 piccolo miracolo di cui ancora oggi vado fiero.
 
-NdA: La verità sui mitici occhiali a Raggi X è che fu un grosso
+<div class="note" markdown="1">
+La verità sui mitici occhiali a raggi X è che fu un grosso
 inganno commerciale, una vera e propria truffa. Per buona
 pace dei detrattori di “quelli della casina”.
+</div>
 
-![img](/assets/img/10.png)
+![Occhiali giocattolo con la scritta “X-ray vision”](/assets/img/10.png)

@@ -4,9 +4,6 @@ title: "Tra sacro e profano"
 order: 3
 ---
 
-<!-- * In questo capitolo
-{:toc}
- -->
 ## La professoressa Ginevra
 
 Un personaggio, un tipo molto originale. Era una signora che
@@ -49,7 +46,7 @@ alla fine della vacanza, sono certo che avrebbe organizzato
 anche una novena di ringraziamento per il buon esito delle sue
 preghiere.
 
-![img](/assets/img/03.png)
+![Illustrazione: un’anziana signora in giacca di lana cammina sferruzzando](/assets/img/03.png)
 
 ## L’uomo nero
 
@@ -62,6 +59,7 @@ inoltre per il deposito di vecchi mobili, magari sgangherati, ma,
 chissà mai, potevano sempre venir buoni. Il luogo ideale dove,
 nella mia fantasia di ragazzino, potevano nascondersi
 personaggi inquietanti e spaventosi dei quali avere paura.
+
 Un bel giorno, stavamo pranzando quando il papà fu avvisato
 che si era verificato un guasto sulla linea elettrica e dunque
 doveva intervenire. Pioveva a dirotto. Lampi e tuoni si
@@ -73,6 +71,7 @@ papà Sandro chiese chi di noi si sentisse di salire nel sottotetto
 a prendergli l’impermeabile per uscire. Io mi offrii, sentendomi
 improvvisamente grande e coraggioso. Salii nel sottotetto,
 trovai l’impermeabile e mi apprestai a portarlo giù al papà.
+
 Si trattava di un pastrano nero, grande, pesante e ingombrante
 con un enorme cappello nero, rotondo. Il modo più pratico per
 portarlo giù fu di indossarlo: pastrano sulle spalle e cappello in
@@ -91,7 +90,7 @@ sedetti su una poltrona per riprendermi. Ci volle un po’ di
 tempo prima che io e Annamaria potessimo riacquistare il
 colorito normale.
 
-![img](/assets/img/04.png)
+![Illustrazione: una ragazza urla sulle scale davanti a una sagoma con pastrano e cappello neri](/assets/img/04.png)
 
 ## A pesca
 
@@ -115,7 +114,7 @@ che Angiolino si svegliasse. Si svegliò, si stropicciò gli occhi,
 vide noi tre fratelli, in piedi e vestiti e chiese: “Siete già pronti?”.
 
 Quella domanda segnò la sua condanna a vittima sacrificale.
-Noi tre rispondemmo quasi contemporaneamente di si, anzi, lo
+Noi tre rispondemmo quasi contemporaneamente di sì, anzi, lo
 sollecitammo a sbrigarsi ad alzarsi aggiungendo: “sai che oltre
 una certa ora le trote non abboccano più!”. Angiolino si alzò in
 fretta e andò in bagno. Nel frattempo noi ci svestimmo e ci
@@ -144,6 +143,7 @@ cosiddetta classe post-elementare, equivalente alla scuola
 professionale. Fu in quegli anni che scoprii l’interesse per
 materie nuove come il francese, il disegno tecnico e soprattutto
 il laboratorio di falegnameria.
+
 Finalmente le medie ebbero inizio e di quelle riporterò qualche
 episodio.
 
@@ -152,6 +152,7 @@ episodio.
 Ancora oggi, dopo più di mezzo secolo, non mi spiego come ci
 fosse stata assegnata l’insegnante di educazione fisica.
 Semplicemente non te l’aspetti.
+
 Una signora dal forte accento meridionale, non bassa di statura
 ma un bel po’ sovrappeso, per usare un eufemismo e tutti ci
 chiedemmo cosa c’entrasse con la materia che doveva
@@ -233,3 +234,4 @@ quando, durante la gita scolastica di fine anno, gli svelammo i
 risvolti dell’accaduto. Il professore dapprima non la prese
 benissimo, poi però anche lui rise divertito. E noi? Ci sentimmo
 più leggeri dopo esserci tolti un bel peso dalla coscienza.
+

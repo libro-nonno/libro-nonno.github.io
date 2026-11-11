@@ -4,17 +4,15 @@ title: "Il Concorde"
 order: 8
 ---
 
-<!-- * In questo capitolo
-{:toc}
- -->
 Il Concorde, aereo di linea supersonico, è stato un’icona per la
 sua velocità e un simbolo di innovazione e prestigio. Frutto di
 una collaborazione tra Francia e Gran Bretagna in un’epoca di
 forte competizione tecnologica, nonostante la sua dismissione,
 continua ad affascinare per la sua unicità.
+
 Tre ricordi mi legano a questo aereo.
 
-![img](/assets/img/16.png)
+![Il Concorde in decollo](/assets/img/16.png)
 
 ## Il prototipo
 
@@ -60,6 +58,9 @@ bordo. Mettere piede su quel mito fu un’emozione forte; ancor
 più straordinario fu poterci sedere nella cabina di pilotaggio al
 posto di uno dei due piloti, un’esperienza indimenticabile.
 
-![img](/assets/img/17.png)
+![Flavio seduto ai comandi nella cabina di pilotaggio del Concorde](/assets/img/17.png)
+
 Flavio alla “guida” del Concorde
+
+{: .caption}
 

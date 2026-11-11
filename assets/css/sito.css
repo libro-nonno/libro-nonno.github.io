@@ -1,0 +1,389 @@
+/* Ricordi del Nonno – stile del sito
+   Pensato per una lettura comoda su computer, tablet e telefono. */
+
+:root {
+  --carta: #fbf8f2;
+  --inchiostro: #1f1b16;
+  --tenue: #6b6256;
+  --linea: #e3dccf;
+  --accento: #8a5a2b;
+  --accento-scuro: #6e4520;
+  --riquadro: #f3ede1;
+  --bordo-riquadro: #c9b48f;
+  --grigio: #a39a8c;
+  --serif: "Literata", Georgia, "Times New Roman", serif;
+  --sans: "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
+  --colonna: 36em;
+  font-size: 20px;
+}
+html[data-size="s"] { font-size: 17px; }
+html[data-size="l"] { font-size: 24px; }
+
+@media (max-width: 600px) {
+  :root { font-size: 18px; }
+  html[data-size="s"] { font-size: 16px; }
+  html[data-size="l"] { font-size: 22px; }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --carta: #1b1916;
+    --inchiostro: #ece6dc;
+    --tenue: #b3aa9c;
+    --linea: #3a352e;
+    --accento: #e0a86b;
+    --accento-scuro: #f0c08c;
+    --riquadro: #26231f;
+    --bordo-riquadro: #7d6a4a;
+    --grigio: #7a7266;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--carta);
+  color: var(--inchiostro);
+  font-family: var(--serif);
+  line-height: 1.7;
+  -webkit-text-size-adjust: 100%;
+}
+
+a { color: var(--accento); text-underline-offset: 0.15em; }
+a:hover { color: var(--accento-scuro); }
+a:focus-visible, button:focus-visible {
+  outline: 3px solid var(--accento);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+img { max-width: 100%; height: auto; }
+
+/* ---------- Testata ---------- */
+.testata {
+  border-bottom: 1px solid var(--linea);
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  padding: 0.6rem 16px;
+}
+.testata-riga {
+  max-width: 60rem;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+.testata-strumenti { margin-top: 0.5rem; }
+
+.marchio {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  min-height: 44px;
+  padding: 0.25rem 0.75rem 0.25rem 0.5rem;
+  margin-left: -0.5rem;
+  border-radius: 8px;
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 1.2rem;
+  letter-spacing: 0.01em;
+  color: var(--inchiostro);
+  text-decoration: none;
+  transition: background-color 0.15s;
+}
+.marchio svg { width: 1.6rem; height: 1.6rem; color: var(--accento); flex: none; }
+.marchio-testo { display: flex; flex-direction: column; line-height: 1.1; }
+.marchio-testo small {
+  font-family: var(--sans);
+  font-weight: 400;
+  font-size: 0.65rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--tenue);
+}
+.marchio:hover { background: var(--riquadro); color: var(--inchiostro); }
+.marchio:hover .marchio-testo > span { text-decoration: underline; text-decoration-color: var(--accento); text-underline-offset: 0.2em; }
+
+.lingue { display: flex; gap: 0.4rem; flex-wrap: wrap; }
+.lingua {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  min-height: 44px;
+  padding: 0.3rem 0.9rem;
+  border: 1px solid var(--linea);
+  border-radius: 8px;
+  color: var(--inchiostro);
+  text-decoration: none;
+  font-weight: 600;
+}
+a.lingua:hover { border-color: var(--accento); color: var(--accento); }
+.lingua.attiva {
+  background: var(--inchiostro);
+  border-color: var(--inchiostro);
+  color: var(--carta);
+}
+.lingua.non-disponibile {
+  color: var(--grigio);
+  border-style: dashed;
+  font-weight: 400;
+}
+.lingua.non-disponibile small { font-size: 0.8em; }
+
+.link-indice {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  min-height: 44px;
+  padding: 0.3rem 0.9rem 0.3rem 0.7rem;
+  border: 1px solid var(--linea);
+  border-radius: 8px;
+  color: var(--inchiostro);
+  font-weight: 600;
+  text-decoration: none;
+}
+.link-indice svg { width: 1.15rem; height: 1.15rem; color: var(--accento); flex: none; }
+.link-indice:hover { border-color: var(--accento); color: var(--accento); }
+
+.dimensione { display: flex; align-items: center; gap: 0.3rem; }
+.dimensione-etichetta { color: var(--tenue); margin-right: 0.2rem; }
+.dimensione button {
+  min-width: 44px;
+  min-height: 44px;
+  border: 1px solid var(--linea);
+  border-radius: 8px;
+  background: transparent;
+  color: var(--inchiostro);
+  font-family: var(--serif);
+  font-weight: 700;
+  cursor: pointer;
+  line-height: 1;
+}
+.dimensione button:hover { border-color: var(--accento); }
+.dimensione button[aria-pressed="true"] {
+  background: var(--inchiostro);
+  border-color: var(--inchiostro);
+  color: var(--carta);
+}
+.a-s { font-size: 15px; }
+.a-m { font-size: 19px; }
+.a-l { font-size: 24px; }
+
+@media (max-width: 600px) {
+  .testata-riga:first-child { flex-direction: column; align-items: stretch; }
+  .marchio { align-self: center; margin-left: 0; }
+  .lingue { justify-content: center; }
+  .lingua { flex: 1 1 0; justify-content: center; padding: 0.3rem 0.5rem; flex-direction: column; gap: 0; line-height: 1.2; }
+}
+
+/* ---------- Pagina ---------- */
+.pagina {
+  max-width: var(--colonna);
+  margin: 0 auto;
+  padding: 1.5rem 16px 3rem;
+}
+
+h1, h2, h3 { line-height: 1.25; }
+
+.capitolo-titolo {
+  font-size: 2rem;
+  text-align: center;
+  margin: 1rem 0 2rem;
+}
+.testo h2 {
+  font-size: 1.35rem;
+  margin: 2.5rem 0 0.75rem;
+}
+.testo p { margin: 0 0 1.1em; }
+.testo img {
+  display: block;
+  margin: 2rem auto 0.5rem;
+  border-radius: 4px;
+}
+.testo p:has(> img:only-child) { margin: 0; }
+
+.caption {
+  text-align: center;
+  font-style: italic;
+  font-size: 0.9rem;
+  color: var(--tenue);
+  margin-top: 0.25rem !important;
+}
+
+.note {
+  margin: 2rem 0;
+  padding: 1rem 1.25rem;
+  background: var(--riquadro);
+  border-left: 4px solid var(--bordo-riquadro);
+  border-radius: 0 6px 6px 0;
+  font-size: 0.95rem;
+}
+.note p:last-child { margin-bottom: 0; }
+.note-title { font-weight: 700; margin-bottom: 0.4rem !important; }
+.note-small, .note.note-small { font-size: 0.85rem; color: var(--tenue); }
+
+.avviso {
+  font-family: var(--sans);
+  font-size: 0.9rem;
+  background: var(--riquadro);
+  border: 1px dashed var(--bordo-riquadro);
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+}
+
+/* Poesie del torneo di tennis (capitolo "In ufficio") */
+.poesia { margin: 2rem 0; text-align: center; }
+.poesia-titolo { font-weight: 700; font-style: italic; margin: 0 !important; }
+.poesia blockquote {
+  margin: 1rem auto 0;
+  padding: 0;
+  font-style: italic;
+  line-height: 1.6;
+}
+
+/* Testo a fronte italiano / bagosso nella Premessa */
+.parallel {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 2rem;
+  width: min(56rem, calc(100vw - 32px));
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.parallel-dial {
+  font-style: italic;
+  padding-left: 1.25rem;
+  border-left: 1px solid var(--bordo-riquadro);
+}
+@media (max-width: 760px) {
+  .parallel { grid-template-columns: 1fr; width: auto; left: 0; transform: none; }
+  .parallel-dial { margin-bottom: 1.5rem; }
+}
+
+/* ---------- Navigazione tra i capitoli ---------- */
+.naviga {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+  margin-top: 3rem;
+  font-family: var(--sans);
+}
+.naviga a {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--linea);
+  border-radius: 10px;
+  text-decoration: none;
+  color: var(--inchiostro);
+  min-height: 44px;
+}
+.naviga a:hover { border-color: var(--accento); }
+.naviga span { font-size: 0.8rem; color: var(--tenue); }
+.naviga strong { font-family: var(--serif); font-size: 1rem; color: var(--accento); }
+.naviga-succ { grid-column: 2; text-align: right; }
+@media (max-width: 600px) {
+  .naviga { grid-template-columns: 1fr; }
+  .naviga-succ { grid-column: 1; text-align: left; }
+}
+
+/* ---------- Home ---------- */
+.copertina {
+  display: grid;
+  grid-template-columns: 1fr 1.3fr;
+  gap: 2rem;
+  align-items: center;
+  margin: 1rem 0 2.5rem;
+}
+.copertina-img { border-radius: 6px; box-shadow: 0 4px 20px rgba(0,0,0,0.15); }
+.copertina h1 { font-size: 2.2rem; margin: 0 0 0.5rem; }
+.sottotitolo { font-size: 1.1rem; margin: 0 0 0.5rem; }
+.titolo-bagosso { font-style: italic; color: var(--tenue); margin: 0 0 0.5rem; }
+.autore { font-family: var(--sans); color: var(--tenue); margin: 0 0 1.5rem; }
+@media (max-width: 600px) {
+  .copertina { grid-template-columns: 1fr; text-align: center; }
+  .copertina-img { max-width: 70%; margin: 0 auto; }
+}
+
+.pulsante {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  background: var(--accento);
+  color: var(--carta);
+  font-family: var(--sans);
+  font-weight: 600;
+  text-decoration: none;
+  min-height: 44px;
+}
+.pulsante:hover { background: var(--accento-scuro); color: var(--carta); }
+.pulsante-secondario {
+  background: transparent;
+  color: var(--accento);
+  border: 1px solid var(--accento);
+}
+.pulsante-secondario:hover { background: var(--riquadro); color: var(--accento-scuro); }
+
+.dediche p { font-style: italic; }
+.dediche h2, .sezione-indice h2 { font-size: 1.4rem; margin-top: 2.5rem; }
+
+/* ---------- Indice ---------- */
+.indice { padding-left: 0; list-style: none; counter-reset: cap -1; margin: 0; }
+.indice li {
+  counter-increment: cap;
+  border-bottom: 1px solid var(--linea);
+}
+.indice li a, .indice li.non-disponibile {
+  display: flex;
+  gap: 0.75rem;
+  align-items: baseline;
+  padding: 0.7rem 0.25rem;
+  min-height: 44px;
+  text-decoration: none;
+}
+.indice li a::before, .indice li.non-disponibile::before {
+  content: counter(cap);
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  color: var(--tenue);
+  min-width: 1.6em;
+  text-align: right;
+}
+.indice li:first-child a::before, .indice li.non-disponibile:first-child::before { content: "·"; }
+.indice li.non-disponibile { color: var(--grigio); }
+.indice li.non-disponibile small { font-family: var(--sans); font-size: 0.75rem; margin-left: auto; }
+
+/* ---------- Commenti ---------- */
+.modulo iframe {
+  width: 100%;
+  height: 900px;
+  border: 1px solid var(--linea);
+  border-radius: 8px;
+  background: #fff;
+}
+.commenti { list-style: none; padding: 0; }
+.commenti li { margin: 0 0 1.5rem; }
+.commenti blockquote {
+  margin: 0;
+  padding: 0.75rem 1rem;
+  background: var(--riquadro);
+  border-radius: 6px;
+}
+.commenti blockquote p { margin: 0; }
+.commento-firma { font-family: var(--sans); color: var(--tenue); margin: 0.3rem 0 0; }
+
+/* ---------- Piede ---------- */
+.piede {
+  border-top: 1px solid var(--linea);
+  text-align: center;
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  color: var(--tenue);
+  padding: 1.5rem 16px 2rem;
+}
+.piede p { margin: 0.3rem 0; }

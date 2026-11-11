@@ -1,0 +1,22 @@
+{%- assign url = site.comment_form_url -%}
+{%- if url and url != "" -%}
+  {%- if url contains "?" -%}{%- assign embed = url | append: "&embedded=true" -%}{%- else -%}{%- assign embed = url | append: "?embedded=true" -%}{%- endif -%}
+<div class="modulo">
+  <iframe src="{{ embed }}" title="{{ include.titolo_modulo }}" loading="lazy"></iframe>
+</div>
+<p class="modulo-alternativa"><a class="pulsante pulsante-secondario" href="{{ url }}" target="_blank" rel="noopener">{{ include.apri_modulo }}</a></p>
+{%- else -%}
+<p class="avviso">{{ include.non_pronto }}</p>
+{%- endif -%}
+
+{%- if site.data.commenti.size > 0 %}
+<h2>{{ include.titolo_elenco }}</h2>
+<ul class="commenti">
+  {%- for c in site.data.commenti %}
+  <li>
+    <blockquote>{{ c.testo | markdownify }}</blockquote>
+    <p class="commento-firma">— {{ c.nome }}{% if c.data %}, {{ c.data }}{% endif %}</p>
+  </li>
+  {%- endfor %}
+</ul>
+{%- endif -%}

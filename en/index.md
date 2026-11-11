@@ -1,32 +1,19 @@
 ---
-layout: default
+layout: home
+lang: en
+ref: home
+title: Grandpa’s Memories
+titolo_libro: Grandpa’s Memories
+pulsante: Now, let me tell you…
+alt_copertina: Photo of Grandpa’s grandchildren
 ---
 
-<section class="book-home">
+<section class="dediche" markdown="1">
 
-<h1>Dedications</h1>
+## Dedications
 
-  <p class="book-intro">
-To my wonderful grandchildren Camilla, Giacomo, Ottavio, and Pietro; to them
-I owe the most beautiful reason for writing these memories. I like to imagine
-that this book will find a special place among their favorite books, that they
-can pick it up whenever they want to think of grandpa with affection and a smile.
-To them goes my biggest hug and all my immense affection.
-  </p>
-  <p class="book-intro">
-To my brother Flavio, who passed away in 2024, protagonist of the first chapter
-and many other memories I wanted to share. This dedication is for him, because
-I know that more than anyone else, he would have appreciated this work. Together
-we would have laughed a lot, commenting on these moments that saw us as protagonists.
-  </p>
+To my wonderful grandchildren Camilla, Giacomo, Ottavio and Pietro; they are the most beautiful reason I had for writing down these memories. I like to imagine this book finding a special place among their favourites, something they might take in their hands whenever they want to think of their grandfather with affection and a smile. To them go my warmest embrace and all my immense love.
 
-  <p class="book-actions">
-    <a class="button" href="/en/chapters/">Now I tell you...</a>
-  </p>
+To my brother Flavio, who passed away in 2024, protagonist of the first chapter and of many other memories I wanted to share. This dedication is for him because I know that, more than anyone else, he would have appreciated this work. Together we would have laughed for hours, commenting on the moments that saw us as the main characters.
 
-  <img
-    src="{{ site.baseurl }}/assets/img/00.png"
-    alt="Book cover"
-    class="book-cover"
-  />
 </section>

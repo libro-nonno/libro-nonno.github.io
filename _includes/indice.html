@@ -1,0 +1,18 @@
+{%- comment -%} Elenco dei capitoli. Per il bagosso mostra i titoli italiani, in grigio se non ancora tradotti. {%- endcomment -%}
+{%- assign lingua = site.data.lingue | where: "codice", include.lang | first -%}
+{%- assign t = site.data.testi[include.lang] -%}
+{%- if include.lang == "bag" -%}{%- assign elenco = site.chapters | sort: "order" -%}{%- else -%}{%- assign elenco = site[lingua.collezione] | sort: "order" -%}{%- endif -%}
+<ol class="indice">
+{%- for c in elenco -%}
+  {%- if include.lang == "bag" -%}
+    {%- assign tr = site.chapters_bag | where: "slug", c.slug | first -%}
+    {%- if tr %}
+  <li><a href="{{ tr.url | relative_url }}" lang="lmo">{{ tr.title }}</a></li>
+    {%- else %}
+  <li class="non-disponibile"><span>{{ c.title }}</span> <small>{{ t.in_preparazione }}</small></li>
+    {%- endif -%}
+  {%- else %}
+  <li><a href="{{ c.url | relative_url }}">{{ c.title }}</a></li>
+  {%- endif -%}
+{%- endfor %}
+</ol>

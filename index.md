@@ -1,0 +1,19 @@
+---
+layout: home
+lang: it
+ref: home
+title: Ricordi del Nonno
+titolo_bagosso: Regòrcc dèl nòno – Önä étä ordenàriä én tèp sträordenàri
+pulsante: Adesso vi racconto…
+alt_copertina: Foto dei nipoti del nonno
+---
+
+<section class="dediche" markdown="1">
+
+## Dediche
+
+Ai miei splendidi nipotini Camilla, Giacomo, Ottavio e Pietro; a loro devo il motivo più bello per aver scritto questi ricordi. Mi piace immaginare che questo libro possa trovare un posto speciale tra i loro libri preferiti, che possano prenderlo in mano ogni volta che vorranno pensare al nonno con affetto e un sorriso. A loro va il mio più grande abbraccio e tutto il mio immenso affetto.
+
+A mio fratello Flavio, scomparso nel 2024, protagonista del primo capitolo e di molti altri ricordi che ho voluto condividere. Questa dedica è per lui, perché so che, più di chiunque altro, avrebbe apprezzato questo lavoro. Insieme avremmo riso a lungo, commentando questi momenti che ci hanno visto protagonisti.
+
+</section>

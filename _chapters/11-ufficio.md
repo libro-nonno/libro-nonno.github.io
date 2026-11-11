@@ -1,13 +1,10 @@
 ---
 layout: chapter
 title: "In ufficio"
-order: 11
+order: 12
 ---
 
-<!-- * In questo capitolo
-{:toc}
- -->
-## Napoletani, esuberanti.
+## Napoletani, esuberanti
 
 Nell’ufficio in cui lavoravo, grazie alle persone che vi erano,
 tutte giovani, si era creato un ambiente sereno e piacevole. Tra
@@ -20,6 +17,7 @@ alcuna reazione. Ezio si pentì immediatamente di quel gesto ma
 ormai la frittata era fatta. Si rivolse a me, sconsolato,
 chiedendomi cosa fare: fare finta di niente o giustificarsi col
 capo?
+
 Gli consigliai di parlarne, cercando il momento giusto, magari
 dicendo che voleva controllare il flusso d’aria del
 condizionatore, che a volte era troppo freddo e fastidioso.
@@ -38,9 +36,9 @@ subito Maurizio. Ezio, con un sorriso appena accennato,
 rispose: “Esuberanti questi napoletani!”, lasciando intendere a
 Maurizio che ci fosse stato uno scambio di persona. Non era
 vero, naturalmente ma Maurizio ebbe una reazione
-improvvisa: “eh no! non ci sto! vado subito a dire che non ero
+improvvisa: “Eh no! Non ci sto! Vado subito a dire che non ero
 io!”. Maurizio fu fermato in tempo e la cosa finì lì, tra le nostre
-risate di ilarità. Eh si, la percezione di un fatto può cambiare a
+risate di ilarità. Eh sì, la percezione di un fatto può cambiare a
 seconda che…
 
 ## Il comitato dell’ora esatta
@@ -52,10 +50,12 @@ faccio fatica a resistere, gli orologi e le penne stilografiche.
 L’orologio di Ezio mi piaceva molto e, con il permesso di mia
 moglie e l’aiuto di mia suocera, ne acquistai uno uguale per il
 mio compleanno.
+
 Io ed Ezio, con quei preziosi oggetti al polso, ce la tiravamo non
 poco con i colleghi. Il nostro amico Marco non poteva restare
 indietro e volle un modello uguale, ma con il quadrante color
 oro, per distinguersi.
+
 I tre orologi erano proprio belli, raffinati e straordinariamente
 precisi. Ogni giorno controllavamo l’orario tra noi, compiaciuti
 dell’acquisto.
@@ -64,13 +64,16 @@ Fu così che dopo poco tempo ci autoproclamammo “Comitato
 dell’ora esatta”. Il comitato non aveva alcuna funzione, nessuna
 utilità se non quella di pavoneggiarci e suscitare un po’ di
 invidia tra i colleghi.
+
 Ogni giorno alle 12:00, il comitato si riuniva, scandiva il conto
 alla rovescia: 3, 2, 1, e dava l’ora all’unisono. Il rituale durò per
 un po’ finché, un giorno, l’orologio di Marco cominciò a
 sbagliare, mentre il mio e quello di Ezio andavano
 perfettamente sincronizzati.
+
 Marco era sempre fuori tempo, a volte in anticipo, a volte in
 ritardo, seppur di poco.
+
 Il motivo? Io ed Ezio ci eravamo messi d’accordo per
 modificare l’orario sui nostri orologi, in modo da restare
 sempre allineati.
@@ -79,14 +82,17 @@ Marco impazziva. Cercammo di giustificare scientificamente la
 cosa: il nostro quadrante bianco rifletteva molta luce solare,
 mentre il suo, color oro e quindi più scuro, assorbiva più calore,
 alterando la dilatazione termica delle lancette.
+
 E così: “Se vuoi, puoi cambiare il quadrante e metterne uno
 bianco come il nostro”, gli suggerimmo.
+
 Marco tornò dall’orologiaio che, dopo aver osservato l’orologio
 per giorni, assicurò che non aveva difetti.
+
 Dopo un po’, noi due confessammo il trucco e il comitato tornò
 a scandire l’ora, perfettamente sincronizzato.
 
-![img](/assets/img/20.png)
+![Un orologio con quadrante bianco e cinturino rosso](/assets/img/20.png)
 
 ## La scommessa
 
@@ -94,14 +100,19 @@ Marco rientrò da una breve trasferta in Arabia Saudita, dove la
 nostra società aveva uffici. Raccontava ai colleghi delle cose
 viste, quando il discorso cadde sulle sigarette Camel, che un
 tecnico locale fumava regolarmente.
+
 Secondo Marco, sul logo delle sigarette c’era una scritta
 nascosta, visibile solo agli occhi esperti.
+
 Non ricordo il contenuto della scritta, ma a noi sembrava una
 sciocchezza. Marco, che non fuma, non poteva aver avuto modo
 di vedere bene la confezione.
+
 Sorprendeva la sua insistenza sulla cosa.
+
 “Scommettiamo?” propose. Io e altri due colleghi accettammo,
 puntando mille lire a testa.
+
 Il giorno dopo, Marco chiamò il tecnico in Arabia davanti a noi
 per farsi confermare ciò che lui sosteneva. Durante la
 telefonata, la sua espressione passò da sicura e spavalda a
@@ -113,16 +124,19 @@ un atto meschino.
 Dopo una rapida consultazione, decidemmo di acquistare dei
 gettoni per la macchina del caffè così che anche gli altri colleghi
 potessero beneficiare della “vincita”.
+
 Mettemmo i gettoni in un vaso trasparente sopra un mobile in
 open space, vicino alla scrivania di Marco, con un cartoncino:
-“Servitevi pure, offre Marco. Chi passava si sentiva in dovere di
+“Servitevi pure, offre Marco”. Chi passava si sentiva in dovere di
 ringraziare Marco e chiedere cosa si stesse festeggiando.
+
 Non è il caso di riferire le risposte di Marco né le imprecazioni
 che ci rivolse.
+
 Se c’è una morale in questa storia è che, da allora, Marco
 divenne fortemente avverso a qualsiasi scommessa.
 
-## Torneo di tennis degli Approvvigionamenti
+## Torneo di tennis degli approvvigionamenti
 
 A metà degli anni Ottanta, nella mia società mi si aprì una
 nuova opportunità professionale: entrai a far parte del reparto
@@ -154,115 +168,74 @@ Si arrivò così all’incontro del capo, del direttore e non poteva
 certo mancare un mio commento. Ecco il racconto, ripreso dai
 documenti storici di allora:
 
-<section style="max-width:700px; margin:3rem auto; font-family:Georgia, 'Times New Roman', serif; color:#222;">
-
-  <h3 style="text-align:center; margin-bottom:0.2rem;">
-    6° Torneo di Tennis News
-  </h3>
-
-  <h3 style="text-align:center; font-weight:normal; margin:0;">
-    - 11 maggio 1988 -
-  </h3>
-
-  <h3 style="text-align:center; font-weight:normal; margin:0;">
-    La partita del capo
-  </h3>
-
-  <blockquote
-    style="
-      margin-top:2rem;
-      padding-left:1.5rem;
-      border-left:3px solid #ccc;
-      white-space:pre-line;
-      font-style:italic;
-      line-height:1.6;
-      font-size:1rem;
-    "
-  >Nonostante i tuoni e i lampi, si è giocato su entrambi i campi.
-Delle due partite in atto, parleremo di una sola,
-cioè di quella col Gerola* ;
-La contesa è singolare e la vogliamo raccontare.
-Si presentan tutti fieri i nostri quattro moschettieri.
-Sul campo 2 gioca dunque il capo, che da tutti è ammirato.
-Assiste anche la consorte. Il capo è in forma e gioca forte!
-Batte l’un, risponde l’altro; tira questo e poi quello
-e ad un tratto arriva il bello.
-Tira Enrico da dritto a manco e colpisce il capo al fianco.
-Sotto shock per la gran botta, questi subito borbotta:
-Ma che fà! Mi tira addosso? Non è mica ortodosso!
-E brandisce la racchetta in chiaro segno di vendetta.
-Resta fermo il suo compare che non sa più cosa fare.
-Fermo e rigido come pinocchio; ecco, pumm! Colpito all’occhio!
-Dopo un po’ va anche a terra, proprio come avviene in guerra.
-Gli avversari esterrefatti se la ridon come matti
-e si sa cos’hanno in mente: passiamo il turno, finalmente!
+<section class="poesia">
+<p class="poesia-titolo">6° Torneo di Tennis News</p>
+<p class="poesia-titolo">– 11 maggio 1988 –</p>
+<p class="poesia-titolo">La partita del capo</p>
+<blockquote>
+Nonostante i tuoni e i lampi, si è giocato su entrambi i campi.<br>
+Delle due partite in atto, parleremo di una sola,<br>
+cioè di quella col Gerola*;<br>
+La contesa è singolare e la vogliamo raccontare.<br>
+Si presentan tutti fieri i nostri quattro moschettieri.<br>
+Sul campo 2 gioca dunque il capo, che da tutti è ammirato.<br>
+Assiste anche la consorte. Il capo è in forma e gioca forte!<br>
+Batte l’un, risponde l’altro; tira questo e poi quello<br>
+e ad un tratto arriva il bello.<br>
+Tira Enrico da dritto a manco e colpisce il capo al fianco.<br>
+Sotto shock per la gran botta, questi subito borbotta:<br>
+Ma che fà! Mi tira addosso? Non è mica ortodosso!<br>
+E brandisce la racchetta in chiaro segno di vendetta.<br>
+Resta fermo il suo compare che non sa più cosa fare.<br>
+Fermo e rigido come pinocchio; ecco, pumm! Colpito all’occhio!<br>
+Dopo un po’ va anche a terra, proprio come avviene in guerra.<br>
+Gli avversari esterrefatti se la ridon come matti<br>
+e si sa cos’hanno in mente: passiamo il turno, finalmente!<br>
 Cadon dal cielo alcune gocce e i nostri eroi vanno alle docce.
-  </blockquote>
+</blockquote>
 </section>
 
-* Fornitore nda
+\* Gerola: fornitore (N.d.A.)
+{: .note-small}
 
-![img](/assets/img/21.png)
+![Vignetta: una partita di tennis in doppio tra palline che volano](/assets/img/21.png)
 
-<section style="max-width:700px; margin:3rem auto; font-family:Georgia, 'Times New Roman', serif; color:#222;">
-
-  <h3 style="text-align:center; margin-bottom:0.2rem;">
-    Poesia al Poeta “Atto secondo”
-  </h3>
-
-  <h3 style="text-align:center; font-weight:normal; margin:0;">
-    (Ovvero la risposta del capo)
-  </h3>
-
-  <blockquote
-    style="
-      margin-top:2rem;
-      padding-left:1.5rem;
-      border-left:3px solid #ccc;
-      white-space:pre-line;
-      font-style:italic;
-      line-height:1.6;
-      font-size:1rem;
-    "
-  >Il poeta mai non mente,
-Tutto è vero e divertente.
-La vicenda dell’incontro
-si è risolta in uno scontro
-ed il bello è che avversari
-fur color ch’eran compari.
-Ma il poeta fu prudente,
-si domanda tanta gente,
-per aver un po’ tirato
-pei fondelli il proprio capo?
-Tutto ciò, da mane a sera,
+<section class="poesia">
+<p class="poesia-titolo">Poesia al Poeta “Atto secondo”</p>
+<p class="poesia-titolo">(Ovvero la risposta del capo)</p>
+<blockquote>
+Il poeta mai non mente,<br>
+Tutto è vero e divertente.<br>
+La vicenda dell’incontro<br>
+si è risolta in uno scontro<br>
+ed il bello è che avversari<br>
+fur color ch’eran compari.<br>
+Ma il poeta fu prudente,<br>
+si domanda tanta gente,<br>
+per aver un po’ tirato<br>
+pei fondelli il proprio capo?<br>
+Tutto ciò, da mane a sera,<br>
 può costargli la carriera?
-  </blockquote>
+</blockquote>
 </section>
 
 A questa sottile minaccia del direttore risposi con un’altra rima
 di cui riporto solo i versi iniziali:
 
-<section style="max-width:700px; margin:3rem auto; font-family:Georgia, 'Times New Roman', serif; color:#222;">
-  <blockquote
-    style="
-      margin-top:2rem;
-      padding-left:1.5rem;
-      border-left:3px solid #ccc;
-      white-space:pre-line;
-      font-style:italic;
-      line-height:1.6;
-      font-size:1rem;
-    "
-  >“Anche quest’oggi non è sereno e
-e anche stavolta commenteremo.
-Si, perché l’arte ha da seguir le sue tracce,
-anche in presenza di velate minacce!...”
-  </blockquote>
+<section class="poesia">
+<blockquote>
+“Anche quest’oggi non è sereno e<br>
+e anche stavolta commenteremo.<br>
+Si, perché l’arte ha da seguir le sue tracce,<br>
+anche in presenza di velate minacce!…”
+</blockquote>
 </section>
 
 Lo scambio di rime fu molto apprezzato, così come alcuni
 scambi sul campo da tennis tra i giocatori.
+
 Va detto che la mia carriera non subì contraccolpi nonostante
 le rime simpaticamente impertinenti e nonostante la vittoria
 del torneo, proprio contro il capo che seppe incassare il tutto
 con grande sportività.
+

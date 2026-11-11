@@ -1,0 +1,22 @@
+{%- comment -%} Selettore di lingua: porta alla stessa pagina nell'altra lingua, se esiste. {%- endcomment -%}
+<nav class="lingue" aria-label="{{ include.t.lingua }}">
+{%- for l in site.data.lingue -%}
+  {%- assign href = false -%}
+  {%- if page.collection -%}
+    {%- assign doc = site[l.collezione] | where: "slug", page.slug | first -%}
+    {%- if doc -%}{%- assign href = doc.url -%}{%- endif -%}
+  {%- elsif page.ref -%}
+    {%- assign p = site.pages | where: "ref", page.ref | where: "lang", l.codice | first -%}
+    {%- if p -%}{%- assign href = p.url -%}{%- endif -%}
+  {%- else -%}
+    {%- assign href = l.home -%}
+  {%- endif -%}
+  {%- if l.codice == include.lang -%}
+  <span class="lingua attiva" aria-current="page" lang="{{ l.html }}">{{ l.nome }}</span>
+  {%- elsif href -%}
+  <a class="lingua" href="{{ href | relative_url }}" hreflang="{{ l.html }}" lang="{{ l.html }}">{{ l.nome }}</a>
+  {%- else -%}
+  <span class="lingua non-disponibile" lang="{{ l.html }}">{{ l.nome }} <small lang="{{ include.t_html }}">{{ include.t.in_preparazione }}</small></span>
+  {%- endif -%}
+{%- endfor -%}
+</nav>
