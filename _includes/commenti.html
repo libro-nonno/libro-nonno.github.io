@@ -2,7 +2,7 @@
 {%- if url and url != "" -%}
   {%- if url contains "?" -%}{%- assign embed = url | append: "&embedded=true" -%}{%- else -%}{%- assign embed = url | append: "?embedded=true" -%}{%- endif -%}
 <div class="modulo">
-  <iframe src="{{ embed }}" title="{{ include.titolo_modulo }}" loading="lazy"></iframe>
+  <iframe src="{{ embed }}" title="{{ include.titolo_modulo }}"></iframe>
 </div>
 <p class="modulo-alternativa"><a class="pulsante pulsante-secondario" href="{{ url }}" target="_blank" rel="noopener">{{ include.apri_modulo }}</a></p>
 {%- else -%}

@@ -6,7 +6,7 @@ baseurl: ""
 # Link del Modulo Google per i commenti dei lettori.
 # Incolla qui il link "Invia" del modulo (quello che inizia con https://docs.google.com/forms/...).
 # Finché è vuoto, la pagina commenti mostra un avviso.
-comment_form_url: ""
+comment_form_url: "https://docs.google.com/forms/d/e/1FAIpQLScc1xSZERrrLuBpIDwwypUGJKyc2bzL8gxOmRw5ZatNX0XulQ/viewform"
 
 markdown: kramdown
 kramdown:
