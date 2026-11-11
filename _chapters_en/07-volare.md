@@ -1,6 +1,6 @@
 ---
 title: "Flying"
-order: 7
+order: 8
 ---
 
 Am I afraid of flying? I would say no. I’ve travelled many miles by air, and when I board a plane my only concern is finding an overhead space for my carry-on.

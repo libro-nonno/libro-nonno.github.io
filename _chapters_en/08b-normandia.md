@@ -1,6 +1,6 @@
 ---
 title: "In Normandy"
-order: 9
+order: 7
 ---
 
 It was 1968 and Flavio was in France. He worked for a Swiss company that had been commissioned to build a plant for the production of heavy water. For those who aren’t into nuclear matters, heavy water, that is D₂O, is used to slow down neutrons in nuclear reactors that produce energy. In short, not a particularly relaxing line of work.

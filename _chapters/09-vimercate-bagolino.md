@@ -299,7 +299,7 @@ fanno il palloncino?”.
 
 Credo di averla fulminata con uno sguardo. Poi rivolsi
 l’attenzione al poliziotto, sperando non avesse udito le sue
-parole o peggio, che decidesse di non procedere con l’alcoltest.
+parole o peggio, che decidesse di procedere con l’alcoltest.
 
 Il poliziotto, incredulo, guardò prima mia moglie, poi me,
 quindi abbassò lo sguardo sui documenti, scuotendo

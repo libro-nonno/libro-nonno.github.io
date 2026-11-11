@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: "In Normandia"
-order: 9
+order: 7
 ---
 
 Era il 1968 e Flavio si trovava in Francia. Lavorava per una società svizzera alla quale era stata affidata la realizzazione di una centrale per la produzione di acqua pesante. Per chi non mastica di nucleare, l’acqua pesante, cioè la D₂O, serve a rallentare i neutroni nei reattori nucleari destinati alla produzione di energia. Insomma, niente di particolarmente rilassante come lavoro.
