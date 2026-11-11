@@ -12,9 +12,9 @@
     {%- assign href = l.home -%}
   {%- endif -%}
   {%- if l.codice == include.lang -%}
-  <span class="lingua attiva" aria-current="page" lang="{{ l.html }}">{{ l.nome }}</span>
+  <span class="lingua attiva" aria-current="page" title="{{ l.nome }}"><span class="sr" lang="{{ l.html }}">{{ l.nome }}</span>{% include bandiera.html paese=l.bandiera %}</span>
   {%- elsif href -%}
-  <a class="lingua" href="{{ href | relative_url }}" hreflang="{{ l.html }}" lang="{{ l.html }}">{{ l.nome }}</a>
+  <a class="lingua" href="{{ href | relative_url }}" hreflang="{{ l.html }}" title="{{ l.nome }}"><span class="sr" lang="{{ l.html }}">{{ l.nome }}</span>{% include bandiera.html paese=l.bandiera %}</a>
   {%- else -%}
   <span class="lingua non-disponibile" lang="{{ l.html }}">{{ l.nome }} <small lang="{{ include.t_html }}">{{ include.t.in_preparazione }}</small></span>
   {%- endif -%}

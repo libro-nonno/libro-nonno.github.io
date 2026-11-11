@@ -2,11 +2,13 @@
 # "collezione" è la cartella dei capitoli (_chapters, _chapters_en, _chapters_bag).
 - codice: it
   nome: Italiano
+  bandiera: it
   html: it
   collezione: chapters
   home: /
 - codice: en
   nome: English
+  bandiera: gb
   html: en
   collezione: chapters_en
   home: /en/
