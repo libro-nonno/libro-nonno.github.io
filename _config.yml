@@ -19,10 +19,9 @@ collections:
   chapters_en:
     output: true
     permalink: /en/chapters/:name/
-  # Bagosso nascosto per ora: per riattivarlo togli il cancelletto dalle tre righe qui sotto
-  # chapters_bag:
-  #   output: true
-  #   permalink: /bag/chapters/:name/
+  chapters_bag:
+    output: true
+    permalink: /bag/chapters/:name/
 
 defaults:
   - scope: { type: chapters }
@@ -33,7 +32,6 @@ defaults:
     values: { layout: chapter, lang: bag }
 
 exclude:
-  - bag   # bagosso nascosto per ora
   - README.md
   - Gemfile
   - Gemfile.lock

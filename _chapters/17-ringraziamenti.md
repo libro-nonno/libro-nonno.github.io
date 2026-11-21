@@ -31,6 +31,10 @@ Un grazie va anche a mia figlia Linda, a mio figlio Filippo, ai
 nipoti Camilla e Giacomo, che mi hanno dato supporto per la
 parte tecnica, informatica e grafica di questo lavoro.
 
+Al termine di questo mio umile, ma appassionato lavoro, desidero esprimere il mio sentimento di gratitudine per Fiorino Bazzani e Graziano Melzani, autori del “Nuovo vocabolario del dialetto di Bagolino”, edito nel 2002 da Grafo Edizioni di Brescia, che si è rivelato uno strumento prezioso e indispensabile per la traduzione nel dialetto Bagòs: la “lingua” con cui sono cresciuto, quella della mia terra, uno dei Borghi più belli d’Italia.
+
+A mio fratello Graziano va inoltre un ringraziamento particolare per l’autorevole consulenza e il fattivo contributo offerti in qualità di studioso esperto del dialetto di Bagolino.
+
 Pierluigi
 
 ![Ritratto disegnato di un poeta incoronato d’alloro](/assets/img/28.png)

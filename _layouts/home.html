@@ -12,6 +12,7 @@ layout: base
     {% if page.titolo_bagosso %}<p class="titolo-bagosso" lang="lmo">{{ page.titolo_bagosso }}</p>{% endif %}
     <p class="autore">{{ site.author }}</p>
     <a class="pulsante" href="{{ primo.url | relative_url }}">{{ page.pulsante | default: t.inizia }}</a>
+    {% if page.lang == "bag" %}<p class="link-lettura"><a href="{{ '/bag/lettura/' | relative_url }}">{{ t.come_si_legge }}</a></p>{% endif %}
   </div>
 </section>
 

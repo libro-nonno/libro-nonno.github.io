@@ -13,6 +13,10 @@ I owe to her the enthusiasm and the strength to write down these recollections, 
 
 My thanks also go to my daughter Linda, my son Filippo, and my grandchildren Camilla and Giacomo, who supported me with the technical, digital, and graphic aspects of this work.
 
+At the end of this humble but heartfelt work of mine, I wish to express my gratitude to Fiorino Bazzani and Graziano Melzani, authors of the “Nuovo vocabolario del dialetto di Bagolino” (New Dictionary of the Bagolino Dialect), published in 2002 by Grafo Edizioni of Brescia, which proved a precious and indispensable tool for the translation into the Bagòs dialect: the “language” I grew up with, the language of my homeland, one of the Most Beautiful Villages in Italy.
+
+I also owe special thanks to my brother Graziano for the authoritative advice and practical contribution he offered as an expert scholar of the Bagolino dialect.
+
 Pierluigi
 
 ![Drawn portrait of a poet crowned with laurel](/assets/img/28.png)

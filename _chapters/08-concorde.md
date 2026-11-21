@@ -61,6 +61,5 @@ posto di uno dei due piloti, un’esperienza indimenticabile.
 ![Flavio seduto ai comandi nella cabina di pilotaggio del Concorde](/assets/img/17.png)
 
 Flavio alla “guida” del Concorde
-
 {: .caption}
 

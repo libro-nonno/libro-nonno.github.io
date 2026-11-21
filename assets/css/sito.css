@@ -11,6 +11,7 @@
   --riquadro: #f3ede1;
   --bordo-riquadro: #c9b48f;
   --grigio: #a39a8c;
+  --barra: #e9dcc2;
   --serif: "Literata", Georgia, "Times New Roman", serif;
   --sans: "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
   --colonna: 36em;
@@ -36,6 +37,7 @@ html[data-size="l"] { font-size: 24px; }
     --riquadro: #26231f;
     --bordo-riquadro: #7d6a4a;
     --grigio: #7a7266;
+    --barra: #3a3024;
   }
 }
 
@@ -399,3 +401,48 @@ h1, h2, h3 { line-height: 1.25; }
   padding: 1.5rem 16px 2rem;
 }
 .piede p { margin: 0.3rem 0; }
+
+/* Pagina "Come si legge il bagòs" (versione in dialetto) */
+.tabella-lettura { overflow-x: auto; margin: 1rem 0 1.5rem; }
+.tabella-lettura table { border-collapse: collapse; width: 100%; font-size: 0.92em; }
+.tabella-lettura th, .tabella-lettura td { text-align: left; vertical-align: top; padding: 0.55em 0.7em; border-bottom: 1px solid var(--linea); }
+.tabella-lettura th { font-weight: 600; border-bottom-width: 2px; }
+.tabella-lettura td:first-child { white-space: nowrap; font-size: 1.1em; }
+.nota-fonte { font-size: 0.85em; opacity: 0.8; }
+.avanti { margin-top: 2rem; text-align: center; }
+.link-lettura { margin-top: 0.9rem; font-size: 0.95em; }
+.indice-lettura { font-style: italic; }
+@media (max-width: 600px) {
+  .tabella-lettura table, .tabella-lettura tbody, .tabella-lettura tr, .tabella-lettura td { display: block; width: 100%; }
+  .tabella-lettura thead { display: none; }
+  .tabella-lettura tr { padding: 0.6em 0; border-bottom: 1px solid var(--linea); }
+  .tabella-lettura td { border: none; padding: 0.15em 0; }
+  .tabella-lettura td:first-child { white-space: normal; }
+  .tabella-lettura td:last-child { font-style: italic; opacity: 0.9; }
+}
+
+/* Paragrafo raggiunto cambiando lingua */
+.evidenzia { background: rgba(201, 180, 143, 0.28); box-shadow: 0 0 0 0.4rem rgba(201, 180, 143, 0.28); border-radius: 4px; transition: background 1.2s, box-shadow 1.2s; }
+
+/* Barra che compare scorrendo il capitolo: titolo e lingue sempre a portata */
+.barra-lettura {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 50;
+  background: var(--barra);
+  border-bottom: 2px solid var(--bordo-riquadro);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  font-family: var(--sans); font-size: 0.85rem;
+  padding: 0 16px;
+  transform: translateY(-105%);
+  transition: transform 0.2s ease;
+}
+.barra-lettura.visibile { transform: none; }
+.barra-riga { max-width: 60rem; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; gap: 0.5rem; }
+.barra-titolo {
+  flex: 1; min-width: 0; padding: 0.55rem 0;
+  font-family: var(--serif); font-weight: 700; font-size: 1rem;
+  color: var(--inchiostro); text-decoration: none;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.barra-lettura .lingua { min-height: 40px; opacity: 0.75; }
+.barra-lettura .lingua.attiva { opacity: 1; }
+@media (prefers-reduced-motion: reduce) { .barra-lettura { transition: none; } }

@@ -9,9 +9,9 @@ In the 1970s, in our area, snow was never in short supply. Piera and I had recen
 
 I had always enjoyed skiing, so why not treat ourselves to a ski week in Gaver, a mountain resort near my hometown, Bagolino? No sooner said than done. We mentioned it to some friends and colleagues, who immediately expressed the desire to join us. In a short time, our group grew to about ten people.
 
-I found accommodations at the Villaggio dei Cardi, a newly built complex consisting of a central lodge with a restaurant and bar, surrounded by numerous independent chalets where we would be staying. Everyone was excited, and we booked the second week of January 1977.
+I found accommodations at the Villaggio dei Cardi, a newly built complex consisting of a central lodge with a restaurant and bar, surrounded by numerous independent chalets where we would be staying.
 
-Everything went beautifully. The slopes were perfectly covered in snow, the weather was clear and sunny, the company was pleasant, and the food was excellent. The week flew by.
+Everyone was excited, and we booked the second week of January 1977. Everything went beautifully. The slopes were perfectly covered in snow, the weather was clear and sunny, the company was pleasant, and the food was excellent. The week flew by.
 
 On Friday, the second-to-last day, the sky clouded over and it began to snow. Three people from our group decided to leave early. The snowflakes became thicker and thicker until the snowfall turned heavy. “If it keeps going like this, we’re going to have serious trouble getting home,” we all thought.
 
@@ -35,15 +35,19 @@ The hotel manager reassured us: they had enough food supplies to last until East
 
 Thankfully, the weather improved and the snowfall ceased. Rescue teams were quickly mobilized, and snowploughs had begun carving narrow passages through the massive avalanche debris, making it possible to cross the most critical points on foot or by snowmobile. Thanks to a snowmobile escort, Graziella, Loredana, Mariangela, and Piera managed to leave the village and reach Valle Dorizzo. From there, a Carabinieri truck took them to Bagolino, where they caught public transportation back home to Burago. I, Colombo, Claudio with his wife Bambi and their little daughter Lisa had no choice but to remain and wait until the road was safe for cars.
 
-On Sunday, a Carabinieri helicopter flew over the area, and after several passes dropped a dark sack into the fresh snow. We retrieved it with difficulty and found fresh bread inside, a delightful and unexpected surprise. That same day, my brother Angiolino, along with Duilio and my dear friend Fabio, trekked up from Valle Dorizzo to reach us, updating us about the situation and confirming that it would definitely take some more days before the snowplows could clear the road.
+On Sunday, a Carabinieri helicopter flew over the area, and after several passes dropped a dark sack into the fresh snow. We retrieved it with difficulty and found fresh bread inside, a delightful and unexpected surprise.
 
-![A car buried in snow at Gaver](/assets/img/18.png)
+That same day, my brother Angiolino, along with Duilio and my dear friend Fabio, trekked up from Valle Dorizzo to reach us, updating us about the situation and confirming that it would definitely take some more days before the snowplows could clear the road.
 
 For those of us who remained, the real challenge became figuring out how to spend the time, as the deep snow made any movement nearly impossible: with each step, we sank down to our hips.
 
-The ski lifts were out of service, but the slope operators took us up to the top on snowcats, allowing us at least a few downhill runs. Ski instructors Gigi and Giacomo guided us, and we even managed to enjoy ourselves.
+The ski lifts were out of service, but the slope operators took us up to the top on snowcats, allowing us at least a few downhill runs.
 
-Meanwhile, rescue crews worked tirelessly to clear the road. Our cars were buried under two meters of snow or more, and we had to dig them out by hand. Once the cars were freed from the snow, we simply waited for the all-clear to depart.
+Ski instructors Gigi and Giacomo guided us, and we even managed to enjoy ourselves.
+
+Meanwhile, rescue crews worked tirelessly to clear the road.
+
+Our cars were buried under two meters of snow or more, and we had to dig them out by hand. Once the cars were freed from the snow, we simply waited for the all-clear to depart.
 
 At last, we were told we could leave. After heartfelt thanks, handshakes, and promises to return—but only at the end of winter, with the snow safely gone—we set off.
 
@@ -51,47 +55,35 @@ Driving with great caution, we reached the first narrow passage between towering
 
 The long-awaited ski week had come to an end, and I was satisfied. In fact, since the week had turned into two, I was “doubly” satisfied…
 
+![A car buried in snow at Gaver](/assets/img/18.png)
+
 ## The little Red Cross nurse
 
 Who is the “little Red Cross nurse”? I’ll tell you right away: she’s my sister-in-law, Mariangela. She simply had to be included in the book of my memories. If I were to recount everything about her, I’d need a separate volume, but here I will limit myself to one episode that, on its own, describes her perfectly.
 
-Distinguishing trait: “sûlevada” — in Italian sollevata, meaning absent-minded or scatterbrained — as my mother-in-law used to call her, and not without reason.
+Distinguishing trait: “sûlevada” — in Italian sollevata, meaning absent-minded or scatterbrained — as my mother-in-law used to call her, and not without reason. In reality, Mariangela is a sweet, kind-hearted girl, always ready to help anyone in need, incredibly generous, with the true spirit of a Red Cross nurse.
 
-In reality, Mariangela is a sweet, kind-hearted girl, always ready to help anyone in need, incredibly generous, with the true spirit of a Red Cross nurse. Indeed, she enrolled in a course at the Monza Red Cross and earned her Red Cross nurse certification. This required, among other things, attending regular refresher courses.
+Indeed, she enrolled in a course at the Monza Red Cross and earned her Red Cross nurse certification. This required, among other things, attending regular refresher courses.
 
 For this reason, she decided to take part in a series of first-aid training sessions organized by the Red Cross in Monza. She even managed to convince her sister — now my wife — and a colleague to join her. A good start… or so it seemed.
 
 Already at the very first meeting, they arrived late. A mechanical problem forced Mariangela to park the car nearby and reach the venue on foot. The three of them arrived out of breath, just as the session had already begun. Mariangela led the trio.
 
-She opened the door to the central aisle, which let out a loud creak, drawing the attention of the roughly three hundred people present: schoolteachers, local police officers, firefighters, policemen, and others. She walked a few steps quickly, made a hurried genuflection, and stood up doing the sign of the Cross. That gesture triggered a roar of laughter from the audience, which took quite some time to settle down.
+She opened the door to the central aisle, which let out a loud creak, drawing the attention of the roughly three hundred people present: schoolteachers, local police officers, firefighters, policemen, and others.
 
-Mariangela wished she could vanish into thin air; she blushed as red as a beet and felt faint with embarrassment. Certainly, had she actually fainted, there would have been no shortage of immediate medical assistance! In utter embarrassment, the trio finally reached their seats.
+She walked a few steps quickly, made a hurried genuflection, and stood up doing the sign of the Cross. That gesture triggered a roar of laughter from the audience, which took quite some time to settle down.
+
+Mariangela wished she could vanish into thin air; she blushed as red as a beet and felt faint with embarrassment. Certainly, had she actually fainted, there would have been no shortage of immediate medical assistance!
+
+In utter embarrassment, the trio finally reached their seats.
 
 ## The sweater
 
-I had been working in Vimercate for about two years. During the first six months, I had rented a room in a boarding house near the tram station for Milan. Later, as my department was moved to Vimodrone, I decided to leave the boarding house and return to Brescia, even though it meant commuting by train every day.
+I had been working in Vimercate for about two years. During the first six months, I had rented a room in a boarding house near the tram station for Milan. Later, as my department was moved to Vimodrone, I decided to leave the boarding house and return to Brescia, even though it meant commuting by train every day. After a year, that commute began to wear me down. Three hours on the train when everything went smoothly; but there were also strikes to deal with, and the need to work overtime when deadlines could not be postponed. It became an unbearable situation. That’s when my fiancée—now my wife—and my sister-in-law managed to find a room for rent in Vimercate. I was delighted, but when I moved in, I discovered that the room had to be shared with another person.
 
-After a year, that commute began to wear me down. Three hours on the train when everything went smoothly; but there were also strikes to deal with, and the need to work overtime when deadlines could not be postponed. It became an unbearable situation.
+Not the nicest surprise. I had already paid a deposit, so I tried to adapt while waiting to find something better. The room was shared with a Neapolitan who had recently moved there and worked as a postman. He was cheerful and pleasant, but I quickly understood it was wise to keep a little distance. We even shared the wardrobe. One day, wanting to visit my fiancée and present myself looking neat, I searched for my dress shirt — the one for special occasions. Nothing. It had disappeared. Clearly, my roommate had taken it. In the wardrobe, however, I noticed a burgundy sweater with white patterns — neatly folded, new, with the price tag still attached. Without giving it a second thought, without hesitation, I put it on. All that was left was to run to Piera’s house and surprise her. Even I, who had no particular sense of style, thought the sweater looked downright kitschy — gaudy, tacky, cheap.
 
-That’s when my fiancée—now my wife—and my sister-in-law managed to find a room for rent in Vimercate. I was delighted, but when I moved in, I discovered that the room had to be shared with another person. Not the nicest surprise. I had already paid a deposit, so I tried to adapt while waiting to find something better.
-
-The room was shared with a Neapolitan who had recently moved there and worked as a postman. He was cheerful and pleasant, but I quickly understood it was wise to keep a little distance. We even shared the wardrobe.
-
-One day, wanting to visit my fiancée and present myself looking neat, I searched for my dress shirt — the one for special occasions. Nothing. It had disappeared. Clearly, my roommate had taken it.
-
-In the wardrobe, however, I noticed a burgundy sweater with white patterns — neatly folded, new, with the price tag still attached. Without giving it a second thought, without hesitation, I put it on. All that was left was to run to Piera’s house and surprise her.
-
-Even I, who had no particular sense of style, thought the sweater looked downright kitschy — gaudy, tacky, cheap.
-
-When I arrived at Piera’s house, I stepped out of my Dyane with the confident air of someone who thinks he looks great.
-
-Piera welcomed me with her usual lovely smile, but the closer I got, the more that smile faded, giving way to an expression of disbelief — even a slightly threatening seriousness. A barrage of questions followed: “Where did you buy it?” “When did you buy it?” “How much did you pay for it?” And so on…
-
-I’m sure the most important question — even if unspoken — was: “How dare you, without my permission?” In the end, she gave a firm, unquestionable order: “Take it back immediately!”
-
-I tried explaining that it had been a good opportunity, that the sweater wasn’t so bad; I invented excuses, but she would have none of it. After endless minutes of pretending and exchanging comments, I finally explained what had really happened, and everything was resolved.
-
-As for the Neapolitan, when I told him that, not finding my shirt, I had worn his sweater, he replied with amusement: “Va-bbuono, guagliò!” (“All right, kid!”)
+When I arrived at Piera’s house, I stepped out of my Dyane with the confident air of someone who thinks he looks great. Piera welcomed me with her usual lovely smile, but the closer I got, the more that smile faded, giving way to an expression of disbelief — even a slightly threatening seriousness. A barrage of questions followed: “Where did you buy it?” “When did you buy it?” “How much did you pay for it?” And so on… I’m sure the most important question — even if unspoken — was: “How dare you, without my permission?” In the end, she gave a firm, unquestionable order: “Take it back immediately!” I tried explaining that it had been a good opportunity, that the sweater wasn’t so bad; I invented excuses, but she would have none of it. After endless minutes of pretending and exchanging comments, I finally explained what had really happened, and everything was resolved. As for the Neapolitan, when I told him that, not finding my shirt, I had worn his sweater, he replied with amusement: “Va-bbuono, guagliò!” (“All right, kid!”)
 
 ## A beautiful day
 

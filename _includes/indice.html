@@ -3,6 +3,9 @@
 {%- assign t = site.data.testi[include.lang] -%}
 {%- if include.lang == "bag" -%}{%- assign elenco = site.chapters | sort: "order" -%}{%- else -%}{%- assign elenco = site[lingua.collezione] | sort: "order" -%}{%- endif -%}
 <ol class="indice">
+{%- if include.lang == "bag" %}
+  <li class="indice-lettura"><a href="{{ '/bag/lettura/' | relative_url }}">{{ t.come_si_legge }}</a></li>
+{%- endif -%}
 {%- for c in elenco -%}
   {%- if include.lang == "bag" -%}
     {%- assign tr = site.chapters_bag | where: "slug", c.slug | first -%}

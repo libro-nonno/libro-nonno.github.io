@@ -7,13 +7,9 @@ Who would have thought it? Even at the age of 65, one can become a singer-song w
 
 Linda and Paul had just gotten married in May 2014 in Richmond, England, with a civil ceremony reserved for close relatives. The main celebration, with many friends and extended family, would be held later in Italy — in the church of our village, in August — followed by the wedding lunch in Oreno.
 
-During the preparations, Linda told me something unexpected:
+During the preparations, Linda told me something unexpected: “I don’t know if I ever mentioned it, but as father of the bride, English guests will expect you to give a speech, according to their tradition.”
 
-“I don’t know if I ever mentioned it, but as father of the bride, English guests will expect you to give a speech, according to their tradition.”
-
-No, she had never mentioned it. But at that point, the stone had been thrown — and she knew I couldn’t back out.
-
-A speech, in English, in front of about 250 guests! I was a bit worried. Where does one even begin when preparing a wedding speech?
+No, she had never mentioned it. But at that point, the stone had been thrown — and she knew I couldn’t back out. A speech, in English, in front of about 250 guests! I was a bit worried. Where does one even begin when preparing a wedding speech?
 
 I decided to look for inspiration on the internet, but nothing truly suited me. All the examples were full of clichés, stock phrases, and exaggerated sentiments. The more I searched, the more my apprehension grew.
 
@@ -35,18 +31,14 @@ I took the microphone and announced to the guests that, instead of giving the tr
 
 I looked toward Linda and Paul to catch their reactions: Paul and his parents seemed pleasantly surprised; Linda, unaware of everything, showed an expression I will never forget — a mix of surprise, disbelief, bewilderment, and utter confusion. She seemed to be thinking: “What is he talking about? What has he done now?”
 
-After that brief introduction, I invited the musicians and singers to join me. A few guitar notes set the rhythm, and the choir began:
+After that brief introduction, I invited the musicians and singers to join me. A few guitar notes set the rhythm, and the choir began: “Love is in the air, love is everywhere…”
 
-“Love is in the air, love is everywhere…”
-
-![Grandpa singing into the microphone next to the guitarist at the wedding reception](/assets/img/25.png)
-
-Linda couldn’t hold back a few tears of emotion.
-
-The song ended with the words: “… All together we wish you happiness,” followed by a warm round of applause from all the guests.
+Linda couldn’t hold back a few tears of emotion. The song ended with the words: “… All together we wish you happiness,” followed by a warm round of applause from all the guests.
 
 It’s truly the case to say: A perfect first take! Which also remained the only one…
 
 <div class="note" markdown="1">
 My heartfelt thanks to everyone who contributed to the performance of the song: Riccardo and Filippo for the musical arrangement; and for the choir. — Anna, Chiara, Marco, Mario, Paola, Martina, Penny, Graziella, Riccardo, Antonio, Mariangela, Piera, Silvia, Filippo, Camilla and Giacomo.
 </div>
+
+![Grandpa singing into the microphone next to the guitarist at the wedding reception](/assets/img/25.png)

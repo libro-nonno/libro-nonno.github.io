@@ -105,5 +105,4 @@ soddisfazione.
 ![Acquerello del vecchio cortile, la Curt di Gambitt](/assets/img/19.png)
 
 La vecchia Curt di Gambitt
-
 {: .caption}

@@ -13,6 +13,13 @@ layout: base
 {%- if i > 0 -%}{%- assign ip = i | minus: 1 -%}{%- assign prec = capitoli[ip] -%}{%- endif -%}
 {%- assign is = i | plus: 1 -%}{%- if is < capitoli.size -%}{%- assign succ = capitoli[is] -%}{%- endif -%}
 
+<div class="barra-lettura" id="barra-lettura" inert>
+  <div class="barra-riga">
+    <a class="barra-titolo" href="#top" title="{{ page.title }}">{{ page.title }}</a>
+    {% include lingue.html lang=page.lang t=t t_html=lingua.html %}
+  </div>
+</div>
+
 <article class="capitolo">
   <h1 class="capitolo-titolo">{{ page.title }}</h1>
   {% if page.lang == "bag" %}<p class="avviso">{{ t.nota_bag }}</p>{% endif %}

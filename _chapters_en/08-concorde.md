@@ -19,9 +19,7 @@ The second episode occurred in July 2000. Returning from a business trip, I was 
 
 ## At Duxford museum
 
-My last memory dates back to 2015, when I visited the Imperial War Museum in Duxford, near Cambridge, in Great Britain. A former colleague of my brother Flavio had organized a guided tour for retired colleagues who had worked on the Concorde for many years.
-
-The museum hosts an extensive collection of aircraft, but the Concorde is unquestionably the star. Its sleek, tapered shape, elegant wings, and the “droop nose” that lowers like the beak of a bird of prey make it instantly recognizable.
+My last memory dates back to 2015, when I visited the Imperial War Museum in Duxford, near Cambridge, in Great Britain. A former colleague of my brother Flavio had organized a guided tour for retired colleagues who had worked on the Concorde for many years. The museum hosts an extensive collection of aircraft, but the Concorde is unquestionably the star. Its sleek, tapered shape, elegant wings, and the “droop nose” that lowers like the beak of a bird of prey make it instantly recognizable.
 
 After a brief introduction, the guide invited us aboard. Setting foot on such a legendary aircraft was a powerful emotion; even more extraordinary was the chance to sit in the cockpit, in the seat of one of the two pilots — an unforgettable experience.
 
