@@ -67,7 +67,7 @@ Töt end’ön momént, él sìto che gh’érä én sàlä pèr önä sénä d�
 
 Sé, önä fòrte patonàdä, sénsä spetàslä, l’àä rótä tötä lä tensiù caözàdä dèlä sénä e töcc i spetädùr  i-é s-ciopé ä sgregnà. Flaviano l’érä stà l’äotùr, ma, cón fa dä sgregnàc-sö e cón càlmä, èl sé gerà äbelàze vèrs lé pärsùne säntàde-zö dedré dé èl comià che él ciàs èl fös ignì dä gliò. Cón chèl sègn, èl èl compärìä comià ch’èl ghès mìä cùlpä e, dä balòs, èl fàä ì lä cùlpä ä lä pärsùnä säntadä-zö dedré dé èl. Robertino, ch’èl s’érä säntì ensegnà d’ön detòrt, l’à reägì defàt e èl sé mätì ä ostià cùträ Flaviano. Sum mìä reé ä cäpì bé che parolàse ch’èl gà dét pèr él ciàs dèle sgregnàde che i-à fädegà ä smorsàs. I-é päsé mis prömä che i du i sé parlàäs e i tornàäs ä sälödàs.
 
-## Él laureäà
+## Él laureà
 
 Él mé frädél Graziano, dòpo él lecéo clàsek, èl s’érä notà ä lä facoltà dé “Lètre e Felosofìä” ä l’Oniversità Catòlekä dé Melà. L’érä reà ä ìk önä bùrsä dé stüdio e, gràsie ä chèlä, l’à pödì na äl colégio Augustinianum, äpé ä lä piàsä S. Ambrogio. Pèr tignì él pòst, meàä dà töcc i ezàm dèl an e tignì önä mediä dé vóti altä. Graziano l’àä stäbilì dä ciapà lä làurä e l’é reà ä iglä sénsä ì mài fälì ön ezàm.
 
