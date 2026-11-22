@@ -20,16 +20,14 @@ La vocale su cui cade la voce porta l'accento, quando serve a leggere bene la pa
 
 | Segno | Come si legge | Esempi |
 |---|---|---|
-| **a, i, u** | come in italiano | <span lang="lmo">agn</span> (anni), <span lang="lmo">fés</span> (molto) |
+| **a, i, u** | come in italiano (anche *ù* accentata: <span lang="lmo">ùrä</span>, ora) | <span lang="lmo">agn</span> (anni), <span lang="lmo">fés</span> (molto) |
 | **ä** | una *a* chiusa, quasi una *e* molto aperta, come nell'italiano *gèrla*; è sempre senza accento | <span lang="lmo">lä cä</span> (la casa), <span lang="lmo">fämìä</span> (famiglia) |
 | **e** senza accento | chiusa, come in *metallo* | <span lang="lmo">entàt</span> (intanto) |
 | **é, ó** | chiuse e accentate, come in *sdegno*, *gondola* | <span lang="lmo">pärché</span> (perché), <span lang="lmo">mónt</span> (mondo) |
 | **è, ò** | aperte e accentate, come in *sèrpe*, *pòsta* | <span lang="lmo">tèp</span> (tempo), <span lang="lmo">pòst</span> (posto) |
 | **o** senza accento | chiusa, come in *coltello* | <span lang="lmo">polìto</span> (bene, pulito) |
-| **ö** | come *eu* in francese; senza accento | <span lang="lmo">zögà</span> (giocare), <span lang="lmo">trädösiù</span> (traduzione) |
-| **ő** | la stessa *ö*, ma accentata | <span lang="lmo">lőbär</span> (libro), <span lang="lmo">ciőr</span> (cuore) |
-| **ü** | come *u* in francese; senza accento | <span lang="lmo">sücedì</span> (successo) |
-| **ű** | la stessa *ü*, ma accentata | <span lang="lmo">műr</span> (muro), <span lang="lmo">negiű</span> (nessuno) |
+| **ö** | come *eu* in francese; senza accento, anche quando la voce cade su di lei | <span lang="lmo">zögà</span> (giocare), <span lang="lmo">löbär</span> (libro), <span lang="lmo">ciör</span> (cuore) |
+| **ü** | come *u* in francese; senza accento, anche quando la voce cade su di lei | <span lang="lmo">sücedì</span> (successo), <span lang="lmo">mür</span> (muro), <span lang="lmo">negiü</span> (nessuno) |
 
 </div>
 
